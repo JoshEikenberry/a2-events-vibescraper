@@ -1,8 +1,8 @@
 # Upcoming Events -- Ann Arbor Area
 
-*Last updated: February 14, 2026 at 12:27 AM*
+*Last updated: February 14, 2026 at 8:30 AM*
 
-*597 event(s) from 4 source(s)*
+*604 event(s) from 4 source(s)*
 
 ---
 
@@ -64,6 +64,14 @@
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cocktail-and-food-pairing-experience/22788/)
 
+### Comedian: Amber Preston
+
+- **Time:** All day
+- **Venue:** Valentine&apos;s Day
+- **Description:** 02/12/2026 to 02/14/2026 - Amber Preston is an actor, comedian, and producer with 15 years of stand-up experience and national commercial credits for Buffalo Wild Wings, Comcast, and more Midwest i...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/comedian%3a-amber-preston/22471/)
+
 ### Creating the Future of Medicine for 175 Years
 
 - **Time:** All day
@@ -79,6 +87,14 @@
 - **Description:** 02/14/2026 to 02/14/2026 - Don't miss the Cumbia Love Valentine's weekend fiesta!
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cumbia-love/23068/)
+
+### Doubt, A Parable
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 02/12/2026 to 02/21/2026 - Doubt, A Parable follows Sister Aloysius, a stern nun running a Bronx Catholic school in 1964, who suspects their charismatic priest, Father Flynn, could be abusing boys ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/doubt-a-parable/22843/)
 
 ### Emo Night Brooklyn
 
@@ -127,6 +143,22 @@
 - **Description:** 02/14/2026 to 02/14/2026 - Spend your Valentine&apos;s Day with Isis Damil! Isis Damil is a Detroit-bred singer-songwriter whose artistry lives at the intersection of soul, spirituality, and self-d...
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/isis-damil/22913/)
+
+### Kayak by Jordan Hall
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 01/30/2026 to 02/22/2026 - Theatre NOVA presents:Kayakby Jordan HallJanuary 30 - February 22, 2026&#x200B;How high&#x2019;s the water, Mama? Alone on a vast stretch of water, Annie Iversen recounts...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/kayak-by-jordan-hall/22564/)
+
+### Latin Fridays
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** Starting 11/02/2024 - DJ Santarosa &amp; other guest Dj&#x2019;s playing a mix of m&#xFA;sica urbana, bachata, reggaeton, &amp; new Latin hits. Drink specials all night, with kitchen downstairs ope...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/latin-fridays/17107/)
 
 ### Lucky 17
 
@@ -184,6 +216,14 @@
 - **Tags:** Sporting Event
 - **Source:** [U-M](http://events.umich.edu/event/143666)
 
+### The Classic King
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 01/29/2026 to 03/07/2026 - A World Premiere by Richard Johnson. Directed by Jeff Daniels. In paying tribute to timeless automobiles, The Classic King paints a comic and heartbreaking portrait of th...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-classic-king/21112/)
+
 ### The Dinner Detective True Crime Murder Mystery Dinner Show
 
 - **Time:** All day
@@ -192,6 +232,14 @@
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-dinner-detective-true-crime-murder-mystery-dinner-show/22810/)
 
+### The Smoke, the Ghost, the Balm at Cluster Museum
+
+- **Time:** All day
+- **Venue:** Art
+- **Description:** 01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/)
+
 ### U-M Museum of Natural History Planetarium & Dome Theater: Expedition Reef
 
 - **Time:** All day
@@ -199,6 +247,14 @@
 - **Description:** 01/24/2026 to 02/28/2026 - Learn the secrets of the &#x201C;rainforests of the sea&#x201D; as you embark on an oceanic safari of the world&#x2019;s most vibrant&#x2014;and endangered&#x2014;marine ...
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/u-m-museum-of-natural-history-planetarium-%26-dome-theater%3a-expedition-reef/22633/)
+
+### Valentine's at Echelon
+
+- **Time:** All day
+- **Venue:** Valentine&apos;s Day
+- **Description:** 02/13/2026 to 02/14/2026 - Love is rare. A meal that manages to encapsulate that feeling might be even rarer. The truth? You can stop looking for the perfect place to take your loved one for Valent...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-at-echelon/22973/)
 
 ### Valentine's Day at Bløm
 
