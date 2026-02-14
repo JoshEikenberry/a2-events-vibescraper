@@ -8,6 +8,7 @@ from itertools import groupby
 from pathlib import Path
 
 from vibescraper.models import Event
+from vibescraper.html_calendar import render_calendar_html
 
 logger = logging.getLogger(__name__)
 
@@ -177,17 +178,18 @@ def publish(
     events: list[Event],
     archive: list[Event],
     output_dir: Path | None = None,
-) -> tuple[Path, Path]:
-    """Write EVENTS.md and ARCHIVE.md to the output directory.
+) -> tuple[Path, Path, Path]:
+    """Write EVENTS.md, ARCHIVE.md, and calendar.html to the output directory.
 
     Returns:
-        Tuple of (events_path, archive_path).
+        Tuple of (events_path, archive_path, calendar_path).
     """
     out = output_dir or DEFAULT_OUTPUT_DIR
     out.mkdir(parents=True, exist_ok=True)
 
     events_path = out / "EVENTS.md"
     archive_path = out / "ARCHIVE.md"
+    calendar_path = out / "calendar.html"
 
     events_md = render_events(events)
     events_path.write_text(events_md, encoding="utf-8")
@@ -197,7 +199,11 @@ def publish(
     archive_path.write_text(archive_md, encoding="utf-8")
     logger.info("Wrote %s (%d events)", archive_path, len(archive))
 
-    return events_path, archive_path
+    calendar_html = render_calendar_html(events)
+    calendar_path.write_text(calendar_html, encoding="utf-8")
+    logger.info("Wrote %s (%d events)", calendar_path, len(events))
+
+    return events_path, archive_path, calendar_path
 
 
 # ------------------------------------------------------------------

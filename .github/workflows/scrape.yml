@@ -29,6 +29,7 @@ jobs:
           mkdir -p docs
           cp output/EVENTS.md docs/index.md
           cp output/ARCHIVE.md docs/archive.md
+          cp output/calendar.html docs/calendar.html
 
       - name: Commit and push
         run: |

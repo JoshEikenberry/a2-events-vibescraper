@@ -100,12 +100,14 @@ def run(ctx: click.Context) -> None:
     s = store.stats()
     click.echo(f"Store: {s['current_events']} current, {s['archived_events']} archived.")
 
-    # Publish Markdown
+    # Publish Markdown & HTML
     output_dir = ctx.obj["output_dir"]
-    events_path, archive_path = publish(
+    events_path, archive_path, calendar_path = publish(
         store.load_events(), store.load_archive(), output_dir=output_dir
     )
-    click.echo(f"\nPublished: {events_path} | {archive_path}")
+    click.echo(f"\nPublished: {events_path}")
+    click.echo(f"Published: {archive_path}")
+    click.echo(f"Published: {calendar_path}")
 
 
 @cli.command("list-sources")
@@ -125,32 +127,34 @@ def list_sources() -> None:
 @cli.command("publish")
 @click.pass_context
 def publish_cmd(ctx: click.Context) -> None:
-    """Regenerate EVENTS.md and ARCHIVE.md from the store (no scraping)."""
+    """Regenerate EVENTS.md, ARCHIVE.md, and calendar.html from the store (no scraping)."""
     store: EventStore = ctx.obj["store"]
     output_dir = ctx.obj["output_dir"]
-    events_path, archive_path = publish(
+    events_path, archive_path, calendar_path = publish(
         store.load_events(), store.load_archive(), output_dir=output_dir
     )
     s = store.stats()
     click.echo(f"Published: {events_path} ({s['current_events']} events)")
     click.echo(f"Published: {archive_path} ({s['archived_events']} archived)")
+    click.echo(f"Published: {calendar_path} ({s['current_events']} events)")
 
 
 @cli.command()
 @click.pass_context
 def archive(ctx: click.Context) -> None:
-    """Manually archive past events and republish Markdown."""
+    """Manually archive past events and republish Markdown & HTML."""
     store: EventStore = ctx.obj["store"]
     count = store.archive_past_events()
     click.echo(f"Archived {count} event(s).")
 
     output_dir = ctx.obj["output_dir"]
-    events_path, archive_path = publish(
+    events_path, archive_path, calendar_path = publish(
         store.load_events(), store.load_archive(), output_dir=output_dir
     )
     s = store.stats()
     click.echo(f"Published: {events_path} ({s['current_events']} events)")
     click.echo(f"Published: {archive_path} ({s['archived_events']} archived)")
+    click.echo(f"Published: {calendar_path} ({s['current_events']} events)")
 
 
 @cli.command()
