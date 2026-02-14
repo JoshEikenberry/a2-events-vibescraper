@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68.0", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vibescraper"
+version = "0.1.0"
+description = "Scrape and unify public event calendars across Ann Arbor, MI into a single Markdown document."
+requires-python = ">=3.10"
+dependencies = [
+    "click>=8.0",
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.4",
+]
+js = [
+    "playwright>=1.40",
+]
+
+[project.scripts]
+vibescraper = "vibescraper.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,10 @@
+click>=8.0
+httpx>=0.27
+beautifulsoup4>=4.12
+
+[dev]
+pytest>=8.0
+ruff>=0.4
+
+[js]
+playwright>=1.40
