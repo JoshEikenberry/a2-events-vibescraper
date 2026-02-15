@@ -1,20 +1,12 @@
 # Upcoming Events -- Ann Arbor Area
 
-*Last updated: February 14, 2026 at 8:30 AM*
+*Last updated: February 15, 2026 at 8:31 AM*
 
-*604 event(s) from 4 source(s)*
+*593 event(s) from 4 source(s)*
 
 ---
 
-## Saturday, February 14, 2026
-
-### A Candelit Valentine with R. MacKenzie Lewis & Friends
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Join for a magical candlelit Valentine&#x2019;s Day performance celebrating the spectrum of love! Experience reimagined arrangements of timeless romantic classics, nostal...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/a-candelit-valentine-with-r-mackenzie-lewis-%26-friends/22606/)
+## Sunday, February 15, 2026
 
 ### Ann Arbor Model Railroad Club 56th Annual Train Show and Sale
 
@@ -24,635 +16,13 @@
 - **Tags:** Community
 - **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/ann-arbor-model-railroad-club-56th-annual-train-show-and-sale/22902/)
 
-### Be Our Valentine—at Zingerman’s Greyline!
+### Around the Kitchen Table with Peace House Ypsi- Free Brunch!
 
 - **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - What&#x2019;s better than a hand-decorated box stuffed full of punny grocery store Valentine&#x2019;s? A special dinner at a romantic, historical venue in downtown Ann Ar...
+- **Venue:** Food
+- **Description:** 02/15/2026 to 02/15/2026 - Join us at Growing Hope's Market Place Hall for our monthly free brunch and community building event. Free to everyone- we always have omni, vegan and gluten-free options.
 - **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/be-our-valentine%e2%80%94at-zingerman%e2%80%99s-greyline!/22650/)
-
-### Bike Repair Hours
-
-- **Time:** 12:00 AM - 11:59 PM
-- **Venue:** Duderstadt Fabrication Underground
-- **Description:** Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...
-- **Tags:** Other
-- **Source:** [U-M](http://events.umich.edu/event/145016)
-
-### Blush Drag Show
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Join us February 14th for BLUSH, a drag show that will make you BLUSH! A night of entertainment and drag insanity, hosted by Blonski and Portia Lynn!Blush is Ann Arbor&#x...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/blush-drag-show/22966/)
-
-### Buckeye Blast 2026
-
-- **Time:** 12:00 AM - 11:59 PM
-- **Venue:** Ohio Expo Center & State Fair- Voinovich Livestock and Trade Center
-- **Description:** The Buckeye Blast is Club Gymnastics regional competition this season! We are so excited to see both our men's and women's team compete!
-- **Tags:** Sporting Event
-- **Source:** [U-M](http://events.umich.edu/event/141933)
-
-### Cocktail and Food Pairing Experience
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Discover the art of the perfect match at Water Tower Distilling Co.&#x2019;s Cocktail and Food Pairing Class. Held in our beautiful, historic Tasting Room in downtown Yps...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cocktail-and-food-pairing-experience/22788/)
-
-### Comedian: Amber Preston
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/12/2026 to 02/14/2026 - Amber Preston is an actor, comedian, and producer with 15 years of stand-up experience and national commercial credits for Buffalo Wild Wings, Comcast, and more Midwest i...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/comedian%3a-amber-preston/22471/)
-
-### Creating the Future of Medicine for 175 Years
-
-- **Time:** All day
-- **Venue:** University of Michigan
-- **Description:** 12/13/2025 to 04/26/2026 - In honor of the 175th anniversary of the opening of the U-M Medical School, this exhibit features artifacts, photos, facts and documents from across the history of U-M me...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/creating-the-future-of-medicine-for-175-years/22360/)
-
-### Cumbia Love
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Don't miss the Cumbia Love Valentine's weekend fiesta!
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cumbia-love/23068/)
-
-### Doubt, A Parable
-
-- **Time:** All day
-- **Venue:** Theaters and Performing Arts
-- **Description:** 02/12/2026 to 02/21/2026 - Doubt, A Parable follows Sister Aloysius, a stern nun running a Bronx Catholic school in 1964, who suspects their charismatic priest, Father Flynn, could be abusing boys ...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/doubt-a-parable/22843/)
-
-### Emo Night Brooklyn
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Welcome to Emo Night Brooklyn, a late-night, DJ-driven dance party blasting the best emo and pop punk jams that raised us, ruined us, and somehow still define us. We&#x20...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/emo-night-brooklyn/22912/)
-
-### Film Screening and Q&A | The 63rd Ann Arbor Film Festival Touring Program
-
-- **Time:** All day
-- **Venue:** Film
-- **Description:** 02/14/2026 to 02/14/2026 - Join us for a screening of eight award-winning experimental, documentary, animation, narrative, and hybrid short films from the 62nd Ann Arbor Film Festival. After the sc...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/film-screening-and-q%26a-%7c-the-63rd-ann-arbor-film-festival-touring-program/22901/)
-
-### Frequency Saturdays
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** Starting 01/11/2025 - Welcome to Frequency Saturdays, the hottest weekly nightclub experience in Michigan! Get ready to immerse yourself in a world of non-stop entertainment, where the music is alw...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/frequency-saturdays/14429/)
-
-### I Love you Swan
-
-- **Time:** All day
-- **Venue:** Art
-- **Description:** 02/14/2026 to 02/14/2026 - Adults only paint party at Carrigan Cafe where you create and celebrate with someone you love or maybe just your bestie! Welcome lovebirds! Come join at Carrigan Cafe for...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/i-love-you-swan/22879/)
-
-### Indoor Winter Farmers Market
-
-- **Time:** All day
-- **Venue:** Shopping
-- **Description:** 11/15/2025 to 03/28/2026 - Our Winter Farmers Market is a place to slow down, warm up, and reconnect. Inside, you&#x2019;ll find fresh local produce, handcrafted goods, hot food, and the kind of ne...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/indoor-winter-farmers-market/22155/)
-
-### Isis Damil
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Spend your Valentine&apos;s Day with Isis Damil! Isis Damil is a Detroit-bred singer-songwriter whose artistry lives at the intersection of soul, spirituality, and self-d...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/isis-damil/22913/)
-
-### Kayak by Jordan Hall
-
-- **Time:** All day
-- **Venue:** Theaters and Performing Arts
-- **Description:** 01/30/2026 to 02/22/2026 - Theatre NOVA presents:Kayakby Jordan HallJanuary 30 - February 22, 2026&#x200B;How high&#x2019;s the water, Mama? Alone on a vast stretch of water, Annie Iversen recounts...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/kayak-by-jordan-hall/22564/)
-
-### Latin Fridays
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** Starting 11/02/2024 - DJ Santarosa &amp; other guest Dj&#x2019;s playing a mix of m&#xFA;sica urbana, bachata, reggaeton, &amp; new Latin hits. Drink specials all night, with kitchen downstairs ope...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/latin-fridays/17107/)
-
-### Lucky 17
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - With roots spanning from Texas, North Carolina, and all the way to Canada, Lucky 17 has forged a unique new musical offering here in Michigan. Singer-songwriters Ed Dupas...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/lucky-17/22406/)
-
-### Lunar Love with Danny Koo: A Lunar New Year & Valentine's Day Celebration
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Violinist and vocalist Danny Koo co-designs a special Valentine&#x2019;s Day and Lunar New Year-themed concert, featuring Prokofiev&#x2019;s Romeo &amp; Juliet Suite, Li ...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/lunar-love-with-danny-koo%3a-a-lunar-new-year-%26-valentines-day-celebration/20755/)
-
-### Michigan Twang: Americana & Country Music Showcase
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Enjoy live music at The blind Pig featuring Michigan Twang: Americana &amp; Country Music Showcase with Dave Fio &amp; Company, Killer is Me, and The Feisty Birds.
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/michigan-twang%3a-americana-%26-country-music-showcase/22885/)
-
-### On A Winter's Night at The Ark
-
-- **Time:** All day
-- **Venue:** Concerts &amp; Music
-- **Description:** 02/14/2026 to 02/14/2026 - Presenting the 2026 Reunion Tour of &#x201C;On A Winter&#x2019;s Night&#x201D; from veteran singer-songwriters that remain among the brightest stars of the singer-songwri...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/on-a-winters-night-at-the-ark/22845/)
-
-### Saline Indoor Farmers Market
-
-- **Time:** All day
-- **Venue:** Shopping
-- **Description:** 01/10/2026 to 04/25/2026 - Since 2017, the Saline Indoor Winter Farmers Market has been supplying the area with fresh produce, meat, poultry, eggs, cheese, baked goods, holiday gifts and high-quali...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/saline-indoor-farmers-market/22556/)
-
-### Saturday Night Improv feat. Destination Unknown
-
-- **Time:** All day
-- **Venue:** Comedy
-- **Description:** 01/10/2026 to 02/28/2026 - Experience a day in the lives of a brand new hilarious cast of characters each week with Destination Unknown! The audience picks the setting, and our house troupe creates...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/saturday-night-improv-feat-destination-unknown/22570/)
-
-### Southern Collegiate Offshore Regatta
-
-- **Time:** 12:00 AM - 11:59 PM
-- **Venue:** College of Charleston
-- **Description:** Keelboat regatta in Charleston, SC
-- **Tags:** Sporting Event
-- **Source:** [U-M](http://events.umich.edu/event/143666)
-
-### The Classic King
-
-- **Time:** All day
-- **Venue:** Theaters and Performing Arts
-- **Description:** 01/29/2026 to 03/07/2026 - A World Premiere by Richard Johnson. Directed by Jeff Daniels. In paying tribute to timeless automobiles, The Classic King paints a comic and heartbreaking portrait of th...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-classic-king/21112/)
-
-### The Dinner Detective True Crime Murder Mystery Dinner Show
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - North America&#x2019;s largest award-winning interactive true crime murder mystery dinner show invites you into a night of laughter, mystery, and audience-driven intrigue...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-dinner-detective-true-crime-murder-mystery-dinner-show/22810/)
-
-### The Smoke, the Ghost, the Balm at Cluster Museum
-
-- **Time:** All day
-- **Venue:** Art
-- **Description:** 01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/)
-
-### U-M Museum of Natural History Planetarium & Dome Theater: Expedition Reef
-
-- **Time:** All day
-- **Venue:** University of Michigan
-- **Description:** 01/24/2026 to 02/28/2026 - Learn the secrets of the &#x201C;rainforests of the sea&#x201D; as you embark on an oceanic safari of the world&#x2019;s most vibrant&#x2014;and endangered&#x2014;marine ...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/u-m-museum-of-natural-history-planetarium-%26-dome-theater%3a-expedition-reef/22633/)
-
-### Valentine's at Echelon
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/13/2026 to 02/14/2026 - Love is rare. A meal that manages to encapsulate that feeling might be even rarer. The truth? You can stop looking for the perfect place to take your loved one for Valent...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-at-echelon/22973/)
-
-### Valentine's Day at Bløm
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - We&#x2019;ll be celebrating Valentine&#x2019;s Day at Bl&#xF8;m with a bakery pop-up from Fragola Forno and a mountain of fresh local flowers! Ann Arbor&#x2019;s Raindanc...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-at-bl%c3%b8m/22681/)
-
-### Valentine's Day at Launch
-
-- **Time:** All day
-- **Venue:** Family Fun
-- **Description:** 02/14/2026 to 02/14/2026 - Love is in the air at Launch! Looking for a fun way to celebrate Valentine&apos;s Day with your Boo? We got you! Join us Saturday, February 14th for an UNFORGETTABLE Vale...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-at-launch/22791/)
-
-### Valentine's Day Brunch
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Celebrate Valentine&#x2019;s Day with a delicious brunch at Lake Forest Golf Club on Saturday, February 14, from 10:00 AM&#x2013;2:00 PM. This festive brunch is open to e...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-brunch/22505/)
-
-### Valentine's Day Dinner at The Grateful Crow
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Celebrate love with a dreamy Valentine&#x2019;s Day menu. They have delectable specials specifically for the occasion so you can celebrate in style. Call for reservations...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-dinner-at-the-grateful-crow/22887/)
-
-### Valentine's Day Face Painting
-
-- **Time:** All day
-- **Venue:** Family Fun
-- **Description:** 02/14/2026 to 02/14/2026 - Come play on Valentine&apos;s Day and get your face painted while you&apos;re here! Ashley will be available for some valentine&apos;s day face creations from 1:30-3pm. T...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-face-painting/22950/)
-
-### Valentine's Day Singles Mixer
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Cupid called &#x2014; he&#x2019;s outsourcing this year &#x1F498;Join us for our Valentine&#x2019;s Day Singles Mixer, a flirty, low-pressure night to meet someone new (o...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-singles-mixer/23011/)
-
-### Valentine's Day Special
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - For Valentine&apos;s day spoil your best beloved with a little treat you guys have been asking for forever -- a tasting menu of four little mini cocktails, along with a g...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-special/22964/)
-
-### Valentines Day at Pacific Rim
-
-- **Time:** All day
-- **Venue:** Valentine&apos;s Day
-- **Description:** 02/14/2026 to 02/14/2026 - Celebrate Valentine&apos;s Day at Pacific Rim with a special 5 course dinner created by Chef Duc. Menu will be $94 per person with a wine pairing option available. It wil...
-- **Tags:** Community
-- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentines-day-at-pacific-rim/22882/)
-
-### CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026
-
-- **Time:** 8:00 AM - 4:00 PM
-- **Venue:** University of Michigan
-- **Description:** Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...
-- **Tags:** Exhibition, Area Studies, Armenian Studies, history
-- **Source:** [U-M](http://events.umich.edu/event/143388)
-
-### LACS Exhibition. Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador: February 2-26, 2026 | International Institute Gallery, 547 Weiser Hall
-
-- **Time:** 8:30 AM - 5:00 PM
-- **Venue:** Weiser Hall, International Institute Gallery, Room 547
-- **Description:** *Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador* Curator: Ryan B. Morrison | Curatorial Assistant: Isabella H. de Lemos February 2-26, 2026, International In...
-- **Tags:** Exhibition, Afro-brazilian Studies, Area Studies, Art, brazil
-- **Source:** [U-M](http://events.umich.edu/event/143613)
-
-### Materia Magica: Materiality and Ritual in the Greco-Roman World
-
-- **Time:** 9:00 AM - 8:00 PM
-- **Venue:** Hatcher Graduate Library
-- **Description:** View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...
-- **Tags:** Exhibition, Archaeology, Free, Library
-- **Source:** [U-M](http://events.umich.edu/event/142417)
-
-### The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History
-
-- **Time:** 9:00 AM - 9:00 PM
-- **Venue:** Hatcher Graduate Library, Clark Library (2nd floor)
-- **Description:** Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...
-- **Tags:** Exhibition, Free, Library, Maps
-- **Source:** [U-M](http://events.umich.edu/event/138431)
-
-### Iron Chef
-
-- **Time:** 10:00 AM - 4:00 PM
-- **Venue:** South Quad, Private Dining Room
-- **Description:** Join us for Iron Chef - Made With Love, brought to you by the 69th Session of the Residence Halls Association at the University of Michigan! Our annual cooking competition will be held in the South...
-- **Tags:** Recreational / Games, Food, Free, games, Leadership
-- **Source:** [U-M](http://events.umich.edu/event/144817)
-
-### Saturday Open House
-
-- **Time:** 10:00 AM - 4:00 PM
-- **Venue:** Detroit Observatory
-- **Description:** Make the Observatory part of your weekend! Tour the historic building, view our exhibits, participate in astronomy activities, and view the sun with our solar telescope (weather dependent). Familie...
-- **Tags:** Tours, Astronomers, astronomy, Education, educational
-- **Source:** [U-M](http://events.umich.edu/event/143099)
-
-### MARKLEY HALL 2025-2026: Multiple conference events and sessions: Winter Olympics - Watch Party
-
-- **Time:** 10:30 AM - 11:30 AM
-- **Venue:** South Lounge
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135671)
-
-### 2026 Undergraduate Juried Exhibition
-
-- **Time:** 11:00 AM - 7:00 PM
-- **Venue:** Off Campus Location
-- **Description:** The Stamps School’s annual Undergraduate Juried Exhibition is a showcase of outstanding work produced by Stamps undergraduate students, taking place at Stamps Gallery from January 30-February 21, 2...
-- **Tags:** Exhibition, Art
-- **Source:** [U-M](http://events.umich.edu/event/139627)
-
-### Chinese Storytime
-
-- **Time:** 11:00 AM - 12:00 PM
-- **Venue:** Downtown Library: 1st Floor Lobby
-- **Description:** Preschool Storytimes
-- **Tags:** Preschool Storytimes, Babies & Preschoolers
-- **Source:** [AADL](https://aadl.org/node/646486)
-
-### Fore-Site (Phase 2): The Stamps Gallery Pillar Project
-
-- **Time:** 11:00 AM - 7:00 PM
-- **Venue:** Off Campus Location
-- **Description:** From September 2025 through August 2026, Stamps Gallery is partnering in a curatorial collaboration with two Ypsilanti-based, artist-run project spaces led by Stamps alumni: C.Y.N.K. Studios, direc...
-- **Tags:** Exhibition, Art
-- **Source:** [U-M](http://events.umich.edu/event/138032)
-
-### Creating the Future of Medicine for 175 Years: A free museum exhibit about U-M medical history
-
-- **Time:** 12:00 PM - 4:00 PM
-- **Venue:** Off Campus Location
-- **Description:** As the Medical School celebrates the anniversary of its opening in the fall of 1850, and Michigan Medicine marks the 100th anniversary of the opening of the "Old Main" University Hospital that serv...
-- **Tags:** Exhibition, History, Life Science, Medicine, Museum
-- **Source:** [U-M](http://events.umich.edu/event/139428)
-
-### Expedition Reef
-
-- **Time:** 12:00 PM - 12:45 PM
-- **Venue:** Museum of Natural History, Planetarium & Dome Theater
-- **Description:** Learn the secrets of the “rainforests of the sea” as you embark on an oceanic safari of the world’s most vibrant—and endangered—marine ecosystems. Expedition Reef immerses you in an undersea advent...
-- **Tags:** Presentation, natural history museum, Natural Sciences
-- **Source:** [U-M](http://events.umich.edu/event/95986)
-
-### Letterpress Open Lab
-
-- **Time:** 12:00 PM - 2:00 PM
-- **Venue:** Downtown Library: Secret Lab
-- **Description:** Crafts
-- **Tags:** Crafts
-- **Source:** [AADL](https://aadl.org/node/663044)
-
-### Men's Gymnastics vs #11 Springfield/ASU
-
-- **Time:** 12:00 PM - 1:00 AM
-- **Venue:** Off Campus Location
-- **Description:** Men's Gymnastics vs #11 Springfield/ASU
-- **Tags:** Sporting Event, Athletics, Athletics - Men's Gymnastics
-- **Source:** [U-M](http://events.umich.edu/event/144073)
-
-### Sweet Notes and Self-Love at Baits II
-
-- **Time:** 12:00 PM - 1:30 PM
-- **Venue:** Baits House II, Coman Lounge
-- **Description:** Join the Baits II Diversity Peer Educators and RAs for a sweet Valentine’s Day event celebrating love in all forms! Decorate cookies, write affirmations for yourself or others, and add a note to ou...
-- **Tags:** Social / Informal Gathering, Crafts, Holiday, Social, Valentine
-- **Source:** [U-M](http://events.umich.edu/event/144574)
-
-### TRANSDISCIPLINARY FELLOWS 2025-2026: Multiple conference events and sessions: Charles H. Wright Museum of African American History Visit (Adult Graduate Student Event)
-
-- **Time:** 12:40 PM - 5:15 PM
-- **Venue:** 315 E Warren Ave, Detroit, MI 48201
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135685)
-
-### Beginner Friendly Brazilian Jiu-Jitsu Training
-
-- **Time:** 1:00 PM - 2:30 PM
-- **Venue:** Michigan League
-- **Description:** Our weekly beginner-friendly sessions are designed for students who are new to Brazilian Jiu-Jitsu or looking for a structured, low-pressure environment to build strong fundamentals. Each session f...
-- **Tags:** Exercise / Fitness
-- **Source:** [U-M](http://events.umich.edu/event/144469)
-
-### BURSLEY HALL 2025-2026: Multiple conference events and sessions: Pipe Cleaner Flowers
-
-- **Time:** 1:00 PM - 2:00 PM
-- **Venue:** Bursley Lobby
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135622)
-
-### Film Screening and Q&A | The 63rd Ann Arbor Film Festival Touring Program
-
-- **Time:** 1:00 PM - 3:00 PM
-- **Venue:** Downtown Library: Lower Level Program Room
-- **Description:** Film & Video Events
-- **Tags:** Film & Video Events
-- **Source:** [AADL](https://aadl.org/node/646889)
-
-### Men's Basketball vs UCLA
-
-- **Time:** 1:00 PM - 1:00 AM
-- **Venue:** Crisler Arena
-- **Description:** Men's Basketball vs UCLA
-- **Tags:** Sporting Event, Athletics, Athletics - Men's Basketball
-- **Source:** [U-M](http://events.umich.edu/event/144081)
-
-### Water Polo vs UC Davis
-
-- **Time:** 1:15 PM - 1:00 AM
-- **Venue:** Donald B. Canham Natatorium
-- **Description:** Water Polo vs UC Davis
-- **Tags:** Sporting Event, Athletics
-- **Source:** [U-M](http://events.umich.edu/event/144082)
-
-### BURSLEY HALL 2025-2026: Multiple conference events and sessions: Cricut Workshop
-
-- **Time:** 2:00 PM - 3:00 PM
-- **Venue:** Design Lab 1 in the Duderstadt Center
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135622)
-
-### Family Friendly Drum Circle with Drummunity
-
-- **Time:** 2:00 PM - 3:00 PM
-- **Venue:** Westgate Branch: West Side Room
-- **Description:** Public Event
-- **Tags:** Public Event, Preschool–Adult
-- **Source:** [AADL](https://aadl.org/node/663843)
-
-### Ojibway Storytime
-
-- **Time:** 2:00 PM - 2:30 PM
-- **Venue:** Traverwood Branch: Program Room
-- **Description:** Preschool Storytimes
-- **Tags:** Preschool Storytimes, Babies And Preschoolers
-- **Source:** [AADL](https://aadl.org/node/664537)
-
-### Saturday Sampler Tour | Love and Marriage in the Ancient World: Linda Kimmel, Docent
-
-- **Time:** 2:00 PM - 3:00 PM
-- **Venue:** Kelsey Museum of Archaeology
-- **Description:** Spend your Valentine’s Day at the Kelsey, where we’ll explore artifacts related to love and marriage in the ancient world. Along the way, we’ll look at images of goddesses associated with love and ...
-- **Tags:** Tours, Ancient Egypt, Ancient Greece, Ancient Middle East, Ancient Rome
-- **Source:** [U-M](http://events.umich.edu/event/144023)
-
-### T.REX
-
-- **Time:** 2:00 PM - 2:45 PM
-- **Venue:** Museum of Natural History, Planetarium & Dome Theater
-- **Description:** With stunning CGI visuals and the latest research from leading paleontologists, the film offers audiences a fresh perspective on the GOAT (Greatest Of All Tyrants): Tyrannosaurus rex. Anchored by t...
-- **Tags:** Film Screening, Museum, natural history museum, Planetarium
-- **Source:** [U-M](http://events.umich.edu/event/136347)
-
-### Winter Bird Pastel Portraits
-
-- **Time:** 2:00 PM - 4:00 PM
-- **Venue:** Malletts Creek Branch: Program Room
-- **Description:** Crafts
-- **Tags:** Crafts
-- **Source:** [AADL](https://aadl.org/node/647765)
-
-### FREE and fun 🏀 basketball game this Saturday at 3:00 PM
-
-- **Time:** 3:00 PM - 4:00 PM
-- **Venue:** St Luke Ann Arbor
-- **Description:** Calling all U-M faculty, students, and community members! 🎉 Join us for a FREE and fun 🏀 basketball game this Saturday at 3:00 PM at St. Luke Ann Arbor 4205 Washtenaw Ave, Ann Arbor. Plenty of free...
-- **Tags:** Sporting Event
-- **Source:** [U-M](http://events.umich.edu/event/144655)
-
-### Sky Tonight
-
-- **Time:** 3:00 PM - 3:45 PM
-- **Venue:** Museum of Natural History, Planetarium & Dome Theater
-- **Description:** A live presentation on what to find in the sky tonight and for the coming few weeks. This presentation includes how to find the cardinal directions with the North Star, current and upcoming constel...
-- **Tags:** Exhibition, Astronomy, Children, Family, Museum
-- **Source:** [U-M](http://events.umich.edu/event/141325)
-
-### Judo Training
-
-- **Time:** 4:00 PM - 5:00 PM
-- **Venue:** Michigan League, Koessler Room
-- **Description:** Judo Team Training at the Michigan League Koessler Room, 3rd Floor. Before showing up, please email hazoum@umich.edu. We want to be prepared for new members.
-- **Tags:** Exercise / Fitness, Alumni, Athletics - Wrestling, Fitness, In Person
-- **Source:** [U-M](http://events.umich.edu/event/138019)
-
-### Water Polo vs McKendree
-
-- **Time:** 4:15 PM - 1:00 AM
-- **Venue:** Donald B. Canham Natatorium
-- **Description:** Water Polo vs McKendree
-- **Tags:** Sporting Event, Athletics
-- **Source:** [U-M](http://events.umich.edu/event/144083)
-
-### FEAST OF WORD AND SPIRIT
-
-- **Time:** 5:00 PM - 8:00 PM
-- **Venue:** East Quadrangle, 1405
-- **Description:** Is it truly possible to have all of God?🥲 Scripture tells us: ⁠“But as He which hath called you is holy, so be ye holy in all manner of conversation.” 1 Peter 1:15 (KJV) Yet for many of us, this re...
-- **Tags:** Well-being, Graduate, Religious, Undergraduate
-- **Source:** [U-M](http://events.umich.edu/event/144606)
-
-### Ice Hockey vs Penn State
-
-- **Time:** 5:00 PM - 1:00 AM
-- **Venue:** Off Campus Location
-- **Description:** Ice Hockey vs Penn State
-- **Tags:** Sporting Event, Athletics, Athletics - Ice Hockey
-- **Source:** [U-M](http://events.umich.edu/event/144084)
-
-### Men's Lacrosse vs Lehigh
-
-- **Time:** 7:00 PM - 1:00 AM
-- **Venue:** U-M Lacrosse Stadium
-- **Description:** Men's Lacrosse vs Lehigh
-- **Tags:** Sporting Event, Athletics
-- **Source:** [U-M](http://events.umich.edu/event/144072)
-
-### Pre-Concert Lecture: University Philharmonia Orchestra
-
-- **Time:** 7:15 PM - 7:45 PM
-- **Venue:** Hill Auditorium, Lower Level Lobby
-- **Description:** This lecture begins at 7:15 pm before the 8:00 pm UPO performance.
-- **Tags:** Lecture / Discussion, Concert, Free, Music, Talk
-- **Source:** [U-M](http://events.umich.edu/event/142870)
-
-### Lunar Love with Danny Koo: Danny Koo
-
-- **Time:** 7:30 PM - 9:00 PM
-- **Venue:** Off Campus Location
-- **Description:** The Nam Center is delighted to support this unique holiday celebration, featuring the internationally acclaimed violinist, vocalist, TV star, and radio host Danny Koo. This festive concert brings t...
-- **Tags:** Performance, Asian Languages And Cultures, Concert, Korea, Music
-- **Source:** [U-M](http://events.umich.edu/event/144872)
-
-### SOUTH QUAD / FLETCHER 2025-2026: Multiple conference events and sessions: Performance by the University Philharmonia Orchestra(Thronson House 8)
-
-- **Time:** 7:40 PM - 9:00 PM
-- **Venue:** South Quad Community Center
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135683)
-
-### BAITS II 2025-2026: Multiple conference events and sessions: Heartfelt Connections
-
-- **Time:** 8:00 PM - 9:00 PM
-- **Venue:** Coman Lounge
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135619)
-
-### On A Winter&#8217;s Night feat. John Gorka, Lucy Kaplansky, and Cliff Eberhardt
-
-- **Time:** 8:00 PM - 11:00 PM
-- **Venue:** The Ark
-- **Address:** 316 S. Main, Ann Arbor, MI
-- **Description:** &lt;p&gt;Presenting the 2026 Reunion Tour of “On A Winter’s Night” from veteran singer-songwriters that remain among the brightest stars of the singer-songwriter movement for the past three decades...
-- **Tags:** Live Music
-- **Source:** [The Ark](https://theark.org/event/on-a-winters-night-250214/)
-
-### On a Winter's Night: Presented by The Ark
-
-- **Time:** 8:00 PM
-- **Venue:** ARK Reserved + Gold Circle
-- **Description:** Due to an unforeseen injury to Patty Larkin, On A Winter’s Night will be a trio format, featuring John Gorka, Cliff Eberhart, and Lucy Kaplansky. The show will go on, and the length and spirit will...
-- **Tags:** Performance, Ark, Mutotix
-- **Source:** [U-M](http://events.umich.edu/event/138926)
-
-### University Philharmonia Orchestra
-
-- **Time:** 8:00 PM - 10:00 PM
-- **Venue:** Hill Auditorium
-- **Description:** Jayce Ogren, conductor Catherine Goode, soprano (Larsen) - 2025 Concerto Competition winner PROGRAM *Mandred Overture*, Robert Schumann *Sonnets from the Portuguese*, Libby Larsen *Pastoral Symphon...
-- **Tags:** Performance, Concert, Free, Music
-- **Source:** [U-M](http://events.umich.edu/event/135442)
-
-### MARKLEY HALL 2025-2026: Multiple conference events and sessions: Galentines Board Game Night
-
-- **Time:** 9:00 PM - 11:00 PM
-- **Venue:** South Lounge
-- **Tags:** Conference / Symposium, Sessions
-- **Source:** [U-M](http://events.umich.edu/event/135671)
-
----
-
-## Sunday, February 15, 2026
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/around-the-kitchen-table-with-peace-house-ypsi-free-brunch!/22958/)
 
 ### Bike Repair Hours
 
@@ -670,6 +40,78 @@
 - **Tags:** Sporting Event
 - **Source:** [U-M](http://events.umich.edu/event/141933)
 
+### Cocktail Class: Shake Up Your Love Life
+
+- **Time:** All day
+- **Venue:** Valentine&apos;s Day
+- **Description:** 02/15/2026 to 02/15/2026 - Shake up your love life and ditch the Saturday crowds! Join us this Valentine&apos;s season for an interactive, hands-on cocktail class. Shake up your love life and ditch...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cocktail-class%3a-shake-up-your-love-life/22881/)
+
+### Creating the Future of Medicine for 175 Years
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 12/13/2025 to 04/26/2026 - In honor of the 175th anniversary of the opening of the U-M Medical School, this exhibit features artifacts, photos, facts and documents from across the history of U-M me...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/creating-the-future-of-medicine-for-175-years/22360/)
+
+### Doubt, A Parable
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 02/12/2026 to 02/21/2026 - Doubt, A Parable follows Sister Aloysius, a stern nun running a Bronx Catholic school in 1964, who suspects their charismatic priest, Father Flynn, could be abusing boys ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/doubt-a-parable/22843/)
+
+### Galentine's Day Brunch
+
+- **Time:** All day
+- **Venue:** Valentine&apos;s Day
+- **Description:** 02/15/2026 to 02/15/2026 - Celebrate love with your girl squad. Who needs a boyfriend when you could have a Bellini? Who needs a girlfriend when you can have a grapefruit mimosa? Your afternoon fea...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/galentines-day-brunch/22535/)
+
+### Kayak by Jordan Hall
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 01/30/2026 to 02/22/2026 - Theatre NOVA presents:Kayakby Jordan HallJanuary 30 - February 22, 2026&#x200B;How high&#x2019;s the water, Mama? Alone on a vast stretch of water, Annie Iversen recounts...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/kayak-by-jordan-hall/22564/)
+
+### Lecture Series &#8211; The Great American Songbook: What Makes it Great? Special Stephen Sondheim Edition Part 2
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/15/2026 to 02/15/2026 - Kerrytown Concert House is honored to bring back the enormously popular lecture series, The Great American Songbook: What Makes it Great? featuring the incomparable Brent...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/lecture-series-%26%238211%3b-the-great-american-songbook%3a-what-makes-it-great%3f-special-stephen-sondheim-edition-part-2/22988/)
+
+### Mardi Gras on Main
+
+- **Time:** All day
+- **Venue:** Beer and Wine
+- **Description:** 02/15/2026 to 02/15/2026 - Get ready for a night of sizzling New Orleans vibes right on Main Street!Enjoy dancing to lively jazz by The Alex Belhaj Crescent City Quartet, delicious food, and festiv...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/mardi-gras-on-main/22361/)
+
+### Phil Ogilvie's Rhythm Kings
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/15/2026 to 02/22/2026 - 10-piece big band led by Chris Smith, specializing in hot jazz of the 1920s and 30s. Jelly Roll Morton, King Oliver, Duke Ellington and other jazz legends are prominent i...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/phil-ogilvies-rhythm-kings/22827/)
+
+### Rj Cowdery, Hope Dunbar, and Katie Dahl at The Ark
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/15/2026 to 02/15/2026 - RJ Cowdery (Ohio), Katie Dahl (Wisconsin), and Hope Dunbar (New Jersey) may be from three different states, but they all share a knack for razor-sharp lyrics, wicked humo...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/rj-cowdery-hope-dunbar-and-katie-dahl-at-the-ark/22846/)
+
 ### Southern Collegiate Offshore Regatta
 
 - **Time:** 12:00 AM - 11:59 PM
@@ -678,6 +120,54 @@
 - **Tags:** Sporting Event
 - **Source:** [U-M](http://events.umich.edu/event/143666)
 
+### Stuntboy, In the Meantime
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 02/15/2026 to 02/15/2026 - Stuntboy, In the Meantime follows the middle-schooler, Portico Reeves whose superpower is making sure his parents and best friend, Zola stay safe. He lives in the biggest...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/stuntboy-in-the-meantime/22230/)
+
+### Sunday Jazz at The Ravens Club
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/01/2026 to 09/27/2026 - Sundays are made for Jazz! End every chaotic weekend with some drinks, food &amp; live jazz amongst friends. There's just no other way. See you tonight!
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/sunday-jazz-at-the-ravens-club/22852/)
+
+### Sunday Yoga at Bløm Mead + Cider
+
+- **Time:** All day
+- **Venue:** Beer and Wine
+- **Description:** Starting 06/05/2022 - Please visit the link to verify class times and instructors!Let go of that work week tension with a combo of bends and brews. Are you a master of the pretzel hold? Or does the...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/sunday-yoga-at-bl%c3%b8m-mead-%2b-cider/10746/)
+
+### Terence Blanchard and Ravi Coltrane
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/15/2026 to 02/15/2026 - The year 1926 saw the birth of two towering figures who reshaped the landscape of 20th-century music: Miles Davis and John Coltrane. In this limited tour, two of today&#x...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/terence-blanchard-and-ravi-coltrane/22416/)
+
+### The Smoke, the Ghost, the Balm at Cluster Museum
+
+- **Time:** All day
+- **Venue:** Art
+- **Description:** 01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/)
+
+### The Ypsilanti Symphony Orchestra Presents "Midwinter Melodies"
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/15/2026 to 02/15/2026 - The Ypsilanti Symphony Orchestra Presents &quot;Midwinter Melodies: A Winter&#x2019;s Afternoon with the YSO&quot; The YSO will perform on Sunday, February 15th at 3:30 p...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-ypsilanti-symphony-orchestra-presents-midwinter-melodies/21298/)
+
 ### Unveil: A Privacy@Michigan Student Art Contest Deadline
 
 - **Time:** 12:00 AM - 11:59 PM
@@ -685,6 +175,22 @@
 - **Description:** The deadline for submitting work to the 2026 Unveil Privacy@Michigan student art contest is 11:59 p.m. (one minute before midnight) Eastern Time on February 15. No late submissions will be accepted...
 - **Tags:** Other, Art, Contest Deadline, Creative Writing, Dance
 - **Source:** [U-M](http://events.umich.edu/event/144263)
+
+### Valentine’s Week Features
+
+- **Time:** All day
+- **Venue:** Valentine&apos;s Day
+- **Description:** 02/10/2026 to 02/15/2026 - Valentine&#x2019;s Week FeaturesFebruary 10th-15th Indulge in chef-inspired Valentine&#x2019;s Week features, thoughtfully crafted to highlight bold flavors, seasonal ing...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/valentine%e2%80%99s-week-features/22890/)
+
+### Wonder Walk: Desert Dreaming
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 02/15/2026 to 02/15/2026 - In the deserts of southern Africa, a remarkable group of plants has evolved into forms so unusual that they often look more like stones than living organisms. These plant...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/wonder-walk%3a-desert-dreaming/22889/)
 
 ### Zero Waste Week Challenge
 
@@ -1132,6 +638,30 @@
 - **Tags:** Other
 - **Source:** [U-M](http://events.umich.edu/event/145016)
 
+### Factory Mondays
+
+- **Time:** All day
+- **Venue:** Nightlife
+- **Description:** Starting 03/10/2025 - Step into the dark and mysterious world of Necto, Factory Mondays. Established in 2004, Factory is an internationally known Goth-Industrial night. We transform our space into ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/factory-mondays/14437/)
+
+### President's Day Special
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 02/16/2026 to 02/17/2026 - They're open from 10AM-7PM on President's Day and the day after! Jump all day for just $24.99
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/presidents-day-special/22792/)
+
+### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 01/16/2026 to 05/08/2026 - Thomas Paine&#x2019;s &#x201C;Common Sense&#x201D; was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/revolutionary-paine%3a-andy-murphy-student-curated-class-exhibit-common-sense/22715/)
+
 ### Southern Collegiate Offshore Regatta
 
 - **Time:** 12:00 AM - 12:00 PM
@@ -1139,6 +669,14 @@
 - **Description:** Keelboat regatta in Charleston, SC
 - **Tags:** Sporting Event
 - **Source:** [U-M](http://events.umich.edu/event/143666)
+
+### Toddler Time at Launch
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 01/23/2026 to 05/29/2026 - Every Friday 10-Noon &amp; Saturday 9-10am Experience for toddlers ages 5 and under.-$15 Admissions Includes one toddler &amp; an accompanying adult-Additional children 5...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/toddler-time-at-launch/22793/)
 
 ### Zero Waste Week Challenge
 
@@ -1392,6 +930,14 @@
 - **Venue:** South Lounge
 - **Tags:** Conference / Symposium, Sessions
 - **Source:** [U-M](http://events.umich.edu/event/135671)
+
+### On Kawamata-Viehweg Vanishing for Surfaces of del Pezzo Type over Imperfect Fields: Shikha Bhutani
+
+- **Time:** 3:00 PM - 4:00 PM
+- **Venue:** East Hall, 3088
+- **Description:** Vanishing theorems are foundational tools in the Log Minimal Model Program, with the Kawamata-Viehweg Vanishing Theorem being one of the most important. However, these fail in positive characterist...
+- **Tags:** Workshop / Seminar, Mathematics
+- **Source:** [U-M](http://events.umich.edu/event/145500)
 
 ### Sky Tonight
 
@@ -1698,6 +1244,14 @@
 
 ## Tuesday, February 17, 2026
 
+### Babies & Brews
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** Starting 12/12/2023 - Look, we&#x2019;ve been the parents of an itty bitty and a toddler trying to figure out where we could take them to relax, meet other humans, and not feel like we were constan...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/babies-%26-brews/13751/)
+
 ### Bike Repair Hours
 
 - **Time:** 12:00 AM - 11:59 PM
@@ -1705,6 +1259,46 @@
 - **Description:** Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...
 - **Tags:** Other
 - **Source:** [U-M](http://events.umich.edu/event/145016)
+
+### Comedy Gauntlet
+
+- **Time:** All day
+- **Venue:** Comedy
+- **Description:** Starting 09/09/2025 - 16 comedians compete doing 90 second sets over 4 rounds.There are no brackets.The funniest half moves on each round.16 COMEDIANS BECOMES8 COMEDIANS BECOMES4 COMEDIANS BECOMES2...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/comedy-gauntlet/21291/)
+
+### Contemporary Directions Ensemble
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/17/2026 to 02/17/2026 - The Contemporary Directions Ensemble performs works composed by Coleman, Mackey, Grainger, and Copland. Jayce Ogren, conductor.
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/contemporary-directions-ensemble/23024/)
+
+### FREE Community Sangha Class
+
+- **Time:** All day
+- **Venue:** Health &amp; Wellness
+- **Description:** 01/20/2026 to 03/17/2026 - FREE Community Sangha Class Join us for our monthly Sangha class&#x2014;a free community offering rooted in shared practice and support. Sangha means community, and this ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/free-community-sangha-class/22663/)
+
+### Gabby's Dollhouse Live!
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 02/17/2026 to 02/17/2026 - In this a-MEOW-zing musical show, Gabby unboxes a special acorn that needs the magical touch of a rainbow to grow. But when CatRat causes a color cat-astrophe and breaks ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/gabbys-dollhouse-live!/22924/)
+
+### Jake Xerxes Fussell at The Ark
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/17/2026 to 02/17/2026 - Reared in Georgia and now settled in North Carolina, Jake Xerxes Fussell has established himself as a devoted listener and contemplative interpreter of a vast array of so...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/jake-xerxes-fussell-at-the-ark/22847/)
 
 ### Zero Waste Week Challenge
 
@@ -1949,6 +1543,117 @@
 - **Tags:** Lecture / Discussion, Neuroscience, Psychology
 - **Source:** [U-M](http://events.umich.edu/event/142510)
 
+### Financial Wellness at Any Career Stage: Smart Moves for Today’s Economy: Ciara Merriman, ‘98
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Off Campus Location
+- **Description:** In today’s rapidly changing global and economic environment, financial preparedness is both more important and more confusing than ever. This empowering, judgment-free webinar breaks down the essen...
+- **Tags:** Livestream / Virtual, Alumni, Career, Economics, Free
+- **Source:** [U-M](http://events.umich.edu/event/142839)
+
+### Jessi Grieser, carillon
+
+- **Time:** 12:00 PM - 12:30 PM
+- **Venue:** Burton Memorial Tower
+- **Description:** LSA faculty member Jessi Grieser performs on the Charles Baird Carillon, an instrument of 53 bronze bells located inside the Burton Memorial Tower. The largest bell, which strikes the hour, weighs ...
+- **Tags:** Performance, Free, Music
+- **Source:** [U-M](http://events.umich.edu/event/144339)
+
+### LRCCS Noon Lecture Series | Creative Belonging: The Qiang and Multiethnic Imagination in Modern China: Yanshuo Zhang, Assistant Professor, Asian Languages and Literatures, Pomona College
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Weiser Hall, 10th Floor
+- **Description:** Please note: This lecture will be held in person and virtually on Zoom. The webinar is free and open to the public, but registration is required. Once you've registered, joining information will be...
+- **Tags:** Lecture / Discussion, Asian Languages And Cultures, China, chinese history, Chinese Studies
+- **Source:** [U-M](http://events.umich.edu/event/143391)
+
+### Lunar New Year Recognition Event: Lunar New Year Celebration
+
+- **Time:** 12:00 PM - 1:30 PM
+- **Venue:** OGPS Lounge
+- **Description:** Join us in the OGPS lounge for crafts, new year wishes and a light lunch in recognition of Lunar New Year. This event will be drop-in only. You may linger but there will be no formal program. A lig...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/143837)
+
+### Lunchtime Yoga
+
+- **Time:** 12:00 PM - 12:45 PM
+- **Venue:** School of Kinesiology Building, 2080
+- **Description:** Lunchtime yoga is an opportunity to provide your body with some gentle movement, strengthening, stretching and balancing. We will use the poses to reconnect with your senses, to breathe some life b...
+- **Tags:** Well-being, Health & Wellness, yoga
+- **Source:** [U-M](http://events.umich.edu/event/138074)
+
+### Pre-Health Personal Statement Workshop: Brainstorming a Compelling Personal Statement
+
+- **Time:** 12:00 PM - 1:30 PM
+- **Venue:** Angell-G243
+- **Description:** An effective personal statement lives at the heart of your medical or professional health school application. Your personal statement allows you to tell your story to an admissions committee and sh...
+- **Tags:** Workshop / Seminar, Advising, Newnan, Newnan Academic Advising, Newnan Lsa Academic Advising Center
+- **Source:** [U-M](http://events.umich.edu/event/142837)
+
+### Puentes 2025-2026: Multiple conference events and sessions: The Phillip J. Bowman Center for Scholarship to Practice Sponsored Session
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** East Conference Room Rackham 4th Floor
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+### Quantitative Proteomics of Macroautophagy Reveals Membrane Receptors for Golgi Remodeling- Department of Biological Chemistry Seminar: Kelsey Hickey
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Medical Science Unit I, 5330
+- **Description:** Dr. Kelsey Hickey will present a seminar on Tuesday February 17th, 2026
+- **Tags:** Workshop / Seminar, Basic Science, biolgical chemistry, biological, biological chemistry
+- **Source:** [U-M](http://events.umich.edu/event/144180)
+
+### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** 12:00 PM - 4:00 PM
+- **Venue:** William Clements Library, Avenir Foundation Reading Room
+- **Description:** Thomas Paine’s “Common Sense” was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, with an initial print run of just 1,000 copies; ...
+- **Tags:** Exhibition, Americana, Exhibit, history
+- **Source:** [U-M](http://events.umich.edu/event/143999)
+
+### Right to Food, Right to Grow in Washtenaw County: Residents & Researchers Tuesday Talks on environment, health and community
+
+- **Time:** 12:00 PM - 12:50 PM
+- **Venue:** Off Campus Location
+- **Description:** Zoom registration required https://myumi.ch/Qw4E8 The Residents & Researchers 'Tuesday Talks' are webinars, which focus on environment, health and community. This discussion features Julius Buzzard...
+- **Tags:** Lecture / Discussion, Activism, Community Service, Diversity Equity and Inclusion, Earth Day at 50
+- **Source:** [U-M](http://events.umich.edu/event/144986)
+
+### Stearns Collection Lunchtime Concert Series: At NCRC (North Campus Research Complex)
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Enjoy a free concert featuring the SMTD Baroque Chamber Orchestra performing works of Vivaldi and Muffat, along with Stearns Collection director Joseph Gascho and friends playing and performing on ...
+- **Tags:** Performance, Concert, Faculty, Free, Music
+- **Source:** [U-M](http://events.umich.edu/event/144340)
+
+### IBL Lunch
+
+- **Time:** 12:30 PM - 1:30 PM
+- **Venue:** East Hall, 2075
+- **Description:** Come talk about teaching with IBL, interactive, and other active teaching methods over lunch. Bring teaching anecdotes, thoughts, and your appetite. Lunch will be provided.
+- **Tags:** Lecture / Discussion, Mathematics
+- **Source:** [U-M](http://events.umich.edu/event/138237)
+
+### Pause Café: French Conversation Hour
+
+- **Time:** 12:30 PM - 1:30 PM
+- **Venue:** Modern Languages Building, RLL Commons, 4314 MLB
+- **Description:** -Enjoy coffee, tea, and snacks while improving your French skills! -Chat for 10 minutes or the entire hour. All language levels are welcome. The RLL Commons is located in the center hallway of the ...
+- **Tags:** Social / Informal Gathering, Coffee, Community, Culture, Discussion
+- **Source:** [U-M](http://events.umich.edu/event/143171)
+
+### Getting started with ACCESS HPC Computing: Getting started with ACCESS Feb
+
+- **Time:** 1:00 PM - 2:00 PM
+- **Venue:** University of Michigan
+- **Description:** This workshop will give a brief rundown on how to apply for FREE HPC compute courtesy of the NSF's ACCESS program. We'll run through how and when to apply and be available for any questions you mig...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144757)
+
 ### Young Scientists
 
 - **Time:** 1:00 PM - 1:45 PM
@@ -1956,6 +1661,59 @@
 - **Description:** Public Event
 - **Tags:** Public Event, Age 2–5
 - **Source:** [AADL](https://aadl.org/node/646155)
+
+### Adam Lenhart, carillon
+
+- **Time:** 1:20 PM - 1:50 PM
+- **Venue:** Lurie Ann & Robert H. Tower
+- **Description:** Graduate student Adam Lenhart performs on the Ann & Robert H. Lurie Carillon, an instrument of 60 bells with the lowest bell (bourdon) weighing 6 tons. Thirty-minute recitals are performed on the L...
+- **Tags:** Performance, Free, Music, North Campus
+- **Source:** [U-M](http://events.umich.edu/event/144372)
+
+### Puentes 2025-2026: Multiple conference events and sessions: Linguistics Sponsored Session
+
+- **Time:** 1:30 PM - 2:30 PM
+- **Venue:** East Conference Room Rackham 4th Floor
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+### Grants office hours: Get support applying for one of SSC's Sustainability Grants!
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** Off Campus Location, https://umich.zoom.us/j/91565104584
+- **Description:** Drop in to our weekly open office hours to learn and get support applying to our Planet Blue Student Innovation Fund (PBSIF) or Social and Environmental Sustainability Grant (SES).
+- **Tags:** Other, Environment, Sustainability
+- **Source:** [U-M](http://events.umich.edu/event/138848)
+
+### International Student Career Series - Navigating On Campus Job Search
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** University of Michigan
+- **Description:** Looking for a job on campus but not sure where to start? Join us for this interactive session designed to help international studentsexplore the on-campus employment opportunities available at U-M....
+- **Tags:** Careers / Jobs
+- **Source:** [U-M](http://events.umich.edu/event/145124)
+
+### STOCKWELL HALL 2025-2026: Multiple conference events and sessions: Coloring with RA Henry
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** University of Michigan
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135682)
+
+### Winter 2026 Workshop Series: Accessibility Essentials for Canvas
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** University of Michigan
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/142416)
+
+### Economic Sociology and Organizations (ESO) Workshop
+
+- **Time:** 2:30 PM - 4:00 PM
+- **Venue:** LSA Building, 4147
+- **Description:** - January 20: Zoe Chanin - February 10: Ori Tamir - February 17: Joe LaBriola - March 10: Joyce Ho - March 24: Nils Neumann - April 7: Alvaro Cabrera
+- **Tags:** Workshop / Seminar, Graduate Student
+- **Source:** [U-M](http://events.umich.edu/event/143913)
 
 ### Balloon Powered Cars
 
@@ -1973,6 +1731,136 @@
 - **Tags:** Crafts, Grade K–5
 - **Source:** [AADL](https://aadl.org/node/646770)
 
+### Puentes 2025-2026: Multiple conference events and sessions: Med School Sponsored Session
+
+- **Time:** 3:00 PM - 4:00 PM
+- **Venue:** East Conference Room Rackham 4th Floor
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+### SEAS
+
+- **Time:** 3:45 PM - 4:15 PM
+- **Venue:** University of Michigan
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144269)
+
+### Bartell Lecture "Chelator Design Strategies and Applications for Biology and Critical Minerals": Justin Wilson (UC Santa Barbara)
+
+- **Time:** 4:00 PM - 5:15 PM
+- **Venue:** Chemistry Dow Lab, 1640
+- **Description:** Metal ions are essential both in biological systems, where they function as nutrients and therapeutic agents, and in the global economy, where they enable advanced technologies. Purposefully design...
+- **Tags:** Lecture / Discussion, Chemistry
+- **Source:** [U-M](http://events.umich.edu/event/142066)
+
+### Colloquium: Automorphic representations and optimal quantum logic gates: Rahul Dalal, Succinct
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** East Hall, 1360
+- **Description:** In this talk, I will describe a surprising connection between the Langlands program and designing efficient architectures for quantum computing. Constructions of quantum computers require finding f...
+- **Tags:** Lecture / Discussion, Applied Mathematics, Mathematics
+- **Source:** [U-M](http://events.umich.edu/event/140717)
+
+### IGR/ELI 2/17/26 (CommonGround)
+
+- **Time:** 4:00 PM - 5:20 PM
+- **Venue:** University of Michigan
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144945)
+
+### Information Session: Accelerated Master’s Degree Program in Transcultural Studies: Earn your MA in one additional year!
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Join us to learn more about Transcultural Studies, an interdisciplinary accelerated master's degree program designed to enable current undergraduate students in LSA to earn their MA degree with one...
+- **Tags:** Presentation, Admissions, Graduate School, Information Session, Interdisciplinary
+- **Source:** [U-M](http://events.umich.edu/event/144798)
+
+### Inside the Hub Intern Program: 26-27 Hiring Process Info Session
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Discover What It Looks Like to Be a Hub Intern & How to Navigate the Application Process: An on-campus internship is not only a convenient way to make an income – research shows on-campus employmen...
+- **Tags:** Careers / Jobs, Career, Internship, Lsa Opportunity Hub
+- **Source:** [U-M](http://events.umich.edu/event/143708)
+
+### Lunar New Year
+
+- **Time:** 4:00 PM - 8:00 PM
+- **Venue:** University of Michigan
+- **Description:** Ring in the Lunar New Year with a festive menu inspired by traditional flavors that symbolize luck, prosperity, and new beginnings. Join us as we celebrate renewal, culture, and community through f...
+- **Tags:** Social / Informal Gathering, Food
+- **Source:** [U-M](http://events.umich.edu/event/144617)
+
+### Online Information Session for Admitted Transfer Students: For students who are admitted for Spring, Summer, or Fall 2026
+
+- **Time:** 4:00 PM - 5:15 PM
+- **Venue:** Off Campus Location
+- **Description:** Join the Transfer Student Center staff to learn more about: • How to understand your transfer credit and how transfer credit will count towards degree requirements. • Orientation and registration: ...
+- **Tags:** Workshop / Seminar, Transfer Student Center, Transfer Students
+- **Source:** [U-M](http://events.umich.edu/event/142813)
+
+### SACNAS Social 2025: Monoprint at the Botanical Gardens with Sajeev Wisweswaran
+
+- **Time:** 4:00 PM - 6:00 PM
+- **Venue:** Botanical Gardens
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135605)
+
+### TCS Winter 2026 Info Sessions: Tuesday, February 17
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** University of Michigan
+- **Description:** Join us for an info session to learn more about the Accelerated Master’s Degree Program in Transcultural Studies (TCS). TCS encourages students to explore methods for understanding the workings of ...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144413)
+
+### 2025-2026 Ginsberg Center Events: Community Leadership Fellows 2026-2027 -- Info Session
+
+- **Time:** 4:30 PM - 5:30 PM
+- **Venue:** University of Michigan
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/142627)
+
+### Community Leadership Fellows 2026-2027 -- Info Session
+
+- **Time:** 4:30 PM - 5:30 PM
+- **Venue:** Off Campus Location
+- **Description:** Learn more about The Ginsberg Center's Community Leadership Fellows Program. Students admitted to the program are placed in an internship with a local nonprofit, community organization, or governme...
+- **Tags:** Workshop / Seminar, Community Engagement, Graduate Students, Internship, Non-profit
+- **Source:** [U-M](http://events.umich.edu/event/145241)
+
+### Puentes 2025-2026: Multiple conference events and sessions: Mass Oral Session Sponsored by SEAS
+
+- **Time:** 4:30 PM - 6:00 PM
+- **Venue:** West Conference Room
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+### Biology & Neuroscience Major Information Sessions: Peer Advisors
+
+- **Time:** 5:00 PM - 6:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Prospective students interested in learning more about our majors, honors, and independent research in the Program in Biology and Undergraduate Program in Neuroscience are invited to attend our inf...
+- **Tags:** Livestream / Virtual, biodiversity, Biology, Biosciences, Ecology And Evolutionary Biology
+- **Source:** [U-M](http://events.umich.edu/event/132770)
+
+### Caring for Your$elf: FINANCIAL EMPOWERMENT SERIES #4
+
+- **Time:** 5:00 PM - 6:30 PM
+- **Venue:** Center for the Education of Women, 2nd Floor
+- **Description:** Dinner provided! Registration is required for food planning purposes. ***Doors open 4:45, programming begins promptly at 5:00pm.*** Budgets and financial goals sound dry, boring, and a little overw...
+- **Tags:** Workshop / Seminar, Budgeting, finances, Financial Wellness, Food
+- **Source:** [U-M](http://events.umich.edu/event/143770)
+
+### FYRST Workshops 2025: FYRST Workshop
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** League-Michigan Room (2nd Floor)
+- **Description:** First-Year Relationship and Sexuality Talk (FYRST) is a required, in-person, and peer-facilitated workshop that came directly from feedback and listening sessions with current University of Michiga...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/134554)
+
 ### Letterpress Open Lab
 
 - **Time:** 5:00 PM - 7:00 PM
@@ -1980,6 +1868,22 @@
 - **Description:** Crafts
 - **Tags:** Crafts
 - **Source:** [AADL](https://aadl.org/node/663091)
+
+### Maize & Blue Cupboard Volunteering: Multiple conference events and sessions: MBC Operating Hours
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** Maize and Blue Cupboard inside Betsy Barbour
+- **Description:** Come help us during normal operating hours; as well as, unload our weekly Food Gatherers deliveries and stock our shelves! If you are outside the U-M community, please reach out to maize.blue.cupbo...
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/102102)
+
+### Program in Biology & Undergraduate Program in Neuroscience Events 2025 - 2026: Multiple conference events and sessions: Ecology, Evolution & Biodiversity (EEB) Major Information Session
+
+- **Time:** 5:00 PM - 6:00 PM
+- **Venue:** Zoom
+- **Description:** Events in this track are open to all current and prospective PiB and UPiN students. We hope to see you!
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138804)
 
 ### Jake Xerxes Fussell
 
