@@ -1,8 +1,8 @@
 # Archived Events -- Ann Arbor Area
 
-*Last updated: February 16, 2026 at 8:44 AM*
+*Last updated: February 17, 2026 at 8:42 AM*
 
-*396 archived event(s)*
+*475 archived event(s)*
 
 ---
 
@@ -3168,5 +3168,625 @@
 - **Description:** Celebrate Black History Month with the Bursley Diversity Peer Educators through an immersive jazz night, featuring student jazz musicians and soul food.
 - **Tags:** Social / Informal Gathering, African American, Black History Month, Bursley, Community Engagement
 - **Source:** [U-M](http://events.umich.edu/event/144586)
+
+### Monday, February 16, 2026
+
+#### Bike Repair Hours
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Duderstadt Fabrication Underground
+- **Description:** Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145016)
+
+#### Factory Mondays
+
+- **Time:** All day
+- **Venue:** Nightlife
+- **Description:** Starting 03/10/2025 - Step into the dark and mysterious world of Necto, Factory Mondays. Established in 2004, Factory is an internationally known Goth-Industrial night. We transform our space into ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/factory-mondays/14437/)
+
+#### President's Day Special
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 02/16/2026 to 02/17/2026 - They're open from 10AM-7PM on President's Day and the day after! Jump all day for just $24.99
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/presidents-day-special/22792/)
+
+#### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 01/16/2026 to 05/08/2026 - Thomas Paine&#x2019;s &#x201C;Common Sense&#x201D; was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/revolutionary-paine%3a-andy-murphy-student-curated-class-exhibit-common-sense/22715/)
+
+#### Southern Collegiate Offshore Regatta
+
+- **Time:** 12:00 AM - 12:00 PM
+- **Venue:** College of Charleston
+- **Description:** Keelboat regatta in Charleston, SC
+- **Tags:** Sporting Event
+- **Source:** [U-M](http://events.umich.edu/event/143666)
+
+#### The Smoke, the Ghost, the Balm at Cluster Museum
+
+- **Time:** All day
+- **Venue:** Art
+- **Description:** 01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/)
+
+#### Toddler Time at Launch
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 01/23/2026 to 05/29/2026 - Every Friday 10-Noon &amp; Saturday 9-10am Experience for toddlers ages 5 and under.-$15 Admissions Includes one toddler &amp; an accompanying adult-Additional children 5...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/toddler-time-at-launch/22793/)
+
+#### Zero Waste Week Challenge
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Various
+- **Description:** The UM Zero Waste Club in collaboration with ZeroWaste.Org and the Student Sustainability Coalition is hosting a campus-wide zero waste challenge from Feb 16-20! The challenge is a chance to learn ...
+- **Tags:** Recreational / Games
+- **Source:** [U-M](http://events.umich.edu/event/145193)
+
+#### CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026
+
+- **Time:** 8:00 AM - 4:00 PM
+- **Venue:** University of Michigan
+- **Description:** Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...
+- **Tags:** Exhibition, Area Studies, Armenian Studies, history
+- **Source:** [U-M](http://events.umich.edu/event/143388)
+
+#### LACS Exhibition. Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador: February 2-26, 2026 | International Institute Gallery, 547 Weiser Hall
+
+- **Time:** 8:30 AM - 5:00 PM
+- **Venue:** Weiser Hall, International Institute Gallery, Room 547
+- **Description:** *Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador* Curator: Ryan B. Morrison | Curatorial Assistant: Isabella H. de Lemos February 2-26, 2026, International In...
+- **Tags:** Exhibition, Afro-brazilian Studies, Area Studies, Art, brazil
+- **Source:** [U-M](http://events.umich.edu/event/143613)
+
+#### Chair Aerobics/Stretch, Strength & Balance/Zumba
+
+- **Time:** 9:00 AM - 10:00 AM
+- **Venue:** Off Campus Location, JCPenney Wing
+- **Description:** Lifetime Fitness classes are offered at Briarwood Mall in the JCPenney wing every Monday-Friday from 9-10am. No experience necessary. Classes are specifically designed for older adults, however, ev...
+- **Tags:** Exercise / Fitness, fitness, Health & Wellness
+- **Source:** [U-M](http://events.umich.edu/event/134855)
+
+#### LSA Transfer Information Session: For students planning to apply to LSA as a transfer student.
+
+- **Time:** 9:00 AM - 10:15 AM
+- **Venue:** Off Campus Location
+- **Description:** Join the LSA Transfer Recruitment Team for our virtual sessions where we will discuss LSA requirements, transfer credit, pre-transfer academic advising, LSA opportunities and other transfer tidbits...
+- **Tags:** Workshop / Seminar, Transfer Students
+- **Source:** [U-M](http://events.umich.edu/event/141040)
+
+#### Lynn Galbreath Exhibition: Twenty-two paintings from the series “Telegraph”, “Working Hard For A Living”, and Storyboard”
+
+- **Time:** 9:00 AM - 5:00 PM
+- **Venue:** North Campus Research Complex Building 18, Rotunda Gallery
+- **Description:** Lynn Galbreath, a Detroit based artist who grew up in Argentina, is a former recipient of the Creative Artists’ Grant from the Arts Foundation of Michigan and the Michigan Individual Artist Grant f...
+- **Tags:** Exhibition, Art, ArtsEngine, Culture, Detroit
+- **Source:** [U-M](http://events.umich.edu/event/142773)
+
+#### Materia Magica: Materiality and Ritual in the Greco-Roman World
+
+- **Time:** 9:00 AM - 8:00 PM
+- **Venue:** Hatcher Graduate Library
+- **Description:** View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...
+- **Tags:** Exhibition, Archaeology, Free, Library
+- **Source:** [U-M](http://events.umich.edu/event/142417)
+
+#### Terence Swafford Exhibition: On Site:  Paintings from Detroit’s East Side (2015-2025)
+
+- **Time:** 9:00 AM - 5:00 PM
+- **Venue:** North Campus Research Complex Building 18, Connections Gallery
+- **Description:** This exhibition showcases a decade of artist Terry Swafford’s work in Detroit, marking the culmination of years spent composing scenes from the untamed edges of urban communities. These paintings s...
+- **Tags:** Exhibition, Art, ArtsEngine, Culture, Detroit
+- **Source:** [U-M](http://events.umich.edu/event/142768)
+
+#### The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History
+
+- **Time:** 9:00 AM - 9:00 PM
+- **Venue:** Hatcher Graduate Library, Clark Library (2nd floor)
+- **Description:** Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...
+- **Tags:** Exhibition, Free, Library, Maps
+- **Source:** [U-M](http://events.umich.edu/event/138431)
+
+#### Tukilile Vaa: An exhibition by Kaloki Nyamai
+
+- **Time:** 9:00 AM - 5:00 PM
+- **Venue:** 202 S. Thayer, Institute for the Humanities Gallery
+- **Description:** Kaloki Nyamai is a multidisciplinary artist based in Nairobi. His practice explores Kenya's histories and collective memory, blending Kamba traditions with contemporary narratives. Using acrylic pa...
+- **Tags:** Exhibition, Art, Humanities, Visual Arts
+- **Source:** [U-M](http://events.umich.edu/event/142791)
+
+#### Internship Lab
+
+- **Time:** 10:00 AM - 11:00 AM
+- **Venue:** University of Michigan
+- **Description:** *RSVP required to attend. Click "Join Event" here:https://umich.joinhandshake.com/edu/events/1894106Are you ready to start searching for a great internship? Do you have a few ideas, but you’re not ...
+- **Tags:** Careers / Jobs
+- **Source:** [U-M](http://events.umich.edu/event/144209)
+
+#### Baby Playgroups
+
+- **Time:** 10:30 AM - 11:30 AM
+- **Venue:** Malletts Creek Branch: Program Room
+- **Description:** Baby Playgroups
+- **Tags:** Baby Playgroups, Babies Up To 24 Months
+- **Source:** [AADL](https://aadl.org/node/644134)
+
+#### Preschool Storytimes
+
+- **Time:** 10:30 AM - 11:00 AM
+- **Venue:** Pittsfield Branch: Program Room
+- **Description:** Preschool Storytimes
+- **Tags:** Preschool Storytimes, Age 2–5 Years
+- **Source:** [AADL](https://aadl.org/node/646304)
+
+#### Engage Detroit Grant Live ($15,000)
+
+- **Time:** 11:00 AM - 12:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Interested parties should apply through the website: https://engaged.umich.edu/engagement-detroit/detroit-workshops/ Our Engaged Learning team is seeking proposals for the 2026 Engage Detroit Works...
+- **Tags:** Other, Civic Engagement, Community Engagement, Detroit, Faculty
+- **Source:** [U-M](http://events.umich.edu/event/144249)
+
+#### Resume Lab
+
+- **Time:** 11:00 AM - 12:00 PM
+- **Venue:** University of Michigan
+- **Description:** *RSVP required to attend. Click "Join Event" here: https://umich.joinhandshake.com/edu/events/1894032Just getting started building a resume? Have a draft but not sure how to make it better? Want to...
+- **Tags:** Careers / Jobs
+- **Source:** [U-M](http://events.umich.edu/event/144199)
+
+#### Robot Storytime & Craft
+
+- **Time:** 11:00 AM - 12:00 PM
+- **Venue:** Westgate Branch: West Side Room
+- **Description:** Crafts
+- **Tags:** Crafts, Preschool–Grade 3
+- **Source:** [AADL](https://aadl.org/node/648142)
+
+#### Winter Painting
+
+- **Time:** 11:00 AM - 12:00 PM
+- **Venue:** Traverwood Branch: Program Room
+- **Description:** Crafts
+- **Tags:** Crafts, Preschool–Grade 5
+- **Source:** [AADL](https://aadl.org/node/663875)
+
+#### Are You LinkedIn?
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** GGB 1280  (Blue Lounge)
+- **Description:** Building your network is something you can be doing proactively throughout graduate school. Additionally, learning from what others have done in their career is a great way to explore areas of inte...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/143406)
+
+#### Expedition Reef
+
+- **Time:** 12:00 PM - 12:45 PM
+- **Venue:** Museum of Natural History, Planetarium & Dome Theater
+- **Description:** Learn the secrets of the “rainforests of the sea” as you embark on an oceanic safari of the world’s most vibrant—and endangered—marine ecosystems. Expedition Reef immerses you in an undersea advent...
+- **Tags:** Presentation, natural history museum, Natural Sciences
+- **Source:** [U-M](http://events.umich.edu/event/95986)
+
+#### Financial Oversight: The Board’s Role: A Nonprofit Lightning Talk
+
+- **Time:** 12:00 PM - 12:45 PM
+- **Venue:** Jeff T. Blau Hall, Blau Colloquium
+- **Description:** Open to the Public The Nonprofit Lightning Talks is a 2025-26 series, brought to you by the University of Michigan Golub Capital Nonprofit Board Fellows Program. This series is open to everyone and...
+- **Tags:** Lecture / Discussion, Activism, Design Thinking, Entrepreneurship, Gerald R. Ford School Of Public Policy
+- **Source:** [U-M](http://events.umich.edu/event/145077)
+
+#### Kathy Beck, carillon
+
+- **Time:** 12:00 PM - 12:30 PM
+- **Venue:** Burton Memorial Tower
+- **Description:** Kathy Beck performs on the Charles Baird Carillon, an instrument of 53 bronze bells located inside the Burton Memorial Tower. The largest bell, which strikes the hour, weighs 12 tons, while the sma...
+- **Tags:** Performance, Free, Music
+- **Source:** [U-M](http://events.umich.edu/event/144338)
+
+#### LSA@Play: Makers Series - Clay Magnets: College of LSA Student Event
+
+- **Time:** 12:00 PM - 1:30 PM
+- **Venue:** LSA Building, 1040 Multipurpose Room
+- **Description:** Stop by this Makers Series, led by a fellow Wolverine (!), to design and craft unique clay magnets, perfect for decorating your space or gifting. No experience necessary, and all materials are prov...
+- **Tags:** Workshop / Seminar, Arts For All
+- **Source:** [U-M](http://events.umich.edu/event/145174)
+
+#### Marsal Student Advisory Board (SAB) and Office of Student Affairs (OSA): Community Check-In: PALentine's Cookie Decorating Party
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Tribute Room (1322)
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138899)
+
+#### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** 12:00 PM - 4:00 PM
+- **Venue:** William Clements Library, Avenir Foundation Reading Room
+- **Description:** Thomas Paine’s “Common Sense” was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, with an initial print run of just 1,000 copies; ...
+- **Tags:** Exhibition, Americana, Exhibit, history
+- **Source:** [U-M](http://events.umich.edu/event/143999)
+
+#### Aro Week Kickoff: Aromantic Spectrum Awareness Week 2026
+
+- **Time:** 12:30 PM - 2:30 PM
+- **Venue:** Michigan Union, Spectrum Center (3020)
+- **Description:** Join the Spectrum Center in kicking off Aromantic Spectrum Awareness Week (ASAW) by showcasing aromantic authors, trailblazers, artists, etc. Drop by the Spectrum Center to digest some fun facts ab...
+- **Tags:** Social / Informal Gathering, Aro Awareness Week, Aromantic, LGBT
+- **Source:** [U-M](http://events.umich.edu/event/144696)
+
+#### Tiffany Ng, carillon recital for Lunar New Year
+
+- **Time:** 1:20 PM - 1:50 PM
+- **Venue:** Lurie Ann & Robert H. Tower
+- **Description:** University Carillonist Tiffany Ng performs on the Ann & Robert H. Lurie Carillon, an instrument of 60 bells with the lowest bell (bourdon) weighing 6 tons. Thirty-minute recitals are performed on t...
+- **Tags:** Performance, Faculty, Free, Music, North Campus
+- **Source:** [U-M](http://events.umich.edu/event/144371)
+
+#### Mentor Office Hours: Mentor Office Hours 2
+
+- **Time:** 2:00 PM - 5:00 PM
+- **Venue:** Zoom
+- **Description:** Questions about internships, classes, or careers? Need a resume review or interview practice? Questions about getting involved on campus, branching out, or joining the WISE community? Anything goes...
+- **Tags:** Workshop / Seminar, Advising, Mentorship, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144939)
+
+#### MLK Leadership Seminar Series: Leadership for Democracy & Justice: I’ve Got the power: The Democratic uses of power
+
+- **Time:** 2:00 PM - 4:00 PM
+- **Venue:** Taubman Health Science Library, room 2903
+- **Description:** Presented by the Office of Graduate and Postdoctoral Studies, we invite you to the Medical School's MLK Leadership Seminar Series to honor the life, legacy, and leadership of Rev. Dr. Martin Luther...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/143760)
+
+#### T.REX
+
+- **Time:** 2:00 PM - 2:45 PM
+- **Venue:** Museum of Natural History, Planetarium & Dome Theater
+- **Description:** With stunning CGI visuals and the latest research from leading paleontologists, the film offers audiences a fresh perspective on the GOAT (Greatest Of All Tyrants): Tyrannosaurus rex. Anchored by t...
+- **Tags:** Film Screening, Museum, natural history museum, Planetarium
+- **Source:** [U-M](http://events.umich.edu/event/136347)
+
+#### Building Your Cultural Intelligence
+
+- **Time:** 3:00 PM - 5:00 PM
+- **Venue:** Virtual via Zoom
+- **Description:** In this fast-paced, ever-changing, increasingly globalized world, we need to be able to understand how to work effectively with many different types of people to reach our goals. In this workshop, ...
+- **Tags:** Workshop / Seminar, Rgs Events, Rgs-events, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/144735)
+
+#### BURSLEY HALL 2025-2026: Multiple conference events and sessions: Riddle Me This!
+
+- **Time:** 3:00 PM - 4:00 PM
+- **Venue:** East Open Lounge
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135622)
+
+#### Commutative Algebra Seminar: On Kawamata-Viehweg Vanishing for Surfaces of del Pezzo Type over Imperfect Fields: Shikha Bhutani
+
+- **Time:** 3:00 PM - 4:00 PM
+- **Venue:** East Hall, 3088
+- **Description:** Vanishing theorems are foundational tools in the Log Minimal Model Program, with the Kawamata-Viehweg Vanishing Theorem being one of the most important. However, these fail in positive characterist...
+- **Tags:** Workshop / Seminar, Mathematics
+- **Source:** [U-M](http://events.umich.edu/event/145500)
+
+#### MARKLEY HALL 2025-2026: Multiple conference events and sessions: Study & Unwind (Midterm edition)
+
+- **Time:** 3:00 PM - 5:00 PM
+- **Venue:** South Lounge
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135671)
+
+#### Sky Tonight
+
+- **Time:** 3:00 PM - 3:45 PM
+- **Venue:** Museum of Natural History, Planetarium & Dome Theater
+- **Description:** A live presentation on what to find in the sky tonight and for the coming few weeks. This presentation includes how to find the cardinal directions with the North Star, current and upcoming constel...
+- **Tags:** Exhibition, Science, Space, Undergraduate, Astronomy
+- **Source:** [U-M](http://events.umich.edu/event/141325)
+
+#### Zero Waste Week Challenge: Craft Fair
+
+- **Time:** 3:00 PM - 6:00 PM
+- **Venue:** Michigan Union
+- **Description:** As a part of the Zero Waste Week Challenge, Zero Waste Club is holding a Sustainable Craft Fair. February 16th 3-6 pm in the Pendleton Room of the Union, come engage in free thrifting with and A2ZE...
+- **Tags:** Fair / Festival
+- **Source:** [U-M](http://events.umich.edu/event/145192)
+
+#### RCGD Seminar Series on Social Connection: Kathleen Casto: The Hormone-Brain Dynamics of Social Positioning
+
+- **Time:** 3:30 PM - 5:00 PM
+- **Venue:** Institute For Social Research, 1430
+- **Description:** Kathleen Casto Kent State University The Hormone-Brain Dynamics of Social Positioning Feb. 16, 2026 ABOUT THE SERIES The Winter 2026 RCGD Seminar Series: The Ties that Bond: Interdisciplinary Persp...
+- **Tags:** Workshop / Seminar, Psychology, Social Sciences
+- **Source:** [U-M](http://events.umich.edu/event/142306)
+
+#### 3rd Year Student Seminar - Analytical Cluster
+
+- **Time:** 4:00 PM - 5:15 PM
+- **Venue:** Chemistry Dow Lab, 1640
+- **Description:** On Monday, February 16th from 4:00 to 5:15 p.m. in CHEM 1640 please join us in watching the following third years present. *Student Presenters:* Amanda Cicali, Tiam Farajzadeh and Alyssa Erlenbeck ...
+- **Tags:** Presentation, Chemistry
+- **Source:** [U-M](http://events.umich.edu/event/144834)
+
+#### GLNT: Automorphic Representations and Optimal Quantum Logic Gates: Rahul Dalal (Succint)
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** East Hall, 4096
+- **Description:** Abstract: Any construction of a quantum computer would require finding good sets of quantum logic gates: finite sets of 2^n-by-2^n unitary matrices that efficiently and computably approximate arbit...
+- **Tags:** Workshop / Seminar, Mathematics
+- **Source:** [U-M](http://events.umich.edu/event/141738)
+
+#### Liberation Statistics: Making Data for Alternative Worlds in India and West Africa: Tiago Saraiva, Drexel University
+
+- **Time:** 4:00 PM - 5:30 PM
+- **Venue:** Tisch Hall, 1014
+- **Description:** This talk explores the role of statistical practices in decolonizing the world. It follows the work of Pandurang Sukhatme at the Indian Council of Agricultural Research and at the Food and Agricult...
+- **Tags:** Lecture / Discussion, African Studies, History, India
+- **Source:** [U-M](http://events.umich.edu/event/144687)
+
+#### On Revival: Hebrew Literature between Life and Death with Roni Henig: On Revival: Hebrew Literature between Life and Death
+
+- **Time:** 4:00 PM - 5:30 PM
+- **Venue:** University of Michigan
+- **Description:** Roni Henig's recent book, On Revival: Hebrew Literature between Life and Death (UPenn Press, 2024), is a critique of one of the most important tenets of Zionist thinking: “Hebrew revival,” or the i...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/143923)
+
+#### Program in Biology & Undergraduate Program in Neuroscience Events 2025 - 2026: Multiple conference events and sessions: Molecular, Cellular, and Developmental Biology (MCDB) Major Information Session
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** Zoom
+- **Description:** Events in this track are open to all current and prospective PiB and UPiN students. We hope to see you!
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138804)
+
+#### Puentes 2025-2026: Multiple conference events and sessions: PLUMA LLA - ASEMBLEA (work in progress)
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** TBD
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+#### Transition Asymptotics for the Real Solutions of the sinh-Gordon Painlev\'e III: Kenta Miyahara (Indiana University Indianapolis)
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** East Hall, EH 1866
+- **Description:** We consider solutions of the sinh-Gordon Painlev\'e III equation \[ u_{xx} + \frac{1}{x} u_x = \sinh u \] that are real on \((0, \infty)\). They are parametrized by the monodromy parameter \( p \in...
+- **Tags:** Workshop / Seminar, Mathematics, Seminar
+- **Source:** [U-M](http://events.umich.edu/event/143022)
+
+#### Workshop - On Revival: Hebrew Literature between Life and Death: Roni Henig
+
+- **Time:** 4:00 PM - 5:30 PM
+- **Venue:** 202 S. Thayer, 2000
+- **Description:** We warmly invite you to attend a special workshop with visiting scholar Roni Henig (Assistant Professor of Modern Hebrew Literature at New York University) on Monday, February 16, from 4:00 - 5:30 ...
+- **Tags:** Workshop / Seminar, Books, hebrew literature, Humanities, Jewish Studies
+- **Source:** [U-M](http://events.umich.edu/event/144963)
+
+#### 2025-2026 Ginsberg Center Events: Community Leadership Fellows 2026-2027 -- Info Session
+
+- **Time:** 4:30 PM - 5:30 PM
+- **Venue:** University of Michigan
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/142627)
+
+#### China Reading Group RIW: Book Discussion: Creative Belonging: The Qiang and Multiethnic Imagination in Modern China
+
+- **Time:** 4:30 PM - 5:30 PM
+- **Venue:** Eisenberg Conference Room / 1521 Haven Hall
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/127930)
+
+#### Community Leadership Fellows 2026-2027 -- Info Session
+
+- **Time:** 4:30 PM - 5:30 PM
+- **Venue:** Off Campus Location
+- **Description:** Learn more about The Ginsberg Center's Community Leadership Fellows Program. Students admitted to the program are placed in an internship with a local nonprofit, community organization, or governme...
+- **Tags:** Workshop / Seminar, Community Engagement, Graduate Students, Internship, Non-profit
+- **Source:** [U-M](http://events.umich.edu/event/145241)
+
+#### Graduate Society of Women Engineers: Graduate Society of Women Engineers Outreach Activities: Afterschool STEM Workshop with Kids!
+
+- **Time:** 4:30 PM - 6:00 PM
+- **Venue:** Creekside Court CAN Community Center, 3425 Platt Rd, Ann Arbor, MI 48108
+- **Description:** The Graduate Society of Women Engineers hosts events to help female graduate engineers thrive socially, academically, and professionally. For more information, visit our website and enter your emai...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/114156)
+
+#### Biology & Neuroscience Major Information Sessions: Peer Advisors
+
+- **Time:** 5:00 PM - 6:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Prospective students interested in learning more about our majors, honors, and independent research in the Program in Biology and Undergraduate Program in Neuroscience are invited to attend our inf...
+- **Tags:** Livestream / Virtual, biodiversity, Biology, Biosciences, Ecology And Evolutionary Biology
+- **Source:** [U-M](http://events.umich.edu/event/132770)
+
+#### BURSLEY HALL 2025-2026: Multiple conference events and sessions: Vision Boards and Vibes
+
+- **Time:** 5:00 PM - 9:00 PM
+- **Venue:** Bursley Lobby
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135622)
+
+#### DIY Picture Frames at Baits II
+
+- **Time:** 5:00 PM - 6:30 PM
+- **Venue:** Baits House II, Grace Lee Boggs Multicultural Lounge
+- **Description:** Join the Baits II Multicultural Lounge Community Assistants to decorate picture frames! Snacks will be provided!
+- **Tags:** Social / Informal Gathering, Crafts, housing
+- **Source:** [U-M](http://events.umich.edu/event/144230)
+
+#### Latine Research Week 2026
+
+- **Time:** 5:00 PM - 6:30 PM
+- **Venue:** Rackham Graduate School (Horace H.)
+- **Description:** Puentes presents: Latine Research Week 2026 on February 16th - 19th, 2026 in the Rackham Graduate School. Latine Research Week (LRW) is a multidisciplinary conference that celebrates the scholarshi...
+- **Tags:** Conference / Symposium, Biology, Free, Graduate, Graduate and Professional Students
+- **Source:** [U-M](http://events.umich.edu/event/141734)
+
+#### Legacy Lab Winter Workshops (Virutal)
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** Off Campus Location
+- **Description:** ABOUT Legacy Lab is designed to help you reflect on your values, your purpose, and consider your legacy of leadership. The program is filled with reflective activities, powerful stories, and meanin...
+- **Tags:** Workshop / Seminar, Free, Graduate, Graduate Students, Leadership
+- **Source:** [U-M](http://events.umich.edu/event/140491)
+
+#### Maize & Blue Cupboard Volunteering: Multiple conference events and sessions: MBC Operating Hours
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** Maize and Blue Cupboard inside Betsy Barbour
+- **Description:** Come help us during normal operating hours; as well as, unload our weekly Food Gatherers deliveries and stock our shelves! If you are outside the U-M community, please reach out to maize.blue.cupbo...
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/102102)
+
+#### Program in Biology & Undergraduate Program in Neuroscience Events 2025 - 2026: Multiple conference events and sessions: Biology, Health, & Society (BHS) Major Information Session
+
+- **Time:** 5:00 PM - 6:00 PM
+- **Venue:** Zoom
+- **Description:** Events in this track are open to all current and prospective PiB and UPiN students. We hope to see you!
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138804)
+
+#### Puentes 2025-2026: Multiple conference events and sessions: Opening Ceremony
+
+- **Time:** 5:00 PM - 6:30 PM
+- **Venue:** Amphitheater
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/138562)
+
+#### Weight Inclusive Practice in Healthcare: "Your Fat Friend" Movie Night
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** Room 1690, SPH 1
+- **Description:** This workshop is for clinicians in training who seek to enhance their skills in providing weight-inclusive health and mental health care. No experience is needed - please come to as many or as few ...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/139240)
+
+#### WEST QUAD 2025-2026: Multiple conference events and sessions: Decompress and Donuts
+
+- **Time:** 5:00 PM - 6:00 PM
+- **Venue:** West Quad Multipurpose Room (1005)
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135686)
+
+#### Winter Wonders
+
+- **Time:** 5:00 PM - 8:00 PM
+- **Venue:** Ingalls Mall, South
+- **Description:** Ice Skating? Hot Chocolate? Free Scarves? Oh My! Join CCI for Winter Wonders! We will have activities, cocoa, pizza, and free scarves.
+- **Tags:** Social / Informal Gathering, Cci, Food, Free, Fun
+- **Source:** [U-M](http://events.umich.edu/event/144964)
+
+#### BSI Information Sessions- Current High School Students W26: BSI Information Sessions- Current High School Students W26 #2
+
+- **Time:** 6:00 PM - 7:00 PM
+- **Venue:** Virtual
+- **Description:** We encourage every student interested in or contemplating an undergraduate degree at the School of Information to attend an information session. You will receive an engaging and comprehensive overv...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/143065)
+
+#### ESL Conversation Groups
+
+- **Time:** 6:00 PM - 7:30 PM
+- **Venue:** Traverwood Branch: Program Room
+- **Description:** Public Event
+- **Tags:** Public Event
+- **Source:** [AADL](https://aadl.org/node/644764)
+
+#### February Brazilian Zouk Dance Lessons
+
+- **Time:** 6:00 PM - 9:00 PM
+- **Venue:** Mason Hall
+- **Description:** Hi zoukinis! Join us for Brazilian Zouk Dance Lessons! Not sure what Zouk is? Zouk is a Brazilian social partner dance known for its fun-loving and playful style, often involving close embrace, bod...
+- **Tags:** Exercise / Fitness
+- **Source:** [U-M](http://events.umich.edu/event/144661)
+
+#### HENDERSON HOUSE 2025-2026: Multiple conference events and sessions: Lunar New Year Celebration & Dinner
+
+- **Time:** 6:00 PM - 8:00 PM
+- **Venue:** Henderson House Dining Room
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135667)
+
+#### Lunar New Year Celebration at Betsy Barbour
+
+- **Time:** 6:00 PM - 7:30 PM
+- **Venue:** Betsy Barbour House, Community Center
+- **Description:** Join the Barbour and Newberry Multicultural Council in celebrating Lunar New Year with an evening of crafting Chinese folk art (Zhongguo jie) and enjoying traditional dishes!
+- **Tags:** Social / Informal Gathering, Community, Community Building, Community Engagement, community gathering
+- **Source:** [U-M](http://events.umich.edu/event/144584)
+
+#### Sewing Lab |  Machine Hemming with Amber Adams-Fall
+
+- **Time:** 6:00 PM - 7:30 PM
+- **Venue:** Downtown Library: Secret Lab
+- **Description:** Crafts
+- **Tags:** Crafts, Grade 6–Adult
+- **Source:** [AADL](https://aadl.org/node/645694)
+
+#### Emerging Writers Monthly | Meet-Up
+
+- **Time:** 6:30 PM - 7:45 PM
+- **Venue:** Westgate Branch: West Side Room
+- **Description:** Writing & Publishing
+- **Tags:** Writing & Publishing
+- **Source:** [AADL](https://aadl.org/node/647134)
+
+#### Writing in "Academic Style: Meredith Bricker
+
+- **Time:** 6:30 PM - 8:30 PM
+- **Venue:** Central Campus Classroom Building, CCCB0460
+- **Description:** Whether you are writing a research article, class assignment, conference abstract, or dissertation, the words, grammatical structures, and organizational patterns you use all signal whether your te...
+- **Tags:** Social / Informal Gathering, English, Graduate And Professional Students, International, International Center
+- **Source:** [U-M](http://events.umich.edu/event/143825)
+
+#### Game Nights @ the TSC
+
+- **Time:** 7:00 PM - 9:00 PM
+- **Venue:** LSA Building, 1180 (Transfer Student Center)
+- **Description:** Transfer students, join us for game nights at the Transfer Student Center! Come enjoy board & card games, food, mingling, & a growing community of transfer students. No registration needed -- just ...
+- **Tags:** Recreational / Games, transfer, Transfer Student Center, Transfer Students
+- **Source:** [U-M](http://events.umich.edu/event/126350)
+
+#### NORTH QUAD 2025-2026: Multiple conference events and sessions: Max Kade Mario Kart Tournier
+
+- **Time:** 8:00 PM - 9:00 PM
+- **Venue:** University of Michigan
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135674)
+
+#### SOUTH QUAD / FLETCHER 2025-2026: Multiple conference events and sessions: Honors Dinner at South Quad(Hunt House 4)
+
+- **Time:** 8:00 PM - 9:00 PM
+- **Venue:** Community Center in South Quad
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135683)
+
+#### WEST QUAD 2025-2026: Multiple conference events and sessions: Clothing Drive
+
+- **Time:** 8:00 PM - 9:00 PM
+- **Venue:** 2nd Floor Chicago Lounge
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135686)
+
+#### SOUTH QUAD / FLETCHER 2025-2026: Multiple conference events and sessions: Honors Dinner at South Quad(Hunt House 3)
+
+- **Time:** 8:15 PM - 9:00 PM
+- **Venue:** South Quad Dining Hall
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135683)
 
 ---
