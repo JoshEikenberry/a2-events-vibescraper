@@ -1,1215 +1,6 @@
 [
   {
     "title": "2026 ACATA Princeton",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "23:59",
-    "venue": "Princeton, New Jersey",
-    "address": null,
-    "description": "Princeton ACATA Tournament 2026 - Join us for some Poomsae and Sparring competitions at Princeton!",
-    "source_url": "http://events.umich.edu/event/144466",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "c3f23752aa6349e4"
-  },
-  {
-    "title": "Ann Arbor Bridal Expo",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Shopping",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Calling all brides, grooms, and wedding enthusiasts! Join us for the Ann Arbor Bridal Expo&#x2014;the ultimate wedding planning experience! Over 40 amazing vendors will b...",
-    "source_url": "https://www.annarbor.org/event/ann-arbor-bridal-expo/23033/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "050aa0dc8215870a"
-  },
-  {
-    "title": "Ann Arbor's Drag Brunch",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "LGBTQ+",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Close out February the right way! Your afternoon features over an hour of glamorous drag performances starring some of Michigan&#x2019;s most creative entertainers, playf...",
-    "source_url": "https://www.annarbor.org/event/ann-arbors-drag-brunch/22536/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "df59ca8f9c460a97"
-  },
-  {
-    "title": "B Only Sportsplex Tournament",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "17:00",
-    "venue": "Sportsplex",
-    "address": null,
-    "description": "All Men's B Teams at Sportsplex",
-    "source_url": "http://events.umich.edu/event/144589",
-    "source_name": "U-M",
-    "tags": [
-      "Sporting Event"
-    ],
-    "event_id": "34bb3546c237ebb8"
-  },
-  {
-    "title": "Bike Repair Hours",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "23:59",
-    "venue": "Duderstadt Fabrication Underground",
-    "address": null,
-    "description": "Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...",
-    "source_url": "http://events.umich.edu/event/145016",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "0513bd5f8ed8d21f"
-  },
-  {
-    "title": "ConVocation 2026!",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Art",
-    "address": null,
-    "description": "02/19/2026 to 02/22/2026 - Since 1995, this 4-day convention has brought together hundreds of classes and rituals each year presented by internationally renowned guest speakers, published authors, ...",
-    "source_url": "https://www.annarbor.org/event/convocation-2026!/23008/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "4a0b3f9d2a67fbfd"
-  },
-  {
-    "title": "Creating the Future of Medicine for 175 Years",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "University of Michigan",
-    "address": null,
-    "description": "12/13/2025 to 04/26/2026 - In honor of the 175th anniversary of the opening of the U-M Medical School, this exhibit features artifacts, photos, facts and documents from across the history of U-M me...",
-    "source_url": "https://www.annarbor.org/event/creating-the-future-of-medicine-for-175-years/22360/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "a68cbf2094d37aab"
-  },
-  {
-    "title": "Exhibition Tour: American Sampler Activating the Archive with Stephen Ward",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Art",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Professor Stephen Ward will lead a conversation about American Sampler: Activating the Archive. This research-driven, immersive exhibition in UMMA&#x2019;s Vertical Galle...",
-    "source_url": "https://www.annarbor.org/event/exhibition-tour%3a-american-sampler-activating-the-archive-with-stephen-ward/23076/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "725d3ca5559e27df"
-  },
-  {
-    "title": "Feast of Word and Spirit",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "21:00",
-    "venue": "Rm 1405",
-    "address": null,
-    "description": "The “Feast of Word and Spirit” is a Bible-study gathering taking place from February 20–22 on Central Campus. We invite fellow Christian organizations on campus to partner with us for this event. T...",
-    "source_url": "http://events.umich.edu/event/143147",
-    "source_name": "U-M",
-    "tags": [
-      "Social / Informal Gathering"
-    ],
-    "event_id": "be4be7994fb379e2"
-  },
-  {
-    "title": "FULL SEMESTER SCHEDULE",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "23:59",
-    "venue": "Mason Hall",
-    "address": null,
-    "description": "This is a schedule of all our events happening this semester. Please follow the instagram or email iazamora@umich.edu to get on the email list for more information.",
-    "source_url": "http://events.umich.edu/event/145222",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "293041f86eeea34e"
-  },
-  {
-    "title": "Kayak by Jordan Hall",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Theaters and Performing Arts",
-    "address": null,
-    "description": "01/30/2026 to 02/22/2026 - Theatre NOVA presents:Kayakby Jordan HallJanuary 30 - February 22, 2026&#x200B;How high&#x2019;s the water, Mama? Alone on a vast stretch of water, Annie Iversen recounts...",
-    "source_url": "https://www.annarbor.org/event/kayak-by-jordan-hall/22564/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "635729b9bca47168"
-  },
-  {
-    "title": "Manchester Historical Museum",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Miscellaneous",
-    "address": null,
-    "description": "01/25/2026 to 03/22/2026 - The Manchester Historical Museum and Gift Shop is normally closed during the winter months, but due to community interest, it will be open from 1pm to 4pm on the followin...",
-    "source_url": "https://www.annarbor.org/event/manchester-historical-museum/22676/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "a5447a5dae3c3930"
-  },
-  {
-    "title": "Matt Jones & The Reconstruction",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Ypsilanti singer-songwriter, music preservationist and oral historian Matt Jones brings backing band The Reconstruction to The Ark for the first time in over a decade to ...",
-    "source_url": "https://www.annarbor.org/event/matt-jones-%26-the-reconstruction/23030/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "b9889eb1c8ecc219"
-  },
-  {
-    "title": "Mic Drop - The Improvised Singing Competition",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "01/25/2026 to 12/27/2026 - Every 4th Sunday, see the Season Finale of your favorite singing competition show, Mic Drop. Enjoy performances from the final 3 contestants and the &apos;celebrity&apos;...",
-    "source_url": "https://www.annarbor.org/event/mic-drop-the-improvised-singing-competition/22575/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "4b83295f14331046"
-  },
-  {
-    "title": "Phil Ogilvie's Rhythm Kings",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "02/15/2026 to 02/22/2026 - 10-piece big band led by Chris Smith, specializing in hot jazz of the 1920s and 30s. Jelly Roll Morton, King Oliver, Duke Ellington and other jazz legends are prominent i...",
-    "source_url": "https://www.annarbor.org/event/phil-ogilvies-rhythm-kings/22827/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "735095f73c9f5eff"
-  },
-  {
-    "title": "Polar Plunge for the Special Olympics",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Family Fun",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Join at HOMES Campus on Sunday, February 22nd 12 - 6pm as they host the Polar Plunge to raise money for the Special Olympics! All are welcome at this family-friendly even...",
-    "source_url": "https://www.annarbor.org/event/polar-plunge-for-the-special-olympics/22076/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "87967e0fbbd2c91f"
-  },
-  {
-    "title": "Proof By David Auburn",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Theaters and Performing Arts",
-    "address": null,
-    "description": "02/19/2026 to 02/22/2026 - Directed by Meriah Sage February 19, 20, 21 at 7pm, and February 21 &amp; 22 at 2pm, 2026Sponberg TheatreSuggested for ages 13+ Sponsored by the McLoughlin-McKee Family T...",
-    "source_url": "https://www.annarbor.org/event/proof-by-david-auburn/23037/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "5c80d5ee43636b62"
-  },
-  {
-    "title": "Saline Area Players presents Twelve Angry Jurors",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Theaters and Performing Arts",
-    "address": null,
-    "description": "02/20/2026 to 03/01/2026 - Saline Area Players presents - Twelve Angry Jurors Veronica Long directs local actors in an adaptation of Reginald Rose&#x2019;s 1954 play &quot;12 Angry Men.&quot; Set i...",
-    "source_url": "https://www.annarbor.org/event/saline-area-players-presents-twelve-angry-jurors/23036/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "99575b5bccddb7bc"
-  },
-  {
-    "title": "Shapiro Art Supplies Donation Bin",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "23:59",
-    "venue": "Shapiro Undergraduate Library Entrance",
-    "address": null,
-    "description": "We are running our first Donation Drive in support of the Gift of Arts program at Michigan Medicine! Please donate new, nontoxic art supplies from the list below, and spread the word!",
-    "source_url": "http://events.umich.edu/event/145254",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "89fc99c486e5ca0d"
-  },
-  {
-    "title": "Sonic Sundays Boogie Woogie Kid",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Join us for some swingin&apos; good tunes with the Boogie Woogie Kid. Pianist/Singer Matthew Ball brings a music smile to listeners with a fresh boogie-woogie piano twist...",
-    "source_url": "https://www.annarbor.org/event/sonic-sundays-boogie-woogie-kid/22983/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "c10eccc4bd8d5168"
-  },
-  {
-    "title": "Sunday Jazz at The Ravens Club",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "02/01/2026 to 09/27/2026 - Sundays are made for Jazz! End every chaotic weekend with some drinks, food &amp; live jazz amongst friends. There's just no other way. See you tonight!",
-    "source_url": "https://www.annarbor.org/event/sunday-jazz-at-the-ravens-club/22852/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "3bdff7a63ee93317"
-  },
-  {
-    "title": "Sunday Yoga at Bløm Mead + Cider",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Recreation",
-    "address": null,
-    "description": "Starting 06/05/2022 - Please visit the link to verify class times and instructors!Let go of that work week tension with a combo of bends and brews. Are you a master of the pretzel hold? Or does the...",
-    "source_url": "https://www.annarbor.org/event/sunday-yoga-at-bl%c3%b8m-mead-%2b-cider/10746/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "d73090bada0a12c9"
-  },
-  {
-    "title": "Tabletop Sundays",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Miscellaneous",
-    "address": null,
-    "description": "02/22/2026 to 03/22/2026 - Join us for an evening of tabletop games and craft cocktails! Bring a game, play a game, and enjoy Happy Hour specials as you participate!",
-    "source_url": "https://www.annarbor.org/event/tabletop-sundays/23043/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "a37d76f5372dbf6f"
-  },
-  {
-    "title": "The Ark’s 39th Annual Storytelling Festival Family Show",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Family Fun",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Storytelling for the whole family This annual event brings both locally based and nationally known story tellers to The Ark stage. This year&#x2019;s story tellers are Je...",
-    "source_url": "https://www.annarbor.org/event/the-ark%e2%80%99s-39th-annual-storytelling-festival-family-show/22222/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "83028360fbfc8fe3"
-  },
-  {
-    "title": "The Real Drag Brunch of Ann Arbor",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "LGBTQ+",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Hosted by Lotipha Rene&#xE9; Hunter with Valentina Ros&#xE9; Amor, Seasin, Baddie Brooks, and Donnie Love Hunter! Come enjoy Ann Arbor&#x2019;s drag brunch at Uplift, whe...",
-    "source_url": "https://www.annarbor.org/event/the-real-drag-brunch-of-ann-arbor/23111/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "2383cfe4f10f3bc9"
-  },
-  {
-    "title": "The Singing Horn: Mary Beth Orr, French horn & vocalist with pianist Kathryn Goodson",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "02/22/2026 to 02/22/2026 - Mary Beth Orr&#x2019;s The Singing Horn bridges the divide between opposites &#x2014; folk and classical, raw and refined, life and loss. Some selections will flow like a...",
-    "source_url": "https://www.annarbor.org/event/the-singing-horn%3a-mary-beth-orr-french-horn-%26-vocalist-with-pianist-kathryn-goodson/22749/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "1ee3c7f9be6ad738"
-  },
-  {
-    "title": "The Smoke, the Ghost, the Balm at Cluster Museum",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Art",
-    "address": null,
-    "description": "01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...",
-    "source_url": "https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "816e3f974f793fea"
-  },
-  {
-    "title": "UCF Tournament",
-    "date": "2026-02-22",
-    "time": "00:00",
-    "end_time": "13:30",
-    "venue": "RWC Park",
-    "address": null,
-    "description": "UCF tournament 2/20-2/22",
-    "source_url": "http://events.umich.edu/event/143522",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "8f9974b18b7b7955"
-  },
-  {
-    "title": "Yes You Can! - (Un-)Plugged Benefit Music Open Mic",
-    "date": "2026-02-22",
-    "time": null,
-    "end_time": null,
-    "venue": "Concerts &amp; Music",
-    "address": null,
-    "description": "01/25/2026 to 03/29/2026 - Come join this (Un-)Plugged Benefit Music Open Mic on the last Sunday of the month from 3-6pm! All donations go to UNICEF. We&#x2019;re moving indoors into the Theater, t...",
-    "source_url": "https://www.annarbor.org/event/yes-you-can!-(un-)plugged-benefit-music-open-mic/22648/",
-    "source_name": "Destination Ann Arbor",
-    "tags": [
-      "Community"
-    ],
-    "event_id": "c5f9de6f5436c660"
-  },
-  {
-    "title": "CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026",
-    "date": "2026-02-22",
-    "time": "08:00",
-    "end_time": "16:00",
-    "venue": "University of Michigan",
-    "address": null,
-    "description": "Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...",
-    "source_url": "http://events.umich.edu/event/143388",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "Area Studies",
-      "Armenian Studies",
-      "history"
-    ],
-    "event_id": "40c5e06e2809013a"
-  },
-  {
-    "title": "LACS Exhibition. Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador: February 2-26, 2026 | International Institute Gallery, 547 Weiser Hall",
-    "date": "2026-02-22",
-    "time": "08:30",
-    "end_time": "17:00",
-    "venue": "Weiser Hall, International Institute Gallery, Room 547",
-    "address": null,
-    "description": "*Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador* Curator: Ryan B. Morrison | Curatorial Assistant: Isabella H. de Lemos February 2-26, 2026, International In...",
-    "source_url": "http://events.umich.edu/event/143613",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "Afro-brazilian Studies",
-      "Area Studies",
-      "Art",
-      "brazil"
-    ],
-    "event_id": "01890fe878e291d4"
-  },
-  {
-    "title": "Materia Magica: Materiality and Ritual in the Greco-Roman World",
-    "date": "2026-02-22",
-    "time": "09:00",
-    "end_time": "20:00",
-    "venue": "Hatcher Graduate Library",
-    "address": null,
-    "description": "View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...",
-    "source_url": "http://events.umich.edu/event/142417",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "Archaeology",
-      "Free",
-      "Library"
-    ],
-    "event_id": "d4c18bca8365e722"
-  },
-  {
-    "title": "The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History",
-    "date": "2026-02-22",
-    "time": "09:00",
-    "end_time": "21:00",
-    "venue": "Hatcher Graduate Library, Clark Library (2nd floor)",
-    "address": null,
-    "description": "Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...",
-    "source_url": "http://events.umich.edu/event/138431",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "Free",
-      "Library",
-      "Maps"
-    ],
-    "event_id": "ac86a38d24d09979"
-  },
-  {
-    "title": "Wildcat Indoor Triathlon",
-    "date": "2026-02-22",
-    "time": "09:00",
-    "end_time": "12:30",
-    "venue": "Northwestern Norris Aquatic Center",
-    "address": null,
-    "description": "Indoor Triathlon at Northwestern University",
-    "source_url": "http://events.umich.edu/event/143565",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "3e1ac2d298ee710c"
-  },
-  {
-    "title": "AADL Welcomes | Jewish Storytime and Activities",
-    "date": "2026-02-22",
-    "time": "10:30",
-    "end_time": "11:30",
-    "venue": "Downtown Library: 3rd Floor Community Room 2",
-    "address": null,
-    "description": "Public Event",
-    "source_url": "https://aadl.org/node/663899",
-    "source_name": "AADL",
-    "tags": [
-      "Public Event",
-      "Age 4–7"
-    ],
-    "event_id": "2451e84fa74c39b6"
-  },
-  {
-    "title": "TRANSDISCIPLINARY FELLOWS 2025-2026: Multiple conference events and sessions: Coffee and Conversations (Bring Your Own Plate/ BYOP edition)",
-    "date": "2026-02-22",
-    "time": "11:00",
-    "end_time": "12:00",
-    "venue": "Munger First Floor Lobby",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135685",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "93569dbbe4d39b15"
-  },
-  {
-    "title": "AADL Welcomes | Hebrew Storytime and Activities",
-    "date": "2026-02-22",
-    "time": "11:30",
-    "end_time": "12:30",
-    "venue": "Downtown Library: 3rd Floor Community Room 2",
-    "address": null,
-    "description": "Public Event",
-    "source_url": "https://aadl.org/node/663905",
-    "source_name": "AADL",
-    "tags": [
-      "Public Event",
-      "Age 4–7"
-    ],
-    "event_id": "242e8730405f92e5"
-  },
-  {
-    "title": "LAWYERS CLUB 2025-2026: Multiple conference events and sessions: Midterm Outlines and Study Prep Brunch",
-    "date": "2026-02-22",
-    "time": "11:30",
-    "end_time": "13:00",
-    "venue": "LC Dining Hall",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135668",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "0b3ad1816dafdcf4"
-  },
-  {
-    "title": "Creating the Future of Medicine for 175 Years: A free museum exhibit about U-M medical history",
-    "date": "2026-02-22",
-    "time": "12:00",
-    "end_time": "16:00",
-    "venue": "Off Campus Location",
-    "address": null,
-    "description": "As the Medical School celebrates the anniversary of its opening in the fall of 1850, and Michigan Medicine marks the 100th anniversary of the opening of the \"Old Main\" University Hospital that serv...",
-    "source_url": "http://events.umich.edu/event/139428",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "History",
-      "Life Science",
-      "Medicine",
-      "Museum"
-    ],
-    "event_id": "4116f141656f6c29"
-  },
-  {
-    "title": "Expedition Reef",
-    "date": "2026-02-22",
-    "time": "12:00",
-    "end_time": "12:45",
-    "venue": "Museum of Natural History, Planetarium & Dome Theater",
-    "address": null,
-    "description": "Learn the secrets of the “rainforests of the sea” as you embark on an oceanic safari of the world’s most vibrant—and endangered—marine ecosystems. Expedition Reef immerses you in an undersea advent...",
-    "source_url": "http://events.umich.edu/event/95986",
-    "source_name": "U-M",
-    "tags": [
-      "Presentation",
-      "natural history museum",
-      "Natural Sciences"
-    ],
-    "event_id": "053bfaca4509ac93"
-  },
-  {
-    "title": "From Flaxseed to Fiber with the Michigan Fibershed Project",
-    "date": "2026-02-22",
-    "time": "12:00",
-    "end_time": "14:00",
-    "venue": "Downtown Library: Secret Lab",
-    "address": null,
-    "description": "Lectures & Panel Discussions",
-    "source_url": "https://aadl.org/node/646128",
-    "source_name": "AADL",
-    "tags": [
-      "Lectures & Panel Discussions"
-    ],
-    "event_id": "7645a27894db8ddd"
-  },
-  {
-    "title": "Volunteering at Leveling the Playing Field",
-    "date": "2026-02-22",
-    "time": "12:00",
-    "end_time": "14:00",
-    "venue": "LPF SEMI",
-    "address": null,
-    "description": "Volunteering at Leveling the Playing Field",
-    "source_url": "http://events.umich.edu/event/145758",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "c210d10bd46b58eb"
-  },
-  {
-    "title": "Author Event | 1st Michigan Colored Regiment with Maurice Imhoff",
-    "date": "2026-02-22",
-    "time": "13:00",
-    "end_time": "14:00",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": null,
-    "description": "Lectures & Panel Discussions",
-    "source_url": "https://aadl.org/node/648124",
-    "source_name": "AADL",
-    "tags": [
-      "Lectures & Panel Discussions"
-    ],
-    "event_id": "42d2e0f7969c666c"
-  },
-  {
-    "title": "The Ark's 39th Annual Storytelling Festival Family Show: Presented by The Ark",
-    "date": "2026-02-22",
-    "time": "13:00",
-    "end_time": null,
-    "venue": "GA - The Ark",
-    "address": null,
-    "description": "Storytelling for the whole family This annual event brings both locally based and nationally known story tellers to The Ark stage. This year’s story tellers are Jennifer Otto and Adam Booth.",
-    "source_url": "http://events.umich.edu/event/139439",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Ark",
-      "Festival",
-      "Mutotix",
-      "Storytelling"
-    ],
-    "event_id": "78e7c5222b13057c"
-  },
-  {
-    "title": "Weekly Reset - Central Campus",
-    "date": "2026-02-22",
-    "time": "13:30",
-    "end_time": "15:30",
-    "venue": "Mason Hall",
-    "address": null,
-    "description": "Welcome to the ADHD Student Group's Weekly Reset! This weekly event combines peer support with weekly planning, and gives students a chance to begin working towards their goals. Each session will s...",
-    "source_url": "http://events.umich.edu/event/145224",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "06555f2a98cdf4c4"
-  },
-  {
-    "title": "Beginner Friendly Brazilian Jiu-Jitsu Training",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "Ann Arbor BJJ",
-    "address": null,
-    "description": "Our weekly beginner-friendly sessions are designed for students who are new to Brazilian Jiu-Jitsu or looking for a structured, low-pressure environment to build strong fundamentals. Each session f...",
-    "source_url": "http://events.umich.edu/event/144484",
-    "source_name": "U-M",
-    "tags": [
-      "Exercise / Fitness"
-    ],
-    "event_id": "c59a4923b409b4f3"
-  },
-  {
-    "title": "Crafting Meeting",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "16:00",
-    "venue": "Michigan League, Room 4",
-    "address": null,
-    "description": "All are welcome to join us every Sunday from 2:00-4:00p for our weekly crafting meeting! All skills are welcome with plenty of teachers and projects for knitting and crocheting each week. If you ha...",
-    "source_url": "http://events.umich.edu/event/143237",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "dd6dfa8ab6c24166"
-  },
-  {
-    "title": "DIY Stamps",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "Downtown Library: Lower Level Program Room",
-    "address": null,
-    "description": "Crafts",
-    "source_url": "https://aadl.org/node/647413",
-    "source_name": "AADL",
-    "tags": [
-      "Crafts",
-      "Preschool–Grade 5"
-    ],
-    "event_id": "c898d52a37661915"
-  },
-  {
-    "title": "Exhibition Tour: American Sampler Activating the Archive with Stephen Ward",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "Museum of Art, Vertical Gallery",
-    "address": null,
-    "description": "Professor Stephen Ward will lead a conversation about *American Sampler: Activating the Archive*. This research-driven, immersive exhibition in UMMA’s Vertical Gallery is a collaboration with the J...",
-    "source_url": "http://events.umich.edu/event/145031",
-    "source_name": "U-M",
-    "tags": [
-      "Auditions"
-    ],
-    "event_id": "e942088aa0074a6a"
-  },
-  {
-    "title": "Maize & Blue Cupboard Volunteering: Multiple conference events and sessions: MBC Operating Hours",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "16:00",
-    "venue": "Maize and Blue Cupboard inside Betsy Barbour",
-    "address": null,
-    "description": "Come help us during normal operating hours; as well as, unload our weekly Food Gatherers deliveries and stock our shelves! If you are outside the U-M community, please reach out to maize.blue.cupbo...",
-    "source_url": "http://events.umich.edu/event/102102",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "e67cb7a65d99838f"
-  },
-  {
-    "title": "Sunday Drop-In Tour | Daily Life in Ancient Rome: Dave Horrocks, Docent",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "Kelsey Museum of Archaeology",
-    "address": null,
-    "description": "What was life like in ancient Rome? This tour will explore artifacts related to dining, bathing, entertainment, and medicine, including a look at the engineering that supported the Roman quality of...",
-    "source_url": "http://events.umich.edu/event/144029",
-    "source_name": "U-M",
-    "tags": [
-      "Tours",
-      "Ancient Rome",
-      "Archaeology",
-      "Free",
-      "History"
-    ],
-    "event_id": "ef9bc525d1dba48a"
-  },
-  {
-    "title": "T.REX",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "14:45",
-    "venue": "Museum of Natural History, Planetarium & Dome Theater",
-    "address": null,
-    "description": "With stunning CGI visuals and the latest research from leading paleontologists, the film offers audiences a fresh perspective on the GOAT (Greatest Of All Tyrants): Tyrannosaurus rex. Anchored by t...",
-    "source_url": "http://events.umich.edu/event/136347",
-    "source_name": "U-M",
-    "tags": [
-      "Film Screening",
-      "Museum",
-      "natural history museum",
-      "Planetarium"
-    ],
-    "event_id": "7acbb48ca3010af5"
-  },
-  {
-    "title": "The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade: Department of Theatre & Drama",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "16:00",
-    "venue": "Power Center for the Performing Arts",
-    "address": null,
-    "description": "Based on a true story, *Marat/Sade* is a shocking and relevant work about human suffering, class struggle, and mental illness as depicted in the play itself and the play-within-a-play. Winner of a ...",
-    "source_url": "http://events.umich.edu/event/135550",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Storytelling",
-      "Theater"
-    ],
-    "event_id": "22ccdbb06c49db80"
-  },
-  {
-    "title": "The Sounds and Stories of Africa with Fishmonger Stories",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "Westgate Branch: West Side Room",
-    "address": null,
-    "description": "Performers",
-    "source_url": "https://aadl.org/node/647377",
-    "source_name": "AADL",
-    "tags": [
-      "Performers",
-      "Grade K–Adult"
-    ],
-    "event_id": "7fd2475eb4cebac9"
-  },
-  {
-    "title": "Vision Board & Guided Meditation [FREE]",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "end_time": "15:00",
-    "venue": "North Quad, 2135",
-    "address": null,
-    "description": "Join us for an inspiring afternoon of creativity and inner connection at our Vision Board & Heartfulness Meditation event on February 22nd from 2:00 – 3:00 PM in North Quad 2135. This experience is...",
-    "source_url": "http://events.umich.edu/event/145652",
-    "source_name": "U-M",
-    "tags": [
-      "Social / Informal Gathering",
-      "Mental Health",
-      "Well-being",
-      "Wellness",
-      "Yoga"
-    ],
-    "event_id": "840692acfb77e9df"
-  },
-  {
-    "title": "[Cancelled] Dorian Hall, voice",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "end_time": "16:00",
-    "venue": "Walgreen Drama Center, Stamps Auditorium",
-    "address": null,
-    "description": "This performance has been cancelled. We apologize for any inconvenience.",
-    "source_url": "http://events.umich.edu/event/145446",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Free",
-      "Music",
-      "North Campus"
-    ],
-    "event_id": "ada0eadf8ed29552"
-  },
-  {
-    "title": "Sky Tonight",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "end_time": "15:45",
-    "venue": "Museum of Natural History, Planetarium & Dome Theater",
-    "address": null,
-    "description": "A live presentation on what to find in the sky tonight and for the coming few weeks. This presentation includes how to find the cardinal directions with the North Star, current and upcoming constel...",
-    "source_url": "http://events.umich.edu/event/141325",
-    "source_name": "U-M",
-    "tags": [
-      "Exhibition",
-      "Astronomy",
-      "Children",
-      "Family",
-      "Museum"
-    ],
-    "event_id": "4850c7344a8fd44a"
-  },
-  {
-    "title": "Soul Food Sunday Presents: Food for the Soul",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "end_time": "17:00",
-    "venue": "Trotter Multicultural Center - Multipurpose Rooms and Sankofa Lounge",
-    "address": null,
-    "description": "Join us for Soul Food Sundays, an uplifting program inspired by the rich African American tradition of Sunday dinners at the home of the family matriarch. These cherished gatherings have long been ...",
-    "source_url": "http://events.umich.edu/event/143878",
-    "source_name": "U-M",
-    "tags": [
-      "Workshop / Seminar",
-      "Black History Month",
-      "Sessions"
-    ],
-    "event_id": "3d8ae7c1434fc2c4"
-  },
-  {
-    "title": "Sunny Wilkinson Vocal Jazz Master Class: Chisholm Jazz Master Class Series",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "end_time": "17:00",
-    "venue": "Stearns Building, Cady Room",
-    "address": null,
-    "description": "Acclaimed Jazz Vocalist Sunny Wilkinson presents a vocal jazz master class; free and open to the public. Sunny Wilkinson has taken her place in that elite group of jazz vocalists who have stretched...",
-    "source_url": "http://events.umich.edu/event/142026",
-    "source_name": "U-M",
-    "tags": [
-      "Class / Instruction",
-      "Free",
-      "Music",
-      "North Campus",
-      "Talk"
-    ],
-    "event_id": "a4d873d875b9047a"
-  },
-  {
-    "title": "HENDERSON HOUSE 2025-2026: Multiple conference events and sessions: Henderson House Weekly Sunday Night Meetings",
-    "date": "2026-02-22",
-    "time": "16:00",
-    "end_time": "17:00",
-    "venue": "Henderson House Dining Room",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135667",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "562af2e6a93d4b2f"
-  },
-  {
-    "title": "Michigan Chamber Players",
-    "date": "2026-02-22",
-    "time": "16:00",
-    "end_time": "17:30",
-    "venue": "Earl V. Moore Building, Britton Recital Hall",
-    "address": null,
-    "description": "The Michigan Chamber Players present three pieces of chamber music from the nineteenth and twentieth centuries: *Les Citations* by Henri Dutilleux, the Clarinet Trio by Johannes Brahms, and Gabriel...",
-    "source_url": "http://events.umich.edu/event/142027",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Faculty",
-      "Free",
-      "Music",
-      "North Campus"
-    ],
-    "event_id": "233da9a99d8ebd9d"
-  },
-  {
-    "title": "Weekly Reset - Zoom",
-    "date": "2026-02-22",
-    "time": "16:30",
-    "end_time": "18:30",
-    "venue": "Zoom",
-    "address": null,
-    "description": "Welcome to the ADHD Student Group's Weekly Reset! This weekly event combines peer support with weekly planning, and gives students a chance to begin working towards their goals. Each session will s...",
-    "source_url": "http://events.umich.edu/event/145228",
-    "source_name": "U-M",
-    "tags": [
-      "Other"
-    ],
-    "event_id": "26188171aa20ca51"
-  },
-  {
-    "title": "Club Meeting - Wolverines on Wheels (WoW)",
-    "date": "2026-02-22",
-    "time": "17:00",
-    "end_time": "18:00",
-    "venue": "Sophia B Jones Room - 1st Floor Michigan Union",
-    "address": null,
-    "description": "Join us for our weekly club meeting to discuss campus bike infrastructure and education initiatives! Here, we plan our group rides, pop-ups, grant applications, and open the floor to ANY ideas rela...",
-    "source_url": "http://events.umich.edu/event/142605",
-    "source_name": "U-M",
-    "tags": [
-      "Community Service"
-    ],
-    "event_id": "600c31500d9c5b27"
-  },
-  {
-    "title": "FYRST Workshops 2025: FYRST Workshop",
-    "date": "2026-02-22",
-    "time": "17:00",
-    "end_time": "19:00",
-    "venue": "League-Michigan Room (2nd Floor)",
-    "address": null,
-    "description": "First-Year Relationship and Sexuality Talk (FYRST) is a required, in-person, and peer-facilitated workshop that came directly from feedback and listening sessions with current University of Michiga...",
-    "source_url": "http://events.umich.edu/event/134554",
-    "source_name": "U-M",
-    "tags": [
-      "Workshop / Seminar",
-      "Sessions"
-    ],
-    "event_id": "041a39b2218331d8"
-  },
-  {
-    "title": "BAITS II 2025-2026: Multiple conference events and sessions: Junk Journaling",
-    "date": "2026-02-22",
-    "time": "17:30",
-    "end_time": "19:00",
-    "venue": "Coman House Lounge",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135619",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "8b4f730e1f03d7de"
-  },
-  {
-    "title": "Gadites Meeting",
-    "date": "2026-02-22",
-    "time": "18:00",
-    "end_time": "20:00",
-    "venue": "East Quadrangle, 1405",
-    "address": null,
-    "description": "Matthew 5:6 KJV Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Let's pray and come with hunger and thirst, because the Lord is prepared to feed us again ...",
-    "source_url": "http://events.umich.edu/event/144605",
-    "source_name": "U-M",
-    "tags": [
-      "Well-being",
-      "Religious",
-      "Undergraduate"
-    ],
-    "event_id": "87eacc3ecbb8acbf"
-  },
-  {
-    "title": "BARBOUR/NEWBERRY 2025-2026: Multiple conference events and sessions: Galentine's Day Party",
-    "date": "2026-02-22",
-    "time": "19:00",
-    "end_time": "20:00",
-    "venue": "Betsy Barbour Lounge",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135620",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "39f2f1c98d8e7eaa"
-  },
-  {
-    "title": "MUNGER GRADUATE RESIDENCES 2025-2026: Multiple conference events and sessions: Sinners Movie Night",
-    "date": "2026-02-22",
-    "time": "19:00",
-    "end_time": "12:00",
-    "venue": "Munger Movie Theater Room (Ground Level)",
-    "address": null,
-    "description": "Join the Munger Community by attending events hosted by our Resident Advisors (RAs)! Feel free to select and attend as many events as you would like!",
-    "source_url": "http://events.umich.edu/event/135673",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "3c50e051852276e8"
-  },
-  {
-    "title": "RC Drama Staged Reading Series: Hosted by the RC Drama Program",
-    "date": "2026-02-22",
-    "time": "19:00",
-    "end_time": "20:30",
-    "venue": "East Quadrangle, Keene Theater",
-    "address": null,
-    "description": "See below for a list of upcoming staged readings at the Keene Theater! Sunday Feb 8 - 7pm The RC Drama Staged Reading series returns on February 8th at 7pm in the Keene theater with the recent Broa...",
-    "source_url": "http://events.umich.edu/event/144626",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "All Majors Welcome",
-      "Alumni",
-      "american culture",
-      "Ann Arbor"
-    ],
-    "event_id": "b8d72c576574b266"
-  },
-  {
-    "title": "Solomia Soroka, violin & Arthur Greene, piano: Lost American Sonatas",
-    "date": "2026-02-22",
-    "time": "19:00",
-    "end_time": "20:30",
-    "venue": "Earl V. Moore Building, Britton Recital Hall",
-    "address": null,
-    "description": "Violinist Solomia Soroka and her husband Arthur Greene, professor of piano, will present a program titled Lost American Sonatas. A highlight is a major and magnificent sonata by Rosseter Cole, who ...",
-    "source_url": "http://events.umich.edu/event/143733",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Faculty",
-      "Free",
-      "Music",
-      "North Campus"
-    ],
-    "event_id": "4ebdd35697b20a17"
-  },
-  {
-    "title": "Isabella Ashtari, harp: Golden Dreams",
-    "date": "2026-02-22",
-    "time": "19:30",
-    "end_time": "21:00",
-    "venue": "Earl V. Moore Building, McIntosh Theatre",
-    "address": null,
-    "description": "Undergraduate student Isabella Ashtari performs a junior recital. With guest perfomers Maydine Bellot, cello; Brandon Ma, viola; Anoush Rophael, violin; and Nathalie Tsimhoni, violin.",
-    "source_url": "http://events.umich.edu/event/144672",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Free",
-      "Music",
-      "North Campus"
-    ],
-    "event_id": "1f68c4392298a659"
-  },
-  {
-    "title": "Matt Jones &#038; The Reconstruction",
-    "date": "2026-02-22",
-    "time": "19:30",
-    "end_time": "23:00",
-    "venue": "The Ark",
-    "address": "316 S. Main, Ann Arbor, MI",
-    "description": "&lt;p&gt;Ypsilanti singer-songwriter, music preservationist and oral historian Matt Jones brings backing band The Reconstruction to The Ark for the first time in over a decade to release his new al...",
-    "source_url": "https://theark.org/event/matt-jones-the-reconstruction-250222/",
-    "source_name": "The Ark",
-    "tags": [
-      "Live Music"
-    ],
-    "event_id": "5f191b2ae6499d46"
-  },
-  {
-    "title": "Matt Jones &The Reconstruction: Presented by The Ark",
-    "date": "2026-02-22",
-    "time": "19:30",
-    "end_time": null,
-    "venue": "ARK Reserved",
-    "address": null,
-    "description": "Album release show Ypsilanti singer-songwriter, music preservationist and oral historian Matt Jones brings backing band The Reconstruction to The Ark for the first time in over a decade to release ...",
-    "source_url": "http://events.umich.edu/event/142460",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Ark",
-      "Mutotix"
-    ],
-    "event_id": "fe93c536a5e4c870"
-  },
-  {
-    "title": "BURSLEY HALL 2025-2026: Multiple conference events and sessions: Winter Wellness Night",
-    "date": "2026-02-22",
-    "time": "20:00",
-    "end_time": "21:00",
-    "venue": "Bursley Lobby",
-    "address": null,
-    "description": null,
-    "source_url": "http://events.umich.edu/event/135622",
-    "source_name": "U-M",
-    "tags": [
-      "Conference / Symposium",
-      "Sessions"
-    ],
-    "event_id": "dfe3a988a365eb0e"
-  },
-  {
-    "title": "Tieran Holmes, flute & piccolo",
-    "date": "2026-02-22",
-    "time": "20:00",
-    "end_time": "21:30",
-    "venue": "Walgreen Drama Center, Stamps Auditorium",
-    "address": null,
-    "description": "Undergraduate student Tieran Holmes performs a final senior recital.",
-    "source_url": "http://events.umich.edu/event/144510",
-    "source_name": "U-M",
-    "tags": [
-      "Performance",
-      "Free",
-      "Music",
-      "North Campus"
-    ],
-    "event_id": "20d00617b10ff684"
-  },
-  {
-    "title": "2026 ACATA Princeton",
     "date": "2026-02-23",
     "time": "00:00",
     "end_time": "23:45",
@@ -1327,6 +118,21 @@
       "Other"
     ],
     "event_id": "5ce9cbd06ff592a6"
+  },
+  {
+    "title": "The Smoke, the Ghost, the Balm at Cluster Museum",
+    "date": "2026-02-23",
+    "time": null,
+    "end_time": null,
+    "venue": "Art",
+    "address": null,
+    "description": "01/30/2026 to 02/28/2026 - CLUSTER Museum&#x2019;s 2026 exhibition season opens with The Smoke, the Ghost, the Balm, featuring work by Quinn A. Hunter (Ann Arbor), Eleanor Oakes (Detroit), and Hale...",
+    "source_url": "https://www.annarbor.org/event/the-smoke-the-ghost-the-balm-at-cluster-museum/22789/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "f4255b51d335fd1b"
   },
   {
     "title": "Toddler Time at Launch",
@@ -1798,6 +604,25 @@
     "event_id": "befd2eb0a9fef636"
   },
   {
+    "title": "Museums@Noon – Internships in Switzerland and West Africa: Museum Studies students internship experiences at Museum of Natural History of Bern, Switzerland and the Museum of West African Art",
+    "date": "2026-02-23",
+    "time": "12:00",
+    "end_time": "13:00",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "From the Field to the Museum: Experiences at the Museum of Natural History of Bern (Patricia Torres-Pineda, PhD student, Ecology & Evolutionary Biology) More than 60 million natural history specime...",
+    "source_url": "http://events.umich.edu/event/145801",
+    "source_name": "U-M",
+    "tags": [
+      "Lecture / Discussion",
+      "Anthropology",
+      "Ecology",
+      "Graduate School",
+      "Museum"
+    ],
+    "event_id": "b1b2f28d853e8a4f"
+  },
+  {
     "title": "Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense",
     "date": "2026-02-23",
     "time": "12:00",
@@ -2232,6 +1057,24 @@
     "event_id": "631437df63eecbee"
   },
   {
+    "title": "Semiclassical Soliton Ensembles for the Intermediate Long Wave and Korteweg-de Vries Equations: Matthew Mitchell (University of Central Florida)",
+    "date": "2026-02-23",
+    "time": "16:00",
+    "end_time": "17:00",
+    "venue": "East Hall, EH 1866",
+    "address": null,
+    "description": "Semiclassical soliton ensembles (SSE) in the small dispersion limit are initially coherent collections of many solitons that well-approximate some initial profile. Evolving forward in time, the pro...",
+    "source_url": "http://events.umich.edu/event/143638",
+    "source_name": "U-M",
+    "tags": [
+      "Livestream / Virtual",
+      "Mathematics",
+      "Seminar",
+      "Virtual"
+    ],
+    "event_id": "2ebbebe5f30a0f71"
+  },
+  {
     "title": "TBA: Matthew Mitchell (University of Central Florida)",
     "date": "2026-02-23",
     "time": "16:00",
@@ -2593,6 +1436,21 @@
     "event_id": "6e87dad4ff44d0d9"
   },
   {
+    "title": "Students  with Mallory Organizing Meeting",
+    "date": "2026-02-23",
+    "time": "18:00",
+    "end_time": "19:00",
+    "venue": "East Quad",
+    "address": null,
+    "description": "Come eat pizza with us and organize for Mallory McMorrow's U.S. Senate campaign! This is an opportunity to get to know other members of the student org, brainstorm ideas to spread the word about Ma...",
+    "source_url": "http://events.umich.edu/event/145799",
+    "source_name": "U-M",
+    "tags": [
+      "Meeting"
+    ],
+    "event_id": "d8bb12a23c4e5685"
+  },
+  {
     "title": "AADL Board Meeting - February 23 2026",
     "date": "2026-02-23",
     "time": "18:30",
@@ -2823,6 +1681,36 @@
     "event_id": "0f7054ccba9b23e9"
   },
   {
+    "title": "Hot Wings & Things Fundraiser",
+    "date": "2026-02-24",
+    "time": null,
+    "end_time": null,
+    "venue": "Food",
+    "address": null,
+    "description": "02/24/2026 to 02/24/2026 - Disability Network Washtenaw Monroe Livingston staff members are going head-to-head in a heated battle to raise money for our organization!Each challenger will participat...",
+    "source_url": "https://www.annarbor.org/event/hot-wings-%26-things-fundraiser/22844/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "87ea302a3f6ba1d6"
+  },
+  {
+    "title": "Radical Henna Workshop: History and Craft",
+    "date": "2026-02-24",
+    "time": null,
+    "end_time": null,
+    "venue": "Art",
+    "address": null,
+    "description": "02/24/2026 to 02/24/2026 - Join us for a workshop on the art and history of henna. Led by artist and activist Shahrin Azim, the first half of this event will be a presentation on the origins and hi...",
+    "source_url": "https://www.annarbor.org/event/radical-henna-workshop%3a-history-and-craft/23119/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "d43f0a1a99b9743b"
+  },
+  {
     "title": "Shapiro Art Supplies Donation Bin",
     "date": "2026-02-24",
     "time": "00:00",
@@ -2836,6 +1724,21 @@
       "Other"
     ],
     "event_id": "c8efe015498e4122"
+  },
+  {
+    "title": "Tarot Tuesdays",
+    "date": "2026-02-24",
+    "time": null,
+    "end_time": null,
+    "venue": "Miscellaneous",
+    "address": null,
+    "description": "01/20/2026 to 02/24/2026 - Upcoming Tarot Tuesdays for January and February. Come enjoy a professional tarot reading and receive half off any cocktail or mocktail!Jan 20th, Feb 3rd, Feb 24th: 6-9pm",
+    "source_url": "https://www.annarbor.org/event/tarot-tuesdays/22694/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "0ee14695413dd246"
   },
   {
     "title": "CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026",
@@ -3801,6 +2704,22 @@
     "event_id": "2d6ed39d35fad395"
   },
   {
+    "title": "Student Commutative Algebra: Singularities and Big Cohen Macaulay Algebras: Barry Henaku",
+    "date": "2026-02-24",
+    "time": "15:00",
+    "end_time": "16:00",
+    "venue": "East Hall, 3088",
+    "address": null,
+    "description": "We plan to survey singularities in commutative algebra through perfectoid methods and big Cohen–Macaulay (BCM) algebras. We begin by recalling how the Frobenius endomorphism controls regularity in ...",
+    "source_url": "http://events.umich.edu/event/145810",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Mathematics"
+    ],
+    "event_id": "387028801f845e97"
+  },
+  {
     "title": "Winter 2026 Birthday Celebrations: February Birthday Celebration",
     "date": "2026-02-24",
     "time": "15:00",
@@ -4019,6 +2938,94 @@
     "event_id": "938059f4b5633109"
   },
   {
+    "title": "Making Confident Money Decisions: FINANCIAL EMPOWERMENT SERIES #2",
+    "date": "2026-02-24",
+    "time": "17:00",
+    "end_time": "18:30",
+    "venue": "Center for the Education of Women, 2nd Floor",
+    "address": null,
+    "description": "Dinner provided by Curry On! Registration is required for food planning purposes. ***Doors open 4:45, programming begins promptly at 5:00pm.*** It’s pretty common for students to feel overwhelmed w...",
+    "source_url": "http://events.umich.edu/event/143768",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Budgeting",
+      "finance",
+      "finances",
+      "Financial Wellness"
+    ],
+    "event_id": "776c7b71102f6260"
+  },
+  {
+    "title": "MiSciWriters RIW: Multiple conference events and sessions: How poetry can enhance your science communication",
+    "date": "2026-02-24",
+    "time": "17:00",
+    "end_time": "19:00",
+    "venue": "University of Michigan",
+    "address": null,
+    "description": "Join MiSciWriters for in-person and virtual workshops designed to develop science communication skills! No science communication or editing experience required. We are always welcoming new editors,...",
+    "source_url": "http://events.umich.edu/event/129265",
+    "source_name": "U-M",
+    "tags": [
+      "Conference / Symposium",
+      "Sessions"
+    ],
+    "event_id": "592586eb6e5c0279"
+  },
+  {
+    "title": "Student Analysis Seminar: Domino Tilings of Black-and-White Temperleyan Cylinders: Zach Deiman",
+    "date": "2026-02-24",
+    "time": "17:00",
+    "end_time": "18:00",
+    "venue": "East Hall, 4096",
+    "address": null,
+    "description": "The dimer model on a bipartite graph \\( G \\subset \\mathbb{Z}^2 \\) refers to choosing a random dimer cover of \\( G \\) (equivalently, a random domino tiling on its dual graph \\( G^\\star \\). Each such...",
+    "source_url": "http://events.umich.edu/event/145800",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Mathematics"
+    ],
+    "event_id": "8f65a0e24501bcb7"
+  },
+  {
+    "title": "Virtual Dialectical Behavior Therapy (DBT) Group for Adults",
+    "date": "2026-02-24",
+    "time": "17:00",
+    "end_time": "18:30",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "Are you looking to gain better control of your thoughts and emotions? Our Psychological Clinic invites adults 18 and older to participate in our weekly Dialectical Behavior Therapy (DBT) group sess...",
+    "source_url": "http://events.umich.edu/event/139870",
+    "source_name": "U-M",
+    "tags": [
+      "Well-being",
+      "anxiety",
+      "Depression",
+      "Graduate",
+      "Graduate and Professional Students"
+    ],
+    "event_id": "ab45f660b8d39546"
+  },
+  {
+    "title": "WCEE Film Series on Ukraine. *Lina* (2024, 30 min, dir. Mykola Nosok & Oleksiy Oliyar): Panel Discussion",
+    "date": "2026-02-24",
+    "time": "17:00",
+    "end_time": "18:30",
+    "venue": "Weiser Hall, Room 1010",
+    "address": null,
+    "description": "Panel discussion featuring: Sylvia Ellison, Senior Advisor, Save Ukraine; Ambassador Craig L. Johnstone, Co-Founder of The Humanity Funds; Danielle Leavitt, WCEE Postdoctoral Fellow, 2025-27; and N...",
+    "source_url": "http://events.umich.edu/event/142559",
+    "source_name": "U-M",
+    "tags": [
+      "Film Screening",
+      "europe",
+      "film",
+      "ukraine"
+    ],
+    "event_id": "32efbbe53aa37df3"
+  },
+  {
     "title": "Introductory Woodcarving | Snow People",
     "date": "2026-02-24",
     "time": "17:30",
@@ -4050,6 +3057,41 @@
     "event_id": "ad78c9154d2b32d7"
   },
   {
+    "title": "Creative Arts Meetup (CAM)",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "20:00",
+    "venue": "Shapiro Library, Design Lab PIE Space, 1st floor",
+    "address": null,
+    "description": "Join us for a Creative Arts Meetup (CAM), where you can network with other artists, share your works in progress, get feedback from peers, and learn new skills. Each session offers open lab time, b...",
+    "source_url": "http://events.umich.edu/event/144043",
+    "source_name": "U-M",
+    "tags": [
+      "Social / Informal Gathering",
+      "Arts For All",
+      "Free",
+      "Library"
+    ],
+    "event_id": "bc6bc0c451ebc66a"
+  },
+  {
+    "title": "EARTH Career Conversations: The Myth of One Job: Squiggly Career Paths",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "07:30",
+    "venue": "1100 North University Building, 2540",
+    "address": null,
+    "description": "Dr. Tina Nielsen is the Associate Dean for Innovation and Strategy in the College of Letters & Science at the University of Wisconsin. Tina earned BSc and MSc degrees in Earth & Environmental Scien...",
+    "source_url": "http://events.umich.edu/event/145736",
+    "source_name": "U-M",
+    "tags": [
+      "Careers / Jobs",
+      "Career",
+      "Earth And Environmental Sciences"
+    ],
+    "event_id": "e49e05e18e277993"
+  },
+  {
     "title": "Fairy Baubles & Goblin Globes",
     "date": "2026-02-24",
     "time": "18:00",
@@ -4065,6 +3107,243 @@
     "event_id": "ec5df794e6594c7b"
   },
   {
+    "title": "February WISE Night In",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "20:00",
+    "venue": "University of Michigan",
+    "address": null,
+    "description": "Join WISE for a dinner party with a side of professional development. Our undergraduate WISE Mentors will lead a short, fun, and productive activity designed to jump start your career/internship se...",
+    "source_url": "http://events.umich.edu/event/143478",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "f157a0b41d01c7a7"
+  },
+  {
+    "title": "FYRST Workshops 2025: FYRST Workshop",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "20:00",
+    "venue": "League- Michigan room (2nd floor)",
+    "address": null,
+    "description": "First-Year Relationship and Sexuality Talk (FYRST) is a required, in-person, and peer-facilitated workshop that came directly from feedback and listening sessions with current University of Michiga...",
+    "source_url": "http://events.umich.edu/event/134554",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "6524b6c5482707ad"
+  },
+  {
+    "title": "Learn Korean Drumming with Sinaboro: A workshop for students to \"learn/with\" student orgs",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "20:00",
+    "venue": "Michigan Union, Movement Studio 2401",
+    "address": null,
+    "description": "Interested in drumming? Join this free student workshop to learn Korean folk rhythms. No experience necessary! The Arts Initiative's \"Learn/With\" workshops are designed to give students a chance to...",
+    "source_url": "http://events.umich.edu/event/145086",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Art",
+      "arts",
+      "Arts For All",
+      "Artsrx"
+    ],
+    "event_id": "d65838cb6b7a8f94"
+  },
+  {
+    "title": "NORTHWOOD 2025-2026: Multiple conference events and sessions: Northwood Escape Room Group 1 (6PM)",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "18:45",
+    "venue": "Northwood Community Center MPR (1000 McIntyre)",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/135675",
+    "source_name": "U-M",
+    "tags": [
+      "Conference / Symposium",
+      "Sessions"
+    ],
+    "event_id": "d80dad6f3ccab4ec"
+  },
+  {
+    "title": "Stuttering Support Group",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "end_time": "19:30",
+    "venue": "Off Campus Location, 3rd Floor Freespace",
+    "address": null,
+    "description": "This Stuttering Support Group is open to any teens and adults who stutter. It provides a safe space to connect, share experiences, and navigate challenges with one another. Date: Fourth Wednesday o...",
+    "source_url": "http://events.umich.edu/event/121370",
+    "source_name": "U-M",
+    "tags": [
+      "Meeting",
+      "Disability",
+      "Diversity Equity and Inclusion",
+      "Free",
+      "Graduate and Professional Students"
+    ],
+    "event_id": "a8ee84c630320248"
+  },
+  {
+    "title": "Food Literacy for All",
+    "date": "2026-02-24",
+    "time": "18:30",
+    "end_time": "19:50",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "Food Literacy for All is a community-academic partnership course at the University of Michigan supported by the Sustainable Food Systems Initiative, Program in the Environment, School for Environme...",
+    "source_url": "http://events.umich.edu/event/142266",
+    "source_name": "U-M",
+    "tags": [
+      "Livestream / Virtual",
+      "Advocacy",
+      "agriculture",
+      "Climate Change",
+      "Environment"
+    ],
+    "event_id": "47ad407529960876"
+  },
+  {
+    "title": "MFamily Conversation Series 2025-2026: Unlocking Student Engagement at UM",
+    "date": "2026-02-24",
+    "time": "18:30",
+    "end_time": "19:30",
+    "venue": "University of Michigan",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/137019",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "3b39cc1846cfb536"
+  },
+  {
+    "title": "NORTH QUAD 2025-2026: Multiple conference events and sessions: Mardi Gras Movie Night",
+    "date": "2026-02-24",
+    "time": "18:30",
+    "end_time": "20:00",
+    "venue": "NQ Bowman Room, 10th Floor",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/135674",
+    "source_name": "U-M",
+    "tags": [
+      "Conference / Symposium",
+      "Sessions"
+    ],
+    "event_id": "6e7a4f7fa2d933b8"
+  },
+  {
+    "title": "Student Art Meetup: Concert at the Ark Emily Scott Robinson",
+    "date": "2026-02-24",
+    "time": "18:50",
+    "end_time": "21:30",
+    "venue": "University of Michigan",
+    "address": null,
+    "description": "Are you looking to go to a concert and want to go with a small group? Come join us for a free concert at The Ark! Snacks will be provided! This event spotlights country musician Emily Scott Robinso...",
+    "source_url": "http://events.umich.edu/event/144752",
+    "source_name": "U-M",
+    "tags": [
+      "Social / Informal Gathering",
+      "Art",
+      "Art Meetups",
+      "arts",
+      "Artsrx"
+    ],
+    "event_id": "35122101f3cd4fa4"
+  },
+  {
+    "title": "FSL - Panhel Meetings WI 2026: February 24, 2026",
+    "date": "2026-02-24",
+    "time": "19:00",
+    "end_time": "20:00",
+    "venue": "Vandenberg Room",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/144225",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "274029e875fe12b7"
+  },
+  {
+    "title": "NORTHWOOD 2025-2026: Multiple conference events and sessions: Northwood Escape Room Group 2 (7PM)",
+    "date": "2026-02-24",
+    "time": "19:00",
+    "end_time": "19:45",
+    "venue": "Northwood Community Center MPR (1000 McIntyre)",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/135675",
+    "source_name": "U-M",
+    "tags": [
+      "Conference / Symposium",
+      "Sessions"
+    ],
+    "event_id": "5a2511cbf16bce70"
+  },
+  {
+    "title": "Black on Wax (2026)",
+    "date": "2026-02-24",
+    "time": "19:22",
+    "end_time": "21:00",
+    "venue": "Rackham: Assembly Hall",
+    "address": null,
+    "description": "20 years of honoring Black history ✊🏾 20 years of educating our community 📚 20 years of legacy. Join us as we celebrate the 20th Anniversary of Black On Wax: Our Healing Is Historical ! A wax museu...",
+    "source_url": "http://events.umich.edu/event/145802",
+    "source_name": "U-M",
+    "tags": [
+      "Performance"
+    ],
+    "event_id": "2e40f245dda615f3"
+  },
+  {
+    "title": "Hua'er: Mountain Songs of Gansu, China",
+    "date": "2026-02-24",
+    "time": "19:30",
+    "end_time": "21:00",
+    "venue": "Stearns Building, Cady Room",
+    "address": null,
+    "description": "In advance of her concerts at the Keene Theater and U-M Hospital, Dr. Haiqiong Deng will deliver a lecture exploring music, ritual, and community in northwestern China. Part of the Virginia Martin ...",
+    "source_url": "http://events.umich.edu/event/145762",
+    "source_name": "U-M",
+    "tags": [
+      "Lecture / Discussion",
+      "Culture",
+      "Diversity",
+      "Free",
+      "Lecture"
+    ],
+    "event_id": "1840f8bc95184f71"
+  },
+  {
+    "title": "Crochet For Causes - Movie + Crochet Night (Monsters University)",
+    "date": "2026-02-24",
+    "time": "20:00",
+    "end_time": "22:00",
+    "venue": "Mason Hall",
+    "address": null,
+    "description": "Join Crochet for Causes for an open crochet night while we watch Monsters University! No experience needed and all supplies are provided!",
+    "source_url": "http://events.umich.edu/event/145804",
+    "source_name": "U-M",
+    "tags": [
+      "Community Service"
+    ],
+    "event_id": "28f300581af8629f"
+  },
+  {
     "title": "Emily Scott Robinson",
     "date": "2026-02-24",
     "time": "20:00",
@@ -4078,6 +3357,442 @@
       "Live Music"
     ],
     "event_id": "74b452c68097b767"
+  },
+  {
+    "title": "Men's Basketball vs Minnesota",
+    "date": "2026-02-24",
+    "time": "20:30",
+    "end_time": "01:00",
+    "venue": "Crisler Arena",
+    "address": null,
+    "description": "Men's Basketball vs Minnesota",
+    "source_url": "http://events.umich.edu/event/144883",
+    "source_name": "U-M",
+    "tags": [
+      "Sporting Event",
+      "Athletics",
+      "Athletics - Men's Basketball"
+    ],
+    "event_id": "df21bb41114d999a"
+  },
+  {
+    "title": "WEST QUAD 2025-2026: Multiple conference events and sessions: Wii Game Night",
+    "date": "2026-02-24",
+    "time": "21:00",
+    "end_time": "22:30",
+    "venue": "West Quad Multipurpose Room (1005)",
+    "address": null,
+    "description": null,
+    "source_url": "http://events.umich.edu/event/135686",
+    "source_name": "U-M",
+    "tags": [
+      "Conference / Symposium",
+      "Sessions"
+    ],
+    "event_id": "b8982c7b714e1b07"
+  },
+  {
+    "title": "Bike Repair Hours",
+    "date": "2026-02-25",
+    "time": "00:00",
+    "end_time": "23:59",
+    "venue": "Duderstadt Fabrication Underground",
+    "address": null,
+    "description": "Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...",
+    "source_url": "http://events.umich.edu/event/145016",
+    "source_name": "U-M",
+    "tags": [
+      "Other"
+    ],
+    "event_id": "06f95ff868f48c73"
+  },
+  {
+    "title": "Comedy Jamm Open Mic",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Nightlife",
+    "address": null,
+    "description": "02/11/2026 to 02/25/2026 - It will be a comedy cavalcade as they present the current rising stars in the Detroit Metro area and beyond. You will see a variety of comedians from beginners trying the...",
+    "source_url": "https://www.annarbor.org/event/comedy-jamm-open-mic/22510/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "847fec6a092283ad"
+  },
+  {
+    "title": "Communty Tea Table: Mitch Fehrle | Theme: Drop Spinning with Natural Fibers",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Miscellaneous",
+    "address": null,
+    "description": "02/25/2026 to 02/25/2026 - Join us for a fun and engaging class with Mitch Fehrle of the MI Fibershed. Learn how to use a drop spindle and spinning wheel, with live demonstrations of both, while ex...",
+    "source_url": "https://www.annarbor.org/event/communty-tea-table%3a-mitch-fehrle-%7c-theme%3a-drop-spinning-with-natural-fibers/22975/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "aca2860a1fcf4f68"
+  },
+  {
+    "title": "Depot Town Comedy Open Mic",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Nightlife",
+    "address": null,
+    "description": "Starting 10/25/2023 - The Depot Town Comedy Open Mic at 734 Brewing Company is the funniest way to spend your Wednesday nights! Come see all the best stand-up comedians from the Ypsilanti area and ...",
+    "source_url": "https://www.annarbor.org/event/depot-town-comedy-open-mic/13452/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "bdbf09c3f1350b1f"
+  },
+  {
+    "title": "FULL SEMESTER SCHEDULE",
+    "date": "2026-02-25",
+    "time": "00:00",
+    "end_time": "23:59",
+    "venue": "Mason Hall",
+    "address": null,
+    "description": "This is a schedule of all our events happening this semester. Please follow the instagram or email iazamora@umich.edu to get on the email list for more information.",
+    "source_url": "http://events.umich.edu/event/145222",
+    "source_name": "U-M",
+    "tags": [
+      "Other"
+    ],
+    "event_id": "5bb28090a6d5ffce"
+  },
+  {
+    "title": "Grant Flick",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Concerts &amp; Music",
+    "address": null,
+    "description": "02/25/2026 to 02/25/2026 - Album release show! Grant Flick is a multi-instrumentalist, composer, educator, and collaborative artist currently based in Ann Arbor, Michigan. While his main instrument...",
+    "source_url": "https://www.annarbor.org/event/grant-flick/23101/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "db9fd05058fd4bd9"
+  },
+  {
+    "title": "Live Music Wednesdays",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Concerts &amp; Music",
+    "address": null,
+    "description": "02/25/2026 to 02/25/2026 - Join us for our weekly beginner lesson and social dance, featuring live music! Every last Wednesday of the month we are hosting incredible combos for live music and a min...",
+    "source_url": "https://www.annarbor.org/event/live-music-wednesdays/23107/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "6ca19e4305ab1560"
+  },
+  {
+    "title": "Shapiro Art Supplies Donation Bin",
+    "date": "2026-02-25",
+    "time": "00:00",
+    "end_time": "23:59",
+    "venue": "Shapiro Undergraduate Library Entrance",
+    "address": null,
+    "description": "We are running our first Donation Drive in support of the Gift of Arts program at Michigan Medicine! Please donate new, nontoxic art supplies from the list below, and spread the word!",
+    "source_url": "http://events.umich.edu/event/145254",
+    "source_name": "U-M",
+    "tags": [
+      "Other"
+    ],
+    "event_id": "1ed91a0dabe2d373"
+  },
+  {
+    "title": "The Classic King",
+    "date": "2026-02-25",
+    "time": null,
+    "end_time": null,
+    "venue": "Theaters and Performing Arts",
+    "address": null,
+    "description": "01/29/2026 to 03/07/2026 - A World Premiere by Richard Johnson. Directed by Jeff Daniels. In paying tribute to timeless automobiles, The Classic King paints a comic and heartbreaking portrait of th...",
+    "source_url": "https://www.annarbor.org/event/the-classic-king/21112/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "de59f3ff63993a24"
+  },
+  {
+    "title": "CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026",
+    "date": "2026-02-25",
+    "time": "08:00",
+    "end_time": "16:00",
+    "venue": "University of Michigan",
+    "address": null,
+    "description": "Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...",
+    "source_url": "http://events.umich.edu/event/143388",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Area Studies",
+      "Armenian Studies",
+      "history"
+    ],
+    "event_id": "79c6e394874b74ac"
+  },
+  {
+    "title": "LACS Exhibition. Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador: February 2-26, 2026 | International Institute Gallery, 547 Weiser Hall",
+    "date": "2026-02-25",
+    "time": "08:30",
+    "end_time": "17:00",
+    "venue": "Weiser Hall, International Institute Gallery, Room 547",
+    "address": null,
+    "description": "*Back in Bahia: The Repatriation Journey of Afro-Brazilian Art from Detroit to Salvador* Curator: Ryan B. Morrison | Curatorial Assistant: Isabella H. de Lemos February 2-26, 2026, International In...",
+    "source_url": "http://events.umich.edu/event/143613",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Afro-brazilian Studies",
+      "Area Studies",
+      "Art",
+      "brazil"
+    ],
+    "event_id": "08076bdb100282ab"
+  },
+  {
+    "title": "Chair Aerobics/Stretch, Strength & Balance/Zumba",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "10:00",
+    "venue": "Off Campus Location, JCPenney Wing",
+    "address": null,
+    "description": "Lifetime Fitness classes are offered at Briarwood Mall in the JCPenney wing every Monday-Friday from 9-10am. No experience necessary. Classes are specifically designed for older adults, however, ev...",
+    "source_url": "http://events.umich.edu/event/134855",
+    "source_name": "U-M",
+    "tags": [
+      "Exercise / Fitness",
+      "fitness",
+      "Health & Wellness"
+    ],
+    "event_id": "e5728a3c751d19a8"
+  },
+  {
+    "title": "ECRC Climate and Space Sciences and Engineering Career Chats",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "17:00",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "Hey Climate and Space Sciences and Engineering Students - This is for YOU! Are you feeling lost or overwhelmed by your full-time job or internship search? Not sure where to begin, or just need a li...",
+    "source_url": "http://events.umich.edu/event/143582",
+    "source_name": "U-M",
+    "tags": [
+      "Careers / Jobs",
+      "Career",
+      "Graduate Students",
+      "Michigan Engineering",
+      "Undergraduate Students"
+    ],
+    "event_id": "3afca1c49423b603"
+  },
+  {
+    "title": "Faculty On-Campus Work Retreats",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "13:00",
+    "venue": "Hatcher Graduate Library, Hatcher Gallery",
+    "address": null,
+    "description": "THIS EVENT IS FACULTY EXCLUSIVE! Sign up for a two-hour work session, followed by a hot lunch with colleagues. The Faculty On-Campus Work Retreats offer a quiet space to work with other scholars an...",
+    "source_url": "http://events.umich.edu/event/136839",
+    "source_name": "U-M",
+    "tags": [
+      "Social / Informal Gathering",
+      "Faculty",
+      "Networking"
+    ],
+    "event_id": "5fa7f55433d07888"
+  },
+  {
+    "title": "Faculty On-Campus Work Retreats (February Sessions): Faculty On-Campus Work Retreat (February Session #1)",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "13:00",
+    "venue": "Hatcher Gallery, Hatcher Library",
+    "address": null,
+    "description": "Sign up for a two-hour work session, followed by a hot lunch with colleagues. The Faculty On-Campus Work Retreats offer a quiet space to work with other scholars and artists, and an opportunity for...",
+    "source_url": "http://events.umich.edu/event/142990",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "cffb9c2fc20b369e"
+  },
+  {
+    "title": "Lynn Galbreath Exhibition: Twenty-two paintings from the series “Telegraph”, “Working Hard For A Living”, and Storyboard”",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "17:00",
+    "venue": "North Campus Research Complex Building 18, Rotunda Gallery",
+    "address": null,
+    "description": "Lynn Galbreath, a Detroit based artist who grew up in Argentina, is a former recipient of the Creative Artists’ Grant from the Arts Foundation of Michigan and the Michigan Individual Artist Grant f...",
+    "source_url": "http://events.umich.edu/event/142773",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Art",
+      "ArtsEngine",
+      "Culture",
+      "Detroit"
+    ],
+    "event_id": "9611ba4394ae952e"
+  },
+  {
+    "title": "Materia Magica: Materiality and Ritual in the Greco-Roman World",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "20:00",
+    "venue": "Hatcher Graduate Library",
+    "address": null,
+    "description": "View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...",
+    "source_url": "http://events.umich.edu/event/142417",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Archaeology",
+      "Free",
+      "Library"
+    ],
+    "event_id": "2d29e36ccf3e7109"
+  },
+  {
+    "title": "Pre-Law Drop In Advising",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "12:00",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "Pre-law advisors are available during drop-in hours to answer quick questions from all U-M Ann Arbor students and alumni. Join the Queue: https://officehours.it.umich.edu/queue/1145",
+    "source_url": "http://events.umich.edu/event/143506",
+    "source_name": "U-M",
+    "tags": [
+      "Meeting",
+      "Advising",
+      "Law",
+      "Newnan",
+      "Newnan Academic Advising"
+    ],
+    "event_id": "86f03ec8f5eabfbb"
+  },
+  {
+    "title": "Terence Swafford Exhibition: On Site:  Paintings from Detroit’s East Side (2015-2025)",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "17:00",
+    "venue": "North Campus Research Complex Building 18, Connections Gallery",
+    "address": null,
+    "description": "This exhibition showcases a decade of artist Terry Swafford’s work in Detroit, marking the culmination of years spent composing scenes from the untamed edges of urban communities. These paintings s...",
+    "source_url": "http://events.umich.edu/event/142768",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Art",
+      "ArtsEngine",
+      "Culture",
+      "Detroit"
+    ],
+    "event_id": "3dcd928b3ce59754"
+  },
+  {
+    "title": "The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "21:00",
+    "venue": "Hatcher Graduate Library, Clark Library (2nd floor)",
+    "address": null,
+    "description": "Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...",
+    "source_url": "http://events.umich.edu/event/138431",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Free",
+      "Library",
+      "Maps"
+    ],
+    "event_id": "47d139a2770e7699"
+  },
+  {
+    "title": "Tukilile Vaa: An exhibition by Kaloki Nyamai",
+    "date": "2026-02-25",
+    "time": "09:00",
+    "end_time": "17:00",
+    "venue": "202 S. Thayer, Institute for the Humanities Gallery",
+    "address": null,
+    "description": "Kaloki Nyamai is a multidisciplinary artist based in Nairobi. His practice explores Kenya's histories and collective memory, blending Kamba traditions with contemporary narratives. Using acrylic pa...",
+    "source_url": "http://events.umich.edu/event/142791",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Art",
+      "Humanities",
+      "Visual Arts"
+    ],
+    "event_id": "419c16d323248e36"
+  },
+  {
+    "title": "Madeline Clough - Dissertation Defense: Developing Methods to Identify Environmental Microplastics",
+    "date": "2026-02-25",
+    "time": "09:30",
+    "end_time": "11:30",
+    "venue": "Chemistry Dow Lab, 1706",
+    "address": null,
+    "description": "Please join Madeline Clough for their dissertation defense titled \"Developing Methods to Identify Environmental Microplastics\". *Date:* Wednesday, February 25th *Time:* 9:30 A.M. *Where:* CHEM 1706...",
+    "source_url": "http://events.umich.edu/event/145232",
+    "source_name": "U-M",
+    "tags": [
+      "Presentation",
+      "Chemistry"
+    ],
+    "event_id": "122ede5b413bb34a"
+  },
+  {
+    "title": "LSA@Play: Mystery Book Match: College of LSA Student Event",
+    "date": "2026-02-25",
+    "time": "10:00",
+    "end_time": "11:00",
+    "venue": "LSA Building, 1040 Multipurpose Room",
+    "address": null,
+    "description": "Take a chance and discover your next great read! Choose a wrapped book from a wide variety of genres, each labeled with just four words/phrases as your only hint. Select a book, unwrap your surpris...",
+    "source_url": "http://events.umich.edu/event/145175",
+    "source_name": "U-M",
+    "tags": [
+      "Fair / Festival",
+      "Free",
+      "Literature",
+      "Undergraduate Students",
+      "Well-being"
+    ],
+    "event_id": "e3d9e785c31cf929"
+  },
+  {
+    "title": "Yiruo Xu Dissertation Defense: The Temporal Footprint of Tectonics: Deciphering Metamorphic Timescales via Diffusion Chronometry",
+    "date": "2026-02-25",
+    "time": "10:00",
+    "end_time": "11:00",
+    "venue": "1100 North University Building, 2540",
+    "address": null,
+    "description": "Understanding Earth’s tectonic processes is contingent on constraining their rates and durations. The timescale of metamorphism (i.e., for how long a rock is subjected to high pressure and temperat...",
+    "source_url": "http://events.umich.edu/event/145267",
+    "source_name": "U-M",
+    "tags": [
+      "Lecture / Discussion",
+      "Earth And Environmental Sciences"
+    ],
+    "event_id": "7bc0d127dd0be287"
   },
   {
     "title": "Baby Playgroups",
@@ -4128,6 +3843,89 @@
     "event_id": "8a60f0f32640f78d"
   },
   {
+    "title": "Engage Detroit Grant Live ($15,000)",
+    "date": "2026-02-25",
+    "time": "11:00",
+    "end_time": "12:00",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "Interested parties should apply through the website: https://engaged.umich.edu/engagement-detroit/detroit-workshops/ Our Engaged Learning team is seeking proposals for the 2026 Engage Detroit Works...",
+    "source_url": "http://events.umich.edu/event/144249",
+    "source_name": "U-M",
+    "tags": [
+      "Other",
+      "Civic Engagement",
+      "Community Engagement",
+      "Detroit",
+      "Faculty"
+    ],
+    "event_id": "8002565406866f14"
+  },
+  {
+    "title": "Fore-Site (Phase 2): The Stamps Gallery Pillar Project",
+    "date": "2026-02-25",
+    "time": "11:00",
+    "end_time": "19:00",
+    "venue": "Off Campus Location",
+    "address": null,
+    "description": "From September 2025 through August 2026, Stamps Gallery is partnering in a curatorial collaboration with two Ypsilanti-based, artist-run project spaces led by Stamps alumni: C.Y.N.K. Studios, direc...",
+    "source_url": "http://events.umich.edu/event/138032",
+    "source_name": "U-M",
+    "tags": [
+      "Exhibition",
+      "Art"
+    ],
+    "event_id": "d301a7bd5e172aff"
+  },
+  {
+    "title": "MADS Application Tips Webinar",
+    "date": "2026-02-25",
+    "time": "11:00",
+    "end_time": "12:00",
+    "venue": "Virtual",
+    "address": null,
+    "description": "We want you to have all the information you need to make informed decisions about your education and your future. MADS Admissions & Recruitment coordinator Meryl Baker leads an application tips web...",
+    "source_url": "http://events.umich.edu/event/144393",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "ed0fc64e6e5b431d"
+  },
+  {
+    "title": "SMTD Student Success Tabling: SMTD Student Success Tabling - Moore Building, Student Commons",
+    "date": "2026-02-25",
+    "time": "11:30",
+    "end_time": "12:30",
+    "venue": "Student Commons",
+    "address": null,
+    "description": "Join SMTD Student Success at tabling events in each of the primary SMTD Buildings! Learn more about Student Organization Funding opportunities, upcoming events, and share with us ideas or thoughts ...",
+    "source_url": "http://events.umich.edu/event/144582",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "752d2c42e0e6768b"
+  },
+  {
+    "title": "Student Life Coaching Circles: Leading Unpopular Decisions & Difficult Change",
+    "date": "2026-02-25",
+    "time": "11:30",
+    "end_time": "13:00",
+    "venue": "Michigan League, Room 4 (1st Floor)",
+    "address": null,
+    "description": "Join us for a new Coaching Circles Pilot! Each coaching session will provide 8-10 staff members with an opportunity to interact informally with a Student Life Unit Director around a leadership topi...",
+    "source_url": "http://events.umich.edu/event/129879",
+    "source_name": "U-M",
+    "tags": [
+      "Workshop / Seminar",
+      "Sessions"
+    ],
+    "event_id": "cf8b362e17965807"
+  },
+  {
     "title": "Letterpress Open Lab",
     "date": "2026-02-25",
     "time": "17:00",
@@ -4171,6 +3969,126 @@
       "Live Music"
     ],
     "event_id": "d00f658d50f243ee"
+  },
+  {
+    "title": "Baked Bingo",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Beer and Wine",
+    "address": null,
+    "description": "Starting 03/06/2025 - Come join every Thursday night at 7pm at Ashley&apos;s in Ann Arbor for some fun, baked goods, and bingo! Free to play. Donations welcomed. Come join us at Ashley&apos;s in An...",
+    "source_url": "https://www.annarbor.org/event/baked-bingo/18350/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "29d993f228bf9403"
+  },
+  {
+    "title": "Chelsea Area Networking Social Club",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Miscellaneous",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Join for the first-ever &apos;Chelsea Area Networking Social Club&apos; cocktail hour at Jet&#x2019;s Pizza &amp; Pints. Connect with fellow local professionals, enjoy cr...",
+    "source_url": "https://www.annarbor.org/event/chelsea-area-networking-social-club/22704/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "3b611640b635afd4"
+  },
+  {
+    "title": "Comedian: Damien Lemon",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Nightlife",
+    "address": null,
+    "description": "02/26/2026 to 02/28/2026 - Damien Lemon is a comedian, writer, and actor. Damien was host of TruTV&#x2019;s Comedy Knockout, a long-time cast member and writer for various MTV2 shows, including Guy...",
+    "source_url": "https://www.annarbor.org/event/comedian%3a-damien-lemon/22621/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "b12d5368a1f58c20"
+  },
+  {
+    "title": "Houston Patton & Hidden Nomination",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Concerts &amp; Music",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Hidden Nomination is a genre-defying ensemble that emerged from the lustrous Blue Llama Jazz Club after a particularly electrifying set.",
+    "source_url": "https://www.annarbor.org/event/houston-patton-%26-hidden-nomination/23104/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "487668610cef5c65"
+  },
+  {
+    "title": "LGBTQ Night: Queer Open Mic",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "LGBTQ+",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Bring your song, story, poetry, comedy, expression, magic, monologue, mood, presence, attention, and appreciation to a safe and welcoming space in the beautiful queer com...",
+    "source_url": "https://www.annarbor.org/event/lgbtq-night%3a-queer-open-mic/23085/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "c165704e875803d4"
+  },
+  {
+    "title": "Spencer LaJoye",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Concerts &amp; Music",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Spencer LaJoye is a coast-to-coast singer/songwriter and vocal loop artist with Midwest roots, a classically-trained violinist with an inner theater kid&#x2019;s love of ...",
+    "source_url": "https://www.annarbor.org/event/spencer-lajoye/22459/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "614db1b85be2c710"
+  },
+  {
+    "title": "Terry Farmer at Erratic Ale Co.",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Concerts &amp; Music",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Enjoy live music at Erratic Ale Co. Featuring singer and instrumentalist Terry Farmer!",
+    "source_url": "https://www.annarbor.org/event/terry-farmer-at-erratic-ale-co/23083/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "3e8cd2b1f5e99ffd"
+  },
+  {
+    "title": "Zell Visiting Writers Series: Writer Jamil Kochai and Q&A",
+    "date": "2026-02-26",
+    "time": null,
+    "end_time": null,
+    "venue": "Books",
+    "address": null,
+    "description": "02/26/2026 to 02/26/2026 - Join us in welcoming writer Jamil Kochai for a reading and Q+A as part of the Zell Visiting Writers Series, presented by the Helen Zell Writer&#x2019;s Program in partner...",
+    "source_url": "https://www.annarbor.org/event/zell-visiting-writers-series%3a-writer-jamil-kochai-and-q%26a/23078/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "4315637815689ca5"
   },
   {
     "title": "ESL Conversation Groups",
@@ -4262,6 +4180,66 @@
       "Live Music"
     ],
     "event_id": "1c23aa3d25044770"
+  },
+  {
+    "title": "4th Annual Black Artist Exhibit",
+    "date": "2026-02-27",
+    "time": null,
+    "end_time": null,
+    "venue": "Art",
+    "address": null,
+    "description": "02/20/2026 to 02/27/2026 - This Year&#x2019;s Theme: Embracing Unity Through Art Celebrating the life of Rev. Dr. Martin Luther King Jr., and Black History Month. Visit Riverside Arts Center to enj...",
+    "source_url": "https://www.annarbor.org/event/4th-annual-black-artist-exhibit/23128/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "ba122446d924d6e5"
+  },
+  {
+    "title": "Afterall: A New Play by Cole Hunter Dzubak",
+    "date": "2026-02-27",
+    "time": null,
+    "end_time": null,
+    "venue": "Theaters and Performing Arts",
+    "address": null,
+    "description": "02/27/2026 to 03/08/2026 - Adam and Raine are gearing up for the next stage of their relationship. All plans are derailed when Adam suffers a family tragedy, causing to revert back to the only copi...",
+    "source_url": "https://www.annarbor.org/event/afterall%3a-a-new-play-by-cole-hunter-dzubak/22840/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "92fedbb0b2fbe543"
+  },
+  {
+    "title": "BLACK HISTORY MONTH TALK & SCREENING: STORMY WEATHER",
+    "date": "2026-02-27",
+    "time": null,
+    "end_time": null,
+    "venue": "Theaters and Performing Arts",
+    "address": null,
+    "description": "02/27/2026 to 02/27/2026 - In honor of Black History Month, The Michigan and State Theaters in partnership with the Ann Arbor Black Film Festival present this special presentation and screening.The...",
+    "source_url": "https://www.annarbor.org/event/black-history-month-talk-%26-screening%3a-stormy-weather/23103/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "5719058e97e13814"
+  },
+  {
+    "title": "Bridgerton Watch Party",
+    "date": "2026-02-27",
+    "time": null,
+    "end_time": null,
+    "venue": "Miscellaneous",
+    "address": null,
+    "description": "02/27/2026 to 02/27/2026 - Step into the Regency era and immerse yourself in an evening of elegance and charm. Wear your best Regency era outfits and catch the Bridgerton Season 4 Finale with us in...",
+    "source_url": "https://www.annarbor.org/event/bridgerton-watch-party/23084/",
+    "source_name": "Destination Ann Arbor",
+    "tags": [
+      "Community"
+    ],
+    "event_id": "4b5e2582858a3daf"
   },
   {
     "title": "Baby Playgroups",
