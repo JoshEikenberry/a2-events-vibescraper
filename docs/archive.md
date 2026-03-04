@@ -1,8 +1,8 @@
 # Archived Events -- Ann Arbor Area
 
-*Last updated: March 3, 2026 at 8:38 AM*
+*Last updated: March 4, 2026 at 8:37 AM*
 
-*1862 archived event(s)*
+*1900 archived event(s)*
 
 ---
 
@@ -14809,5 +14809,310 @@
 - **Venue:** NQ Bowman Room, 10th Floor
 - **Tags:** Conference / Symposium, Sessions
 - **Source:** [U-M](http://events.umich.edu/event/135674)
+
+### Tuesday, March 3, 2026
+
+#### Babies & Brews
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** Starting 12/12/2023 - Look, we&#x2019;ve been the parents of an itty bitty and a toddler trying to figure out where we could take them to relax, meet other humans, and not feel like we were constan...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/babies-%26-brews/13751/)
+
+#### Bike Repair Hours
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Duderstadt Fabrication Underground
+- **Description:** Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145016)
+
+#### Comedy Gauntlet
+
+- **Time:** All day
+- **Venue:** Comedy
+- **Description:** Starting 09/09/2025 - 16 comedians compete doing 90 second sets over 4 rounds.There are no brackets.The funniest half moves on each round.16 COMEDIANS BECOMES8 COMEDIANS BECOMES4 COMEDIANS BECOMES2...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/comedy-gauntlet/21291/)
+
+#### Cooking With Mary Spencer: Indian Cuisine
+
+- **Time:** All day
+- **Venue:** Food
+- **Description:** 03/03/2026 to 03/03/2026 - Join Mary Spencer for this onsite cooking demonstration featuring Indian Cuisine. Mary will make Chole (Northern Indian Chickpea Curry) and Pan Puri (Indian street food)....
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/cooking-with-mary-spencer%3a-indian-cuisine/23180/)
+
+#### Eat, Sip, and Craft at Sticks
+
+- **Time:** All day
+- **Venue:** Art
+- **Description:** 03/03/2026 to 03/03/2026 - Grab your friends and family it&apos;s craft night at Aubree&apos;s upstairs at STICKS!
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/eat-sip-and-craft-at-sticks/23155/)
+
+#### FULL SEMESTER SCHEDULE
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Mason Hall
+- **Description:** This is a schedule of all our events happening this semester. Please follow the instagram or email iazamora@umich.edu to get on the email list for more information.
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145222)
+
+#### Masters of Hawaiian Music at The Ark
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 03/03/2026 to 03/03/2026 - Masters of Hawaiian Music features three of the most popular musicians from Maui&#x2019;s renowned &#x201C;Slack Key Show&#x201D;, all from celebrated Hawaiian cultural l...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/masters-of-hawaiian-music-at-the-ark/22977/)
+
+#### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 01/16/2026 to 05/08/2026 - Thomas Paine&#x2019;s &#x201C;Common Sense&#x201D; was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/revolutionary-paine%3a-andy-murphy-student-curated-class-exhibit-common-sense/22715/)
+
+#### Shapiro Art Supplies Donation Bin
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Shapiro Undergraduate Library Entrance
+- **Description:** We are running our first Donation Drive in support of the Gift of Arts program at Michigan Medicine! Please donate new, nontoxic art supplies from the list below, and spread the word!
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145254)
+
+#### Spring Break
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Gainsville, Georgia
+- **Description:** Spring break training
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145661)
+
+#### Toddler Time at Launch
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 01/23/2026 to 05/29/2026 - Every Friday 10-Noon &amp; Saturday 9-10am Experience for toddlers ages 5 and under.-$15 Admissions Includes one toddler &amp; an accompanying adult-Additional children 5...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/toddler-time-at-launch/22793/)
+
+#### CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026
+
+- **Time:** 8:00 AM - 4:00 PM
+- **Venue:** University of Michigan
+- **Description:** Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...
+- **Tags:** Exhibition, Area Studies, Armenian Studies, history
+- **Source:** [U-M](http://events.umich.edu/event/143388)
+
+#### Student Life Facilitation Training March 2026: Student Life Facilitation Training Day 2
+
+- **Time:** 8:30 AM - 4:30 PM
+- **Venue:** University of Michigan
+- **Description:** The Student Life Facilitation Committee and Student Life Professional Development are proud to announce that we are offering a staff-oriented facilitation training opportunity once again! A similar...
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/141100)
+
+#### America at 250: Reflections on the Bicentennial: Ford Presidential Library Temporary Exhibit
+
+- **Time:** 8:45 AM - 4:45 PM
+- **Venue:** Gerald Ford Library, Lobby
+- **Description:** The Gerald R. Ford Presidential Library is proud to announce the opening of a new exhibit, America at 250: Reflections on the Bicentennial. The exhibit explores how President Ford joined Americans ...
+- **Tags:** Exhibition, American Bicentennial, American History, Bicentennial, History
+- **Source:** [U-M](http://events.umich.edu/event/145837)
+
+#### Chair Aerobics/Stretch, Strength & Balance/Zumba
+
+- **Time:** 9:00 AM - 10:00 AM
+- **Venue:** Off Campus Location, JCPenney Wing
+- **Description:** Lifetime Fitness classes are offered at Briarwood Mall in the JCPenney wing every Monday-Friday from 9-10am. No experience necessary. Classes are specifically designed for older adults, however, ev...
+- **Tags:** Exercise / Fitness, fitness, Health & Wellness
+- **Source:** [U-M](http://events.umich.edu/event/134855)
+
+#### Lynn Galbreath Exhibition: Twenty-two paintings from the series “Telegraph”, “Working Hard For A Living”, and Storyboard”
+
+- **Time:** 9:00 AM - 5:00 PM
+- **Venue:** North Campus Research Complex Building 18, Rotunda Gallery
+- **Description:** Lynn Galbreath, a Detroit based artist who grew up in Argentina, is a former recipient of the Creative Artists’ Grant from the Arts Foundation of Michigan and the Michigan Individual Artist Grant f...
+- **Tags:** Exhibition, Art, ArtsEngine, Culture, Detroit
+- **Source:** [U-M](http://events.umich.edu/event/142773)
+
+#### Materia Magica: Materiality and Ritual in the Greco-Roman World
+
+- **Time:** 9:00 AM - 8:00 PM
+- **Venue:** Hatcher Graduate Library
+- **Description:** View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...
+- **Tags:** Exhibition, Archaeology, Free, Library
+- **Source:** [U-M](http://events.umich.edu/event/142417)
+
+#### Terence Swafford Exhibition: On Site:  Paintings from Detroit’s East Side (2015-2025)
+
+- **Time:** 9:00 AM - 5:00 PM
+- **Venue:** North Campus Research Complex Building 18, Connections Gallery
+- **Description:** This exhibition showcases a decade of artist Terry Swafford’s work in Detroit, marking the culmination of years spent composing scenes from the untamed edges of urban communities. These paintings s...
+- **Tags:** Exhibition, Art, ArtsEngine, Culture, Detroit
+- **Source:** [U-M](http://events.umich.edu/event/142768)
+
+#### The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History
+
+- **Time:** 9:00 AM - 9:00 PM
+- **Venue:** Hatcher Graduate Library, Clark Library (2nd floor)
+- **Description:** Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...
+- **Tags:** Exhibition, Free, Library, Maps
+- **Source:** [U-M](http://events.umich.edu/event/138431)
+
+#### PhD Defense: Jin Yong Kim: Trust and Performance in AI-Assisted Decision Making: The Role of Multi-class Error Types, Automation Stages, and Error Consequences
+
+- **Time:** 10:00 AM - 11:00 AM
+- **Venue:** Industrial and Operations Engineering Building, 2717
+- **Description:** Join us for Jin Yong Kim's PhD defense titled "Trust and Performance in AI-Assisted Decision Making: The Role of Multi-class Error Types, Automation Stages, and Error Consequences." Chair: Jessie Y...
+- **Tags:** Lecture / Discussion, Dissertation, Industrial And Operations Engineering, Ioe Defenses
+- **Source:** [U-M](http://events.umich.edu/event/145580)
+
+#### Baby Playgroups
+
+- **Time:** 11:00 AM - 12:00 PM
+- **Venue:** Traverwood Branch: Program Room
+- **Description:** Baby Playgroups
+- **Tags:** Baby Playgroups, Babies Up To 24 Months
+- **Source:** [AADL](https://aadl.org/node/644712)
+
+#### Preschool Storytimes
+
+- **Time:** 11:00 AM - 11:30 AM
+- **Venue:** Malletts Creek Branch: Program Room
+- **Description:** Preschool Storytimes
+- **Tags:** Preschool Storytimes, Age 2–5 Years
+- **Source:** [AADL](https://aadl.org/node/644660)
+
+#### Preschool Storytimes
+
+- **Time:** 11:00 AM - 11:30 AM
+- **Venue:** Downtown Library: Kids Story Corner
+- **Description:** Preschool Storytimes
+- **Tags:** Preschool Storytimes, Age 2–5 Years
+- **Source:** [AADL](https://aadl.org/node/644080)
+
+#### DOE EFRC Information Session and Call for Limited Submissions
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Off Campus Location
+- **Description:** The DOE Energy Frontier Research Center (EFRC) program funds multi-investigator, multi-disciplinary centers that accelerate transformative scientific advances for the most complex challenges in mat...
+- **Tags:** Workshop / Seminar, Funding, Research
+- **Source:** [U-M](http://events.umich.edu/event/145908)
+
+#### Regulating Proteolysis with Microproteins- Department of Biological Chemistry Seminar: Dr. Rilee Zeinert, NIH
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Medical Science Unit II, 5330
+- **Description:** Dr. Rilee Zeinert of the National Insitutes of Health will be delivering a seminar on Tuesday March 3rd, 2026.
+- **Tags:** Workshop / Seminar, Basic Science, biolgical chemistry, biological, biological chemistry
+- **Source:** [U-M](http://events.umich.edu/event/144295)
+
+#### Revolutionary Paine: Andy Murphy Student-Curated Class Exhibit Common Sense
+
+- **Time:** 12:00 PM - 4:00 PM
+- **Venue:** William Clements Library, Avenir Foundation Reading Room
+- **Description:** Thomas Paine’s “Common Sense” was one of the most influential works of the American Revolution. The first edition was published on January 10, 1776, with an initial print run of just 1,000 copies; ...
+- **Tags:** Exhibition, Americana, Exhibit, history
+- **Source:** [U-M](http://events.umich.edu/event/143999)
+
+#### SRC Seminar Series Presents: Caregiving for Older Adults: Expectations and Choice: Sarah Patterson, Research Assistant Professor, Survey Research Center
+
+- **Time:** 1:00 PM - 2:00 PM
+- **Venue:** Institute For Social Research, 1430BD
+- **Description:** Meeting ID: 955 9165 1787 Passcode: 812926 Abstract Current frameworks around caregiving for older adults have an implicit assumption that caregivers actively chose their role. Yet, choice may be c...
+- **Tags:** Workshop / Seminar, Aging, Caregiving, Demography, Family
+- **Source:** [U-M](http://events.umich.edu/event/145276)
+
+#### Grants office hours: Get support applying for one of SSC's Sustainability Grants!
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** Off Campus Location, https://umich.zoom.us/j/91565104584
+- **Description:** Drop in to our weekly open office hours to learn and get support applying to our Planet Blue Student Innovation Fund (PBSIF) or Social and Environmental Sustainability Grant (SES).
+- **Tags:** Other, Environment, Sustainability
+- **Source:** [U-M](http://events.umich.edu/event/138848)
+
+#### TRANSDISCIPLINARY FELLOWS 2025-2026: Multiple conference events and sessions: Journaling and Snacks
+
+- **Time:** 2:00 PM - 4:00 PM
+- **Venue:** Fellows Lounge (8th Floor of Munger)
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135685)
+
+#### Webinar: Marshes for Maine’s Future: A Collaborative Science Model for Transferring Geospatial Science
+
+- **Time:** 3:00 PM - 4:00 PM
+- **Venue:** Off Campus Location
+- **Description:** Marshes for Maine’s Future used an innovative Collaborative Learning approach to facilitate the application of geospatial tools developed by USGS to marsh projects in Maine. The tools provide a sci...
+- **Tags:** Lecture / Discussion, Environment, Sustainability
+- **Source:** [U-M](http://events.umich.edu/event/144970)
+
+#### Online Information Session for Admitted Transfer Students: For students who are admitted for Spring, Summer, or Fall 2026
+
+- **Time:** 4:00 PM - 5:15 PM
+- **Venue:** Off Campus Location
+- **Description:** Join the Transfer Student Center staff to learn more about: • How to understand your transfer credit and how transfer credit will count towards degree requirements. • Orientation and registration: ...
+- **Tags:** Workshop / Seminar, Transfer Student Center, Transfer Students
+- **Source:** [U-M](http://events.umich.edu/event/142813)
+
+#### SACNAS 2025 Outreach: Preliminary Exam Practice Session (Danny Cruz)
+
+- **Time:** 4:00 PM - 6:30 PM
+- **Venue:** THSL 2901
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/132501)
+
+#### Maize & Blue Cupboard Volunteering: Multiple conference events and sessions: MBC Operating Hours
+
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** Maize and Blue Cupboard inside Betsy Barbour
+- **Description:** Come help us during normal operating hours; as well as, unload our weekly Food Gatherers deliveries and stock our shelves! If you are outside the U-M community, please reach out to maize.blue.cupbo...
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/102102)
+
+#### Virtual Dialectical Behavior Therapy (DBT) Group for Adults
+
+- **Time:** 5:00 PM - 6:30 PM
+- **Venue:** Off Campus Location
+- **Description:** Are you looking to gain better control of your thoughts and emotions? Our Psychological Clinic invites adults 18 and older to participate in our weekly Dialectical Behavior Therapy (DBT) group sess...
+- **Tags:** Well-being, anxiety, Depression, Graduate, Graduate and Professional Students
+- **Source:** [U-M](http://events.umich.edu/event/139870)
+
+#### Folk Song Jam Along
+
+- **Time:** 6:00 PM - 7:30 PM
+- **Venue:** Malletts Creek Branch: Program Room
+- **Description:** Public Event
+- **Tags:** Public Event
+- **Source:** [AADL](https://aadl.org/node/647027)
+
+#### Gwen Frostic Cross Stitch
+
+- **Time:** 6:00 PM - 7:30 PM
+- **Venue:** Downtown Library: 4th Floor Program Room
+- **Description:** Crafts
+- **Tags:** Crafts
+- **Source:** [AADL](https://aadl.org/node/662412)
+
+#### Masters of Hawaiian Music
+
+- **Time:** 8:00 PM - 11:00 PM
+- **Venue:** The Ark
+- **Address:** 316 S. Main, Ann Arbor, MI
+- **Description:** &lt;p&gt;Masters of Hawaiian Music features three of the most popular musicians from Maui’s renowned “Slack Key Show”, all from celebrated Hawaiian cultural lineages. 4-time Grammy winner, slack ke...
+- **Tags:** Live Music
+- **Source:** [The Ark](https://theark.org/event/masters-of-hawaiian-music-260303/)
+
+#### Masters of Hawaiian Music: With George Kahumoku Jr., Led Kaapana & Sonny Lim
+
+- **Time:** 8:00 PM
+- **Venue:** ARK Reserved
+- **Description:** From Maui’s renowned Slack Key Show Masters of Hawaiian Music features three of the most popular musicians from Maui’s renowned “Slack Key Show”, all from celebrated Hawaiian cultural lineages. 4-t...
+- **Tags:** Performance, Ark, Mutotix
+- **Source:** [U-M](http://events.umich.edu/event/142205)
 
 ---
