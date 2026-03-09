@@ -1,8 +1,8 @@
 # Archived Events -- Ann Arbor Area
 
-*Last updated: March 8, 2026 at 8:29 AM*
+*Last updated: March 9, 2026 at 8:42 AM*
 
-*2137 archived event(s)*
+*2180 archived event(s)*
 
 ---
 
@@ -17017,5 +17017,349 @@
 - **Description:** "…extraordinary songs, mesmerizing guitar playing, and a voice that goes effortlessly from bruise-tender to scar-hard in a matter of minutes… her lyrics are crafted and clever, full of subtlety and...
 - **Tags:** Performance, Ark, Mutotix
 - **Source:** [U-M](http://events.umich.edu/event/141466)
+
+### Sunday, March 8, 2026
+
+#### Afterall: A New Play by Cole Hunter Dzubak
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 02/28/2026 to 03/08/2026 - Adam and Raine are gearing up for the next stage of their relationship. All plans are derailed when Adam suffers a family tragedy, causing to revert back to the only copi...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/afterall%3a-a-new-play-by-cole-hunter-dzubak/22840/)
+
+#### Bike Repair Hours
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Duderstadt Fabrication Underground
+- **Description:** Does your bike need a tune-up? Need help fixing a flat or getting your gears to shift smoothly? Come to the FREE Wolverines on Wheels Bike Repair Hours on Wednesdays from 4-6p and Fridays from 3:30...
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145016)
+
+#### Creating the Future of Medicine for 175 Years
+
+- **Time:** All day
+- **Venue:** University of Michigan
+- **Description:** 12/13/2025 to 04/26/2026 - In honor of the 175th anniversary of the opening of the U-M Medical School, this exhibit features artifacts, photos, facts and documents from across the history of U-M me...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/creating-the-future-of-medicine-for-175-years/22360/)
+
+#### Cycling Race at IU
+
+- **Time:** 12:00 AM - 10:00 PM
+- **Venue:** IU
+- **Description:** Cycling Race at IU
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/141556)
+
+#### Feelin' Lucky Brunch
+
+- **Time:** All day
+- **Venue:** LGBTQ+
+- **Description:** 03/08/2026 to 03/08/2026 - Start your Sunday feeling lucky! They&apos;re coming in like a lioness and out like a rhinestoned lamb. With mimosas in hand and glitter on stage. Come enjoy Ann Arbor&#x...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/feelin-lucky-brunch/22898/)
+
+#### FULL SEMESTER SCHEDULE
+
+- **Time:** 12:00 AM - 11:59 PM
+- **Venue:** Mason Hall
+- **Description:** This is a schedule of all our events happening this semester. Please follow the instagram or email iazamora@umich.edu to get on the email list for more information.
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145222)
+
+#### Merrily We Roll Along!
+
+- **Time:** All day
+- **Venue:** Theaters and Performing Arts
+- **Description:** 03/05/2026 to 03/08/2026 - Sondheim&apos;s semi-autobiographical musical turns back the clock on friendship and the high price of success. Merrily We Roll Along begins in the present and moves back...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/merrily-we-roll-along!/23217/)
+
+#### Phil Ogilvie's Rhythm Kings
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 03/01/2026 to 03/22/2026 - 10-piece big band led by Chris Smith, specializing in hot jazz of the 1920s and 30s. Jelly Roll Morton, King Oliver, Duke Ellington and other jazz legends are prominent i...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/phil-ogilvies-rhythm-kings/23152/)
+
+#### Roohi and Nate Are Not on the Same Page with Supriya Kelkar
+
+- **Time:** All day
+- **Venue:** Books
+- **Description:** 03/08/2026 to 03/08/2026 - Join us in Ann Arbor for a celebration of Supriya Kelkar&#x2019;s newest novel, Roohi and Nate Are Not on the Same Page. This event will include an author discussion, dra...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/roohi-and-nate-are-not-on-the-same-page-with-supriya-kelkar/22628/)
+
+#### Shamrocks & Shenanigans 5K
+
+- **Time:** All day
+- **Venue:** Annual Events
+- **Description:** 03/08/2026 to 03/08/2026 - The 5K course will take you on a beautiful tour of downtown Ann Arbor! A fun and festive annual event that benefits Save A Heart, an organization that raises funds to ben...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/shamrocks-%26-shenanigans-5k/18238/)
+
+#### Spring Break
+
+- **Time:** 12:00 AM - 6:30 AM
+- **Venue:** Gainsville, Georgia
+- **Description:** Spring break training
+- **Tags:** Other
+- **Source:** [U-M](http://events.umich.edu/event/145661)
+
+#### State Basketball Championship - Boys
+
+- **Time:** All day
+- **Venue:** Sports
+- **Description:** 03/06/2026 to 03/08/2026 - Welcome to the State Basketball Championship! On the weekends of February 27, 28-March 1, 2026 and March 6-8, 2026, the top teams in the state will meet in Ann Arbor/Brig...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/state-basketball-championship-boys/22029/)
+
+#### Sunday Jazz at The Ravens Club
+
+- **Time:** All day
+- **Venue:** Concerts &amp; Music
+- **Description:** 02/01/2026 to 09/27/2026 - Sundays are made for Jazz! End every chaotic weekend with some drinks, food &amp; live jazz amongst friends. There's just no other way. See you tonight!
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/sunday-jazz-at-the-ravens-club/22852/)
+
+#### Sunday Yoga at Bløm Mead + Cider
+
+- **Time:** All day
+- **Venue:** Recreation
+- **Description:** Starting 06/05/2022 - Please visit the link to verify class times and instructors!Let go of that work week tension with a combo of bends and brews. Are you a master of the pretzel hold? Or does the...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/sunday-yoga-at-bl%c3%b8m-mead-%2b-cider/10746/)
+
+#### Tabletop Sundays
+
+- **Time:** All day
+- **Venue:** Miscellaneous
+- **Description:** 02/22/2026 to 03/22/2026 - Join us for an evening of tabletop games and craft cocktails! Bring a game, play a game, and enjoy Happy Hour specials as you participate!
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/tabletop-sundays/23043/)
+
+#### THE SPONGEBOB MUSICAL
+
+- **Time:** All day
+- **Venue:** Family Fun
+- **Description:** 03/06/2026 to 03/08/2026 - Plunge into this stunning stage show! When the citizens of Bikini Bottom discover that a volcano will soon erupt and destroy their humble home, SpongeBob and his friends ...
+- **Tags:** Community
+- **Source:** [Destination Ann Arbor](https://www.annarbor.org/event/the-spongebob-musical/22925/)
+
+#### CAS Exhibit. Making Armenian Americans - Project Save Photograph Archive/Archive Alive Project: 10th Floor Gallery, Weiser Hall from February 2 to April 30, 2026
+
+- **Time:** 8:00 AM - 4:00 PM
+- **Venue:** University of Michigan
+- **Description:** Making Armenian Americans Curators: Michael Pifer (U-M| MES) and Kathryn Babayan (U-M|History) Project Save Photograph Archive/Archive Alive Project Making Armenian Americans invites viewers into a...
+- **Tags:** Exhibition, Area Studies, Armenian Studies, history
+- **Source:** [U-M](http://events.umich.edu/event/143388)
+
+#### Materia Magica: Materiality and Ritual in the Greco-Roman World
+
+- **Time:** 9:00 AM - 8:00 PM
+- **Venue:** Hatcher Graduate Library
+- **Description:** View a diverse array of artifacts which were created to communicate with and call upon various unseen, supernatural forces for aid and protection. While the objects on display are disparate at firs...
+- **Tags:** Exhibition, Archaeology, Free, Library
+- **Source:** [U-M](http://events.umich.edu/event/142417)
+
+#### The Evolution of Campus, 1838-1963: A Cartographic Celebration of U-M's History
+
+- **Time:** 9:00 AM - 9:00 PM
+- **Venue:** Hatcher Graduate Library, Clark Library (2nd floor)
+- **Description:** Learn about the campus’ history and architecture and explore the campus that might have been. This exhibit highlights the U-M Ann Arbor campus, both before its creation and throughout its continuou...
+- **Tags:** Exhibition, Free, Library, Maps
+- **Source:** [U-M](http://events.umich.edu/event/138431)
+
+#### Mario Day (Observed)
+
+- **Time:** 11:00 AM - 4:00 PM
+- **Venue:** Downtown Library
+- **Description:** Public Event
+- **Tags:** Public Event, Preschool–Adult, Grade K–Adult
+- **Source:** [AADL](https://aadl.org/node/664569)
+
+#### Creating the Future of Medicine for 175 Years: A free museum exhibit about U-M medical history
+
+- **Time:** 12:00 PM - 4:00 PM
+- **Venue:** Off Campus Location
+- **Description:** As the Medical School celebrates the anniversary of its opening in the fall of 1850, and Michigan Medicine marks the 100th anniversary of the opening of the "Old Main" University Hospital that serv...
+- **Tags:** Exhibition, History, Life Science, Medicine, Museum
+- **Source:** [U-M](http://events.umich.edu/event/139428)
+
+#### Mario Day (Observed) | Bingo
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Downtown Library: 4th Floor Program Room
+- **Description:** Public Event
+- **Tags:** Public Event, Grade K–Adult
+- **Source:** [AADL](https://aadl.org/node/664570)
+
+#### Mario Day (Observed) | Crafts
+
+- **Time:** 12:00 PM - 3:00 PM
+- **Venue:** Downtown Library: Lower Level
+- **Description:** Crafts
+- **Tags:** Crafts, Preschool–Adult
+- **Source:** [AADL](https://aadl.org/node/664568)
+
+#### Men's Tennis vs Nebraska
+
+- **Time:** 12:00 PM - 1:00 AM
+- **Venue:** Varsity Tennis Bldg
+- **Description:** Men's Tennis vs Nebraska
+- **Tags:** Sporting Event, Athletics, Athletics - Men's Tennis
+- **Source:** [U-M](http://events.umich.edu/event/145509)
+
+#### Sea Monsters
+
+- **Time:** 12:00 PM - 1:00 PM
+- **Venue:** Museum of Natural History
+- **Description:** The film follows a curious and adventurous Dolichorhynchops – familiarly known as a ‘dolly’ – as she travels through the most dangerous oceans in history. Along the way, she encounters long-necked ...
+- **Tags:** Presentation, Museum, natural history museum, Natural Sciences, Planetarium
+- **Source:** [U-M](http://events.umich.edu/event/136442)
+
+#### Chesstastic
+
+- **Time:** 1:00 PM - 3:00 PM
+- **Venue:** Traverwood Branch: Program Room
+- **Description:** Public Event
+- **Tags:** Public Event, Grade K–Adult
+- **Source:** [AADL](https://aadl.org/node/646921)
+
+#### Women's Lacrosse vs Colorado
+
+- **Time:** 1:00 PM - 1:00 AM
+- **Venue:** U-M Lacrosse Stadium
+- **Description:** Women's Lacrosse vs Colorado
+- **Tags:** Sporting Event, Athletics, Athletics - Women's Lacrosse
+- **Source:** [U-M](http://events.umich.edu/event/145510)
+
+#### Wonder Walk: Signs of Spring: Free guided walk at Matthaei Botanical Gardens
+
+- **Time:** 1:00 PM - 2:00 PM
+- **Venue:** Matthaei Botanical Gardens
+- **Description:** Something new is blowing in! Join us on Sunday, March 8th, for a Wonder Walk ushering in the beginnings of Spring. Spring is a time of change: the weather is warming, winds are picking up, and buds...
+- **Tags:** Other, Free, Nature Rx, Outdoors, Sustainability
+- **Source:** [U-M](http://events.umich.edu/event/145302)
+
+#### Beginner Friendly Brazilian Jiu-Jitsu Training
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** Ann Arbor BJJ
+- **Description:** Our weekly beginner-friendly sessions are designed for students who are new to Brazilian Jiu-Jitsu or looking for a structured, low-pressure environment to build strong fundamentals. Each session f...
+- **Tags:** Exercise / Fitness
+- **Source:** [U-M](http://events.umich.edu/event/144486)
+
+#### Sunday Drop-In Tour | Money in the Ancient World: Bill Kryska, Docent
+
+- **Time:** 2:00 PM - 3:00 PM
+- **Venue:** Kelsey Museum of Archaeology
+- **Description:** In this drop-in tour, docent Bill Kryska will provide visitors with a wealth of knowledge about money in the ancient world. The Kelsey Museum collection includes more than 40,000 coins. These tiny ...
+- **Tags:** Tours, Archaeology, Free, History, Mediterranean
+- **Source:** [U-M](http://events.umich.edu/event/145520)
+
+#### T.REX
+
+- **Time:** 2:00 PM - 2:45 PM
+- **Venue:** Museum of Natural History
+- **Description:** With stunning CGI visuals and the latest research from leading paleontologists, the film offers audiences a fresh perspective on the GOAT (Greatest Of All Tyrants): Tyrannosaurus rex. Anchored by t...
+- **Tags:** Film Screening, Museum, natural history museum, Planetarium
+- **Source:** [U-M](http://events.umich.edu/event/136347)
+
+#### Visit the Arb with the ADHD Student Group
+
+- **Time:** 2:00 PM - 3:30 PM
+- **Venue:** Nichols Arboretum
+- **Description:** When: Sunday, March 8th, 2pm Where: Nichols Arboretum 1610 Washington Heights, Ann Arbor, MI 48104 What: Join the ADHD Student Group at the Nichols Arboretum for a casual walk! We will meet by the ...
+- **Tags:** Social / Informal Gathering
+- **Source:** [U-M](http://events.umich.edu/event/146202)
+
+#### Mario Day (Observed) | Screening: The Super Mario Bros. Movie (2023)
+
+- **Time:** 2:30 PM - 4:00 PM
+- **Venue:** Downtown Library: 4th Floor Program Room
+- **Description:** Film & Video Events
+- **Tags:** Film & Video Events
+- **Source:** [AADL](https://aadl.org/node/664572)
+
+#### Sky Tonight
+
+- **Time:** 3:00 PM - 3:45 PM
+- **Venue:** Museum of Natural History
+- **Description:** A live presentation on what to find in the sky tonight and for the coming few weeks. This presentation includes how to find the cardinal directions with the North Star, current and upcoming constel...
+- **Tags:** Exhibition, Astronomy, Children, Family, Museum
+- **Source:** [U-M](http://events.umich.edu/event/141325)
+
+#### Medication Take-Back Challenge: U-M vs Michigan State: 150 Acts of Service
+
+- **Time:** 3:30 PM - 5:00 PM
+- **Venue:** Crisler Arena
+- **Description:** Medication Take Back Matchup. Who Will Safely Dispose of More: the Wolverines or the Spartans? Wolverines and Spartans are encouraged to dispose of medications safely with this Medication Take-Back...
+- **Tags:** Community Service, Health & Wellness, Medicine, Pharmacy, Well-being
+- **Source:** [U-M](http://events.umich.edu/event/144051)
+
+#### HENDERSON HOUSE 2025-2026: Multiple conference events and sessions: Henderson House Weekly Sunday Night Meetings
+
+- **Time:** 4:00 PM - 5:00 PM
+- **Venue:** Henderson House Dining Room
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135667)
+
+#### Men's Basketball vs Michigan State
+
+- **Time:** 4:30 PM - 1:00 AM
+- **Venue:** Crisler Arena
+- **Description:** Men's Basketball vs Michigan State
+- **Tags:** Sporting Event, Athletics, Athletics - Men's Basketball
+- **Source:** [U-M](http://events.umich.edu/event/145511)
+
+#### Gadites Meeting
+
+- **Time:** 6:00 PM - 8:00 PM
+- **Venue:** East Quadrangle, 1405
+- **Description:** Matthew 5:6 KJV Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Let's pray and come with hunger and thirst, because the Lord is prepared to feed us again ...
+- **Tags:** Well-being, Religious, Undergraduate
+- **Source:** [U-M](http://events.umich.edu/event/144605)
+
+#### RC Drama Staged Reading Series: Hosted by the RC Drama Program
+
+- **Time:** 7:00 PM - 8:30 PM
+- **Venue:** East Quadrangle, Keene Theater
+- **Description:** See below for a list of upcoming staged readings at the Keene Theater! Sunday Feb 8 - 7pm The RC Drama Staged Reading series returns on February 8th at 7pm in the Keene theater with the recent Broa...
+- **Tags:** Performance, All Majors Welcome, Alumni, american culture, Ann Arbor
+- **Source:** [U-M](http://events.umich.edu/event/144626)
+
+#### An Evening With Alejandro Escovedo
+
+- **Time:** 7:30 PM - 11:00 PM
+- **Venue:** The Ark
+- **Address:** 316 S. Main, Ann Arbor, MI
+- **Description:** &lt;p&gt;&lt;strong&gt;Due to illness, Alejandro Escovedo has had to postpone this leg of his tour. We are working on rescheduling this show to another date. Tickets will be valid for the new date....
+- **Tags:** Live Music
+- **Source:** [The Ark](https://theark.org/event/an-evening-with-alejandro-escovedo/)
+
+#### An Evening With Alejandro Escovedo: Presented by The Ark
+
+- **Time:** 7:30 PM
+- **Venue:** ARK Reserved + Gold Circle
+- **Description:** New music! Alejandro Escovedo's New Album ECHO DANCING is an Adventure in Life. No one has really ever been able to define themselves and their music like singer-songwriter Alejandro Escovedo does....
+- **Tags:** Performance, Ark, Mutotix
+- **Source:** [U-M](http://events.umich.edu/event/143882)
+
+#### NORTH QUAD 2025-2026: Multiple conference events and sessions: Listening Party: Harry Styles New Album
+
+- **Time:** 8:00 PM - 9:00 PM
+- **Venue:** NQ 9100 Lounge
+- **Tags:** Conference / Symposium, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135674)
+
+#### OXFORD HOUSES 2025-2026: RA Hosted Events: Ultimate Trivia Showdown
+
+- **Time:** 8:00 PM - 9:30 PM
+- **Venue:** Noble Lounge
+- **Tags:** Workshop / Seminar, Sessions
+- **Source:** [U-M](http://events.umich.edu/event/135676)
 
 ---
